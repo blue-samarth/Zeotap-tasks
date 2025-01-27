@@ -1,0 +1,1001 @@
+TransactionID,CustomerID,ProductID,TransactionDate,Quantity,TotalValue,Price,TransactionDay,TransactionTime,TransactionMonth,Transaction_TimePeriod,ProductName,Category,CustomerName,Region,SignupDate,AvgTransactionValue,DaysSinceLastTransaction,UniqueProductsPurchased,FavProduct,FavCategory,MostActiveTransactionDay,PeakTransactionTime
+T00001,C0199,P067,2024-08-25,1,300.68,300.68,Sunday,12:38:23,August,Afternoon,ComfortLiving Bluetooth Speaker,Electronics,Andrea Jenkins,Europe,2022-12-03,494.82,93.0,4.0,P008,Electronics,Saturday,Afternoon
+T00112,C0146,P067,2024-05-27,1,300.68,300.68,Monday,22:23:54,May,Evening,ComfortLiving Bluetooth Speaker,Electronics,Brittany Harvey,Asia,2024-09-04,642.7,40.0,4.0,P029,Electronics,Friday,Evening
+T00166,C0127,P067,2024-04-25,1,300.68,300.68,Thursday,07:38:55,April,Morning,ComfortLiving Bluetooth Speaker,Electronics,Kathryn Stevens,Europe,2024-04-04,538.8133333333334,129.0,6.0,P028,Electronics,Thursday,Morning
+T00272,C0087,P067,2024-03-26,2,601.36,300.68,Tuesday,22:55:37,March,Evening,ComfortLiving Bluetooth Speaker,Electronics,Travis Campbell,South America,2024-04-11,943.4614285714285,136.0,7.0,P029,Books,Monday,Evening
+T00363,C0070,P067,2024-03-21,3,902.04,300.68,Thursday,15:10:10,March,Afternoon,ComfortLiving Bluetooth Speaker,Electronics,Timothy Perez,Europe,2022-03-15,781.3725,112.0,4.0,P049,Books,Thursday,Afternoon
+T00442,C0188,P067,2024-12-26,1,300.68,300.68,Thursday,14:40:03,December,Afternoon,ComfortLiving Bluetooth Speaker,Electronics,Anna Ball,South America,2022-05-17,888.9150000000001,32.0,7.0,P057,Electronics,Friday,Morning
+T00490,C0195,P067,2024-11-24,3,902.04,300.68,Sunday,11:49:48,November,Morning,ComfortLiving Bluetooth Speaker,Electronics,Jeremy Mclaughlin,South America,2024-09-17,672.7116666666667,64.0,6.0,P028,Home Decor,Tuesday,Evening
+T00536,C0008,P067,2024-09-22,1,300.68,300.68,Sunday,06:13:59,September,Morning,ComfortLiving Bluetooth Speaker,Electronics,David Li,North America,2024-01-13,427.16099999999994,41.0,10.0,P004,Home Decor,Monday,Evening
+T00564,C0157,P067,2024-12-07,3,902.04,300.68,Saturday,17:57:40,December,Evening,ComfortLiving Bluetooth Speaker,Electronics,Miguel Wong,North America,2024-01-30,375.21999999999997,51.0,5.0,P013,Electronics,Saturday,Afternoon
+T00631,C0130,P067,2024-05-14,2,601.36,300.68,Tuesday,23:14:59,May,Evening,ComfortLiving Bluetooth Speaker,Electronics,Robert Jones,South America,2023-04-19,601.36,258.0,1.0,P067,Electronics,Tuesday,Evening
+T00727,C0051,P067,2024-01-20,3,902.04,300.68,Saturday,04:52:14,January,Evening,ComfortLiving Bluetooth Speaker,Electronics,Nicholas Ellis,Europe,2023-12-21,814.2242857142857,42.0,7.0,P006,Electronics,Saturday,Evening
+T00729,C0075,P067,2024-10-07,2,601.36,300.68,Monday,06:38:36,October,Morning,ComfortLiving Bluetooth Speaker,Electronics,Misty Higgins,Europe,2023-05-01,649.8855555555556,48.0,9.0,P013,Books,Friday,Evening
+T00797,C0155,P067,2024-10-04,2,601.36,300.68,Friday,20:42:53,October,Evening,ComfortLiving Bluetooth Speaker,Electronics,Michelle Brown,South America,2023-03-23,768.2614285714286,77.0,7.0,P026,Books,Wednesday,Evening
+T00002,C0092,P034,2024-12-16,2,434.1,217.05,Monday,03:31:07,December,Evening,HomeSense T-Shirt,Clothing,Jacqueline Zamora,Asia,2024-05-29,753.9875,42.0,3.0,P036,Clothing,Monday,Evening
+T00063,C0088,P034,2024-06-19,2,434.1,217.05,Wednesday,07:16:55,June,Morning,HomeSense T-Shirt,Clothing,Carlos Murray,Asia,2023-05-14,427.076,43.0,5.0,P010,Clothing,Sunday,Evening
+T00093,C0109,P034,2024-08-11,4,868.2,217.05,Sunday,04:10:13,August,Evening,HomeSense T-Shirt,Clothing,Abigail Jones,North America,2022-05-09,498.84090909090907,81.0,10.0,P100,Clothing,Saturday,Evening
+T00127,C0041,P034,2024-06-03,4,868.2,217.05,Monday,21:07:56,June,Evening,HomeSense T-Shirt,Clothing,Lindsey Deleon,Europe,2023-12-27,878.54,43.0,7.0,P011,Books,Sunday,Evening
+T00270,C0101,P034,2024-11-07,3,651.15,217.05,Thursday,02:48:08,November,Evening,HomeSense T-Shirt,Clothing,Kelsey Roberts,Asia,2023-09-30,693.87375,30.0,7.0,P015,Books,Saturday,Evening
+T00358,C0154,P034,2024-04-08,1,217.05,217.05,Monday,20:47:01,April,Evening,HomeSense T-Shirt,Clothing,Robert Sharp,North America,2024-10-27,617.2683333333333,130.0,6.0,P008,Electronics,Monday,Afternoon
+T00518,C0200,P034,2024-12-11,4,868.2,217.05,Wednesday,03:05:50,December,Evening,HomeSense T-Shirt,Clothing,Kelly Cross,Asia,2023-06-11,951.72,47.0,5.0,P034,Clothing,Monday,Evening
+T00546,C0049,P034,2024-08-30,1,217.05,217.05,Friday,06:42:27,August,Morning,HomeSense T-Shirt,Clothing,Jason Yates,North America,2024-09-18,289.435,150.0,8.0,P027,Clothing,Monday,Evening
+T00982,C0103,P034,2024-07-17,1,217.05,217.05,Wednesday,03:25:18,July,Evening,HomeSense T-Shirt,Clothing,Jennifer Munoz,Europe,2022-05-15,492.50999999999993,119.0,5.0,P006,Clothing,Monday,Evening
+T00003,C0028,P057,2024-01-25,4,958.8,239.7,Thursday,14:28:34,January,Afternoon,ActiveWear Smartphone,Electronics,Jennifer Pena,Asia,2024-06-29,852.44625,33.0,6.0,P057,Electronics,Thursday,Afternoon
+T00013,C0183,P057,2024-03-04,4,958.8,239.7,Monday,22:09:57,March,Evening,ActiveWear Smartphone,Electronics,Kimberly Johnson,North America,2024-01-23,770.0440000000001,75.0,5.0,P052,Clothing,Monday,Afternoon
+T00017,C0087,P057,2024-05-09,4,958.8,239.7,Thursday,03:52:43,May,Evening,ActiveWear Smartphone,Electronics,Travis Campbell,South America,2024-04-11,943.4614285714285,136.0,7.0,P029,Books,Monday,Evening
+T00046,C0190,P057,2024-07-28,4,958.8,239.7,Sunday,06:29:59,July,Morning,ActiveWear Smartphone,Electronics,Alexander Lowe,South America,2024-05-31,596.604,42.0,5.0,P016,Electronics,Saturday,Morning
+T00091,C0200,P057,2024-04-27,1,239.7,239.7,Saturday,19:06:20,April,Evening,ActiveWear Smartphone,Electronics,Kelly Cross,Asia,2023-06-11,951.72,47.0,5.0,P034,Clothing,Monday,Evening
+T00161,C0055,P057,2024-07-15,2,479.4,239.7,Monday,07:02:39,July,Morning,ActiveWear Smartphone,Electronics,Lauren Williams,North America,2024-11-11,571.5360000000001,118.0,5.0,P025,Electronics,Tuesday,Morning
+T00184,C0188,P057,2024-05-13,2,479.4,239.7,Monday,07:24:49,May,Morning,ActiveWear Smartphone,Electronics,Anna Ball,South America,2022-05-17,888.9150000000001,32.0,7.0,P057,Electronics,Friday,Morning
+T00218,C0148,P057,2024-01-17,3,719.1,239.7,Wednesday,19:40:55,January,Evening,ActiveWear Smartphone,Electronics,Matthew Rogers,South America,2023-04-16,1091.558,117.0,5.0,P011,Electronics,Tuesday,Evening
+T00417,C0035,P057,2024-04-20,3,719.1,239.7,Saturday,22:54:54,April,Evening,ActiveWear Smartphone,Electronics,Brianna Richardson,North America,2024-10-01,646.9025,119.0,4.0,P013,Electronics,Monday,Evening
+T00492,C0120,P057,2024-08-08,3,719.1,239.7,Thursday,05:40:02,August,Morning,ActiveWear Smartphone,Electronics,Francisco Diaz,South America,2023-01-13,823.34,172.0,3.0,P029,Electronics,Monday,Morning
+T00605,C0017,P057,2023-12-31,4,958.8,239.7,Sunday,03:27:43,December,Evening,ActiveWear Smartphone,Electronics,Jennifer King,Europe,2023-12-05,594.2275,57.0,8.0,P001,Books,Sunday,Evening
+T00615,C0145,P057,2024-07-14,2,479.4,239.7,Sunday,07:45:15,July,Morning,ActiveWear Smartphone,Electronics,Wayne Stone,Asia,2023-01-13,721.40875,62.0,7.0,P080,Clothing,Monday,Morning
+T00619,C0028,P057,2024-12-25,2,479.4,239.7,Wednesday,09:53:39,December,Morning,ActiveWear Smartphone,Electronics,Jennifer Pena,Asia,2024-06-29,852.44625,33.0,6.0,P057,Electronics,Thursday,Afternoon
+T00703,C0092,P057,2024-02-04,3,719.1,239.7,Sunday,00:31:54,February,Evening,ActiveWear Smartphone,Electronics,Jacqueline Zamora,Asia,2024-05-29,753.9875,42.0,3.0,P036,Clothing,Monday,Evening
+T00962,C0188,P057,2024-11-29,2,479.4,239.7,Friday,19:49:24,November,Evening,ActiveWear Smartphone,Electronics,Anna Ball,South America,2022-05-17,888.9150000000001,32.0,7.0,P057,Electronics,Friday,Morning
+T00004,C0004,P049,2024-07-19,4,591.8,147.95,Friday,10:56:13,July,Morning,TechPro Textbook,Books,Kathleen Rodriguez,South America,2022-10-09,669.36,35.0,8.0,P008,Books,Monday,Morning
+T00105,C0087,P049,2024-02-12,3,443.85,147.95,Monday,08:14:34,February,Morning,TechPro Textbook,Books,Travis Campbell,South America,2024-04-11,943.4614285714285,136.0,7.0,P029,Books,Monday,Evening
+T00136,C0010,P049,2024-02-22,2,295.9,147.95,Thursday,18:44:05,February,Evening,TechPro Textbook,Books,Aaron Cox,Europe,2022-12-15,429.38750000000005,72.0,4.0,P014,Clothing,Friday,Evening
+T00237,C0065,P049,2024-02-27,2,295.9,147.95,Tuesday,22:16:22,February,Evening,TechPro Textbook,Books,Gerald Hines,North America,2024-07-10,766.37,45.0,10.0,P022,Home Decor,Monday,Evening
+T00239,C0132,P049,2024-12-06,2,295.9,147.95,Friday,19:03:54,December,Evening,TechPro Textbook,Books,Lisa Jackson,Europe,2023-02-01,617.0866666666666,52.0,2.0,P049,Books,Sunday,Afternoon
+T00310,C0068,P049,2024-05-18,2,295.9,147.95,Saturday,05:03:08,May,Morning,TechPro Textbook,Books,Mark Cox,North America,2023-04-04,743.8025,34.0,8.0,P002,Electronics,Tuesday,Evening
+T00470,C0123,P049,2024-11-13,1,147.95,147.95,Wednesday,17:36:31,November,Evening,TechPro Textbook,Books,Jason Johnston,Asia,2023-11-05,700.03,75.0,2.0,P049,Books,Friday,Evening
+T00551,C0018,P049,2024-02-23,3,443.85,147.95,Friday,13:28:08,February,Afternoon,TechPro Textbook,Books,Tyler Haynes,North America,2024-09-21,956.3700000000001,177.0,5.0,P027,Books,Friday,Evening
+T00563,C0064,P049,2024-01-16,1,147.95,147.95,Tuesday,18:52:43,January,Evening,TechPro Textbook,Books,Martha Montgomery,Europe,2023-10-22,807.954,52.0,5.0,P018,Books,Tuesday,Afternoon
+T00567,C0121,P049,2024-09-27,2,295.9,147.95,Friday,23:40:32,September,Evening,TechPro Textbook,Books,Mark Atkinson,Europe,2023-07-23,243.63,122.0,4.0,P022,Books,Friday,Evening
+T00620,C0041,P049,2024-01-05,4,591.8,147.95,Friday,18:43:06,January,Evening,TechPro Textbook,Books,Lindsey Deleon,Europe,2023-12-27,878.54,43.0,7.0,P011,Books,Sunday,Evening
+T00650,C0070,P049,2024-10-07,4,591.8,147.95,Monday,14:56:13,October,Afternoon,TechPro Textbook,Books,Timothy Perez,Europe,2022-03-15,781.3725,112.0,4.0,P049,Books,Thursday,Afternoon
+T00818,C0161,P049,2024-01-01,1,147.95,147.95,Monday,03:54:19,January,Evening,TechPro Textbook,Books,Jessica Warren,Asia,2022-03-14,392.72875,165.0,8.0,P007,Books,Monday,Evening
+T00923,C0173,P049,2024-07-19,1,147.95,147.95,Friday,10:31:02,July,Morning,TechPro Textbook,Books,Francisco Young,Asia,2022-10-06,726.005,148.0,8.0,P004,Books,Friday,Afternoon
+T00970,C0132,P049,2024-11-17,4,591.8,147.95,Sunday,06:14:00,November,Morning,TechPro Textbook,Books,Lisa Jackson,Europe,2023-02-01,617.0866666666666,52.0,2.0,P049,Books,Sunday,Afternoon
+T00005,C0150,P087,2024-05-25,2,580.34,290.17,Saturday,17:44:48,May,Evening,TechPro Running Shoes,Clothing,Angela Williams,South America,2022-09-13,580.34,247.0,1.0,P087,Clothing,Saturday,Evening
+T00037,C0176,P087,2024-03-09,4,1160.68,290.17,Saturday,04:58:40,March,Evening,TechPro Running Shoes,Clothing,Nicole Booth,North America,2022-03-23,777.1066666666667,204.0,3.0,P071,Clothing,Friday,Evening
+T00206,C0167,P087,2024-05-05,2,580.34,290.17,Sunday,05:32:27,May,Morning,TechPro Running Shoes,Clothing,Brandy Welch,Europe,2024-01-27,766.8066666666667,118.0,3.0,P048,Books,Sunday,Afternoon
+T00208,C0184,P087,2024-08-14,1,290.17,290.17,Wednesday,02:02:56,August,Evening,TechPro Running Shoes,Clothing,Tina Jacobs,South America,2022-05-13,484.74000000000007,141.0,6.0,P087,Electronics,Sunday,Afternoon
+T00485,C0184,P087,2024-05-13,1,290.17,290.17,Monday,14:33:44,May,Afternoon,TechPro Running Shoes,Clothing,Tina Jacobs,South America,2022-05-13,484.74000000000007,141.0,6.0,P087,Electronics,Sunday,Afternoon
+T00488,C0034,P087,2024-10-21,2,580.34,290.17,Monday,12:47:53,October,Afternoon,TechPro Running Shoes,Clothing,Dalton Perez,North America,2023-09-27,512.2,96.0,6.0,P014,Clothing,Wednesday,Evening
+T00497,C0053,P087,2024-06-21,4,1160.68,290.17,Friday,02:02:45,June,Evening,TechPro Running Shoes,Clothing,Albert Burke,Europe,2022-06-18,886.0766666666667,87.0,6.0,P006,Clothing,Friday,Evening
+T00684,C0102,P087,2024-07-17,1,290.17,290.17,Wednesday,07:26:30,July,Morning,TechPro Running Shoes,Clothing,Michael Atkinson,South America,2022-09-16,766.5450000000001,148.0,7.0,P058,Electronics,Friday,Evening
+T00846,C0134,P087,2024-11-10,4,1160.68,290.17,Sunday,10:56:19,November,Morning,TechPro Running Shoes,Clothing,Theresa Gonzalez,Asia,2022-02-19,535.856,48.0,5.0,P006,Clothing,Sunday,Morning
+T00875,C0086,P087,2024-09-26,2,580.34,290.17,Thursday,23:20:59,September,Evening,TechPro Running Shoes,Clothing,Stephanie Peterson,Europe,2022-09-18,550.9359999999999,32.0,5.0,P010,Home Decor,Thursday,Evening
+T00880,C0036,P087,2024-11-02,3,870.51,290.17,Saturday,12:20:39,November,Afternoon,TechPro Running Shoes,Clothing,Brian Aguilar DDS,North America,2024-07-06,625.9866666666667,86.0,3.0,P001,Books,Saturday,Afternoon
+T00953,C0056,P087,2024-03-07,2,580.34,290.17,Thursday,21:09:48,March,Evening,TechPro Running Shoes,Clothing,Erika Fernandez,Asia,2024-04-12,636.588,33.0,5.0,P024,Clothing,Wednesday,Evening
+T00006,C0076,P053,2024-12-01,3,824.82,274.94,Sunday,20:44:37,December,Evening,TechPro Rug,Home Decor,Emily Roberts,South America,2024-02-11,466.61199999999997,57.0,5.0,P019,Home Decor,Wednesday,Evening
+T00010,C0194,P053,2024-03-14,1,274.94,274.94,Thursday,11:55:39,March,Morning,TechPro Rug,Home Decor,Stacy Cook,North America,2024-05-04,552.7385714285714,97.0,7.0,P005,Books,Sunday,Evening
+T00175,C0146,P053,2024-12-18,3,824.82,274.94,Wednesday,18:28:33,December,Evening,TechPro Rug,Home Decor,Brittany Harvey,Asia,2024-09-04,642.7,40.0,4.0,P029,Electronics,Friday,Evening
+T00269,C0124,P053,2024-02-06,4,1099.76,274.94,Tuesday,16:22:41,February,Afternoon,TechPro Rug,Home Decor,Lindsay Perez,Europe,2024-08-26,609.1899999999999,112.0,7.0,P006,Home Decor,Saturday,Afternoon
+T00293,C0053,P053,2024-07-11,3,824.82,274.94,Thursday,15:32:56,July,Afternoon,TechPro Rug,Home Decor,Albert Burke,Europe,2022-06-18,886.0766666666667,87.0,6.0,P006,Clothing,Friday,Evening
+T00568,C0065,P053,2024-09-18,1,274.94,274.94,Wednesday,05:00:38,September,Morning,TechPro Rug,Home Decor,Gerald Hines,North America,2024-07-10,766.37,45.0,10.0,P022,Home Decor,Monday,Evening
+T00602,C0024,P053,2024-04-26,1,274.94,274.94,Friday,11:26:53,April,Morning,TechPro Rug,Home Decor,Michele Cooley,North America,2024-02-05,518.1457142857142,125.0,7.0,P001,Books,Sunday,Evening
+T00744,C0004,P053,2024-03-11,4,1099.76,274.94,Monday,09:25:22,March,Morning,TechPro Rug,Home Decor,Kathleen Rodriguez,South America,2022-10-09,669.36,35.0,8.0,P008,Books,Monday,Morning
+T00952,C0139,P053,2024-10-06,1,274.94,274.94,Sunday,06:02:45,October,Morning,TechPro Rug,Home Decor,Ricky Gutierrez,North America,2022-03-14,462.955,113.0,8.0,P006,Books,Wednesday,Morning
+T00968,C0133,P053,2024-12-05,4,1099.76,274.94,Thursday,17:47:19,December,Evening,TechPro Rug,Home Decor,Gwendolyn Carter,South America,2023-03-11,721.0825,53.0,4.0,P023,Clothing,Thursday,Evening
+T00007,C0173,P023,2024-05-06,4,1818.12,454.53,Monday,18:05:22,May,Evening,ActiveWear Cookware Set,Home Decor,Francisco Young,Asia,2022-10-06,726.005,148.0,8.0,P004,Books,Friday,Afternoon
+T00089,C0076,P023,2024-06-19,1,454.53,454.53,Wednesday,23:01:44,June,Evening,ActiveWear Cookware Set,Home Decor,Emily Roberts,South America,2024-02-11,466.61199999999997,57.0,5.0,P019,Home Decor,Wednesday,Evening
+T00158,C0012,P023,2024-05-30,2,909.06,454.53,Thursday,03:34:49,May,Evening,ActiveWear Cookware Set,Home Decor,Kevin May,South America,2024-08-07,747.3228571428571,33.0,6.0,P023,Home Decor,Sunday,Evening
+T00349,C0184,P023,2024-04-18,1,454.53,454.53,Thursday,14:56:50,April,Afternoon,ActiveWear Cookware Set,Home Decor,Tina Jacobs,South America,2022-05-13,484.74000000000007,141.0,6.0,P087,Electronics,Sunday,Afternoon
+T00455,C0128,P023,2024-01-08,1,454.53,454.53,Monday,16:14:35,January,Afternoon,ActiveWear Cookware Set,Home Decor,Henry Leach,Asia,2023-05-29,386.595,246.0,2.0,P023,Home Decor,Monday,Afternoon
+T00501,C0158,P023,2024-09-04,3,1363.59,454.53,Wednesday,16:19:42,September,Afternoon,ActiveWear Cookware Set,Home Decor,Wendy Browning,South America,2023-04-12,929.13,137.0,4.0,P021,Home Decor,Thursday,Afternoon
+T00721,C0012,P023,2024-12-08,3,1363.59,454.53,Sunday,09:46:41,December,Morning,ActiveWear Cookware Set,Home Decor,Kevin May,South America,2024-08-07,747.3228571428571,33.0,6.0,P023,Home Decor,Sunday,Evening
+T00749,C0133,P023,2024-06-20,2,909.06,454.53,Thursday,19:04:58,June,Evening,ActiveWear Cookware Set,Home Decor,Gwendolyn Carter,South America,2023-03-11,721.0825,53.0,4.0,P023,Clothing,Thursday,Evening
+T00997,C0164,P023,2024-11-01,4,1818.12,454.53,Friday,23:04:56,November,Evening,ActiveWear Cookware Set,Home Decor,Morgan Perez,Europe,2023-06-01,617.538,87.0,5.0,P004,Home Decor,Sunday,Afternoon
+T00008,C0067,P069,2024-10-17,1,100.81,100.81,Thursday,00:45:17,October,Evening,BookWorld Biography,Books,Carl Gonzalez,North America,2023-07-06,681.8066666666667,102.0,6.0,P002,Clothing,Thursday,Evening
+T00035,C0142,P069,2024-08-20,2,201.62,100.81,Tuesday,15:26:04,August,Afternoon,BookWorld Biography,Books,Nicole Long DVM,Asia,2024-02-08,559.76,34.0,4.0,P040,Books,Tuesday,Afternoon
+T00140,C0121,P069,2024-03-18,2,201.62,100.81,Monday,09:16:33,March,Morning,BookWorld Biography,Books,Mark Atkinson,Europe,2023-07-23,243.63,122.0,4.0,P022,Books,Friday,Evening
+T00187,C0032,P069,2024-02-24,1,100.81,100.81,Saturday,09:30:35,February,Morning,BookWorld Biography,Books,Dustin Campbell,South America,2024-04-17,224.33333333333334,61.0,3.0,P033,Books,Friday,Morning
+T00194,C0063,P069,2024-09-28,1,100.81,100.81,Saturday,06:07:52,September,Morning,BookWorld Biography,Books,Wayne Ferguson,Europe,2024-02-05,689.0849999999999,121.0,2.0,P069,Books,Monday,Afternoon
+T00228,C0113,P069,2024-04-21,2,201.62,100.81,Sunday,19:52:01,April,Evening,BookWorld Biography,Books,Joseph Ortiz Jr.,South America,2022-06-17,601.5125,61.0,7.0,P078,Home Decor,Sunday,Evening
+T00232,C0136,P069,2024-11-10,3,302.43,100.81,Sunday,22:04:36,November,Evening,BookWorld Biography,Books,Kristen Holder,Asia,2024-03-14,716.4983333333333,78.0,6.0,P011,Home Decor,Tuesday,Evening
+T00355,C0017,P069,2024-01-12,2,201.62,100.81,Friday,20:20:37,January,Evening,BookWorld Biography,Books,Jennifer King,Europe,2023-12-05,594.2275,57.0,8.0,P001,Books,Sunday,Evening
+T00448,C0194,P069,2024-10-22,2,201.62,100.81,Tuesday,08:13:50,October,Morning,BookWorld Biography,Books,Stacy Cook,North America,2024-05-04,552.7385714285714,97.0,7.0,P005,Books,Sunday,Evening
+T00561,C0172,P069,2024-05-14,1,100.81,100.81,Tuesday,14:21:56,May,Afternoon,BookWorld Biography,Books,Jamie Webb,Europe,2024-09-09,366.95,67.0,6.0,P003,Home Decor,Tuesday,Afternoon
+T00828,C0068,P069,2024-06-04,4,403.24,100.81,Tuesday,21:07:05,June,Evening,BookWorld Biography,Books,Mark Cox,North America,2023-04-04,743.8025,34.0,8.0,P002,Electronics,Tuesday,Evening
+T00852,C0125,P069,2024-08-24,3,302.43,100.81,Saturday,09:50:55,August,Morning,BookWorld Biography,Books,Nicholas Taylor,North America,2022-12-18,743.49,156.0,4.0,P010,Books,Tuesday,Evening
+T00009,C0086,P095,2024-04-06,4,909.04,227.26,Saturday,03:41:22,April,Evening,BookWorld Cookware Set,Home Decor,Stephanie Peterson,Europe,2022-09-18,550.9359999999999,32.0,5.0,P010,Home Decor,Thursday,Evening
+T00155,C0002,P095,2024-07-12,2,454.52,227.26,Friday,10:18:13,July,Morning,BookWorld Cookware Set,Home Decor,Elizabeth Lutz,Asia,2022-02-13,465.685,55.0,4.0,P004,Clothing,Tuesday,Evening
+T00644,C0008,P095,2024-06-13,1,227.26,227.26,Thursday,09:13:19,June,Morning,BookWorld Cookware Set,Home Decor,David Li,North America,2024-01-13,427.16099999999994,41.0,10.0,P004,Home Decor,Monday,Evening
+T00685,C0017,P095,2024-05-11,2,454.52,227.26,Saturday,17:59:31,May,Evening,BookWorld Cookware Set,Home Decor,Jennifer King,Europe,2023-12-05,594.2275,57.0,8.0,P001,Books,Sunday,Evening
+T00800,C0122,P095,2024-08-25,3,681.78,227.26,Sunday,16:04:54,August,Afternoon,BookWorld Cookware Set,Home Decor,Corey Ruiz,North America,2022-05-06,724.65,41.0,7.0,P010,Books,Tuesday,Evening
+T00961,C0109,P095,2024-11-02,3,681.78,227.26,Saturday,01:55:05,November,Evening,BookWorld Cookware Set,Home Decor,Abigail Jones,North America,2022-05-09,498.84090909090907,81.0,10.0,P100,Clothing,Saturday,Evening
+T00965,C0071,P095,2024-08-23,4,909.04,227.26,Friday,15:53:27,August,Afternoon,BookWorld Cookware Set,Home Decor,Taylor Murphy,South America,2022-07-01,466.9433333333333,157.0,3.0,P001,Books,Friday,Afternoon
+T00011,C0162,P062,2024-04-03,1,374.16,374.16,Wednesday,03:46:50,April,Evening,HomeSense Novel,Books,Edwin Watson,Asia,2022-03-29,600.28,71.0,8.0,P009,Electronics,Monday,Evening
+T00041,C0141,P062,2024-02-13,4,1496.64,374.16,Tuesday,23:56:36,February,Evening,HomeSense Novel,Books,Paul Parsons,Europe,2023-02-23,1067.387,55.0,10.0,P025,Clothing,Tuesday,Evening
+T00146,C0155,P062,2024-07-24,2,748.32,374.16,Wednesday,07:11:44,July,Morning,HomeSense Novel,Books,Michelle Brown,South America,2023-03-23,768.2614285714286,77.0,7.0,P026,Books,Wednesday,Evening
+T00190,C0156,P062,2024-09-25,2,748.32,374.16,Wednesday,19:36:27,September,Evening,HomeSense Novel,Books,William Adams,North America,2023-08-19,694.040909090909,43.0,10.0,P059,Books,Saturday,Afternoon
+T00221,C0188,P062,2024-02-28,4,1496.64,374.16,Wednesday,14:14:44,February,Afternoon,HomeSense Novel,Books,Anna Ball,South America,2022-05-17,888.9150000000001,32.0,7.0,P057,Electronics,Friday,Morning
+T00230,C0064,P062,2024-12-06,1,374.16,374.16,Friday,16:22:54,December,Afternoon,HomeSense Novel,Books,Martha Montgomery,Europe,2023-10-22,807.954,52.0,5.0,P018,Books,Tuesday,Afternoon
+T00364,C0183,P062,2024-06-16,2,748.32,374.16,Sunday,08:22:06,June,Morning,HomeSense Novel,Books,Kimberly Johnson,North America,2024-01-23,770.0440000000001,75.0,5.0,P052,Clothing,Monday,Afternoon
+T00533,C0191,P062,2024-07-12,4,1496.64,374.16,Friday,10:33:55,July,Morning,HomeSense Novel,Books,Samantha Gibson DVM,South America,2024-04-07,599.594,46.0,5.0,P001,Books,Thursday,Morning
+T00570,C0147,P062,2024-12-25,1,374.16,374.16,Wednesday,00:52:54,December,Evening,HomeSense Novel,Books,Hunter Fuller,South America,2022-05-16,327.6044444444444,33.0,9.0,P018,Books,Saturday,Evening
+T00640,C0087,P062,2024-09-13,3,1122.48,374.16,Friday,23:20:18,September,Evening,HomeSense Novel,Books,Travis Campbell,South America,2024-04-11,943.4614285714285,136.0,7.0,P029,Books,Monday,Evening
+T00649,C0028,P062,2024-01-23,3,1122.48,374.16,Tuesday,07:39:44,January,Morning,HomeSense Novel,Books,Jennifer Pena,Asia,2024-06-29,852.44625,33.0,6.0,P057,Electronics,Thursday,Afternoon
+T00664,C0138,P062,2024-10-02,4,1496.64,374.16,Wednesday,22:44:16,October,Evening,HomeSense Novel,Books,Cynthia Clayton,Asia,2024-11-01,1122.05,40.0,4.0,P079,Home Decor,Friday,Evening
+T00692,C0153,P062,2024-06-30,2,748.32,374.16,Sunday,22:09:50,June,Evening,HomeSense Novel,Books,Justin Smith,South America,2022-03-20,790.7983333333333,138.0,6.0,P003,Books,Friday,Morning
+T00723,C0043,P062,2024-06-12,2,748.32,374.16,Wednesday,01:39:05,June,Evening,HomeSense Novel,Books,Sandy Short MD,Asia,2023-02-05,377.10666666666674,130.0,3.0,P051,Books,Thursday,Evening
+T00725,C0135,P062,2024-10-03,2,748.32,374.16,Thursday,20:53:23,October,Evening,HomeSense Novel,Books,Toni Weaver,Europe,2022-08-23,783.895,116.0,4.0,P003,Books,Thursday,Evening
+T00944,C0122,P062,2024-10-08,2,748.32,374.16,Tuesday,19:57:08,October,Evening,HomeSense Novel,Books,Corey Ruiz,North America,2022-05-06,724.65,41.0,7.0,P010,Books,Tuesday,Evening
+T00012,C0091,P041,2024-03-29,4,1825.12,456.28,Friday,01:28:17,March,Evening,ComfortLiving Smartphone,Electronics,Lisa Kirk,South America,2023-03-16,522.9433333333333,167.0,5.0,P026,Electronics,Tuesday,Evening
+T00034,C0168,P041,2024-01-09,4,1825.12,456.28,Tuesday,11:00:50,January,Morning,ComfortLiving Smartphone,Electronics,Karen Clements MD,South America,2022-12-13,1263.4575,96.0,4.0,P039,Books,Monday,Afternoon
+T00094,C0012,P041,2024-07-14,4,1825.12,456.28,Sunday,19:37:54,July,Evening,ComfortLiving Smartphone,Electronics,Kevin May,South America,2024-08-07,747.3228571428571,33.0,6.0,P023,Home Decor,Sunday,Evening
+T00231,C0069,P041,2024-08-27,2,912.56,456.28,Tuesday,19:54:49,August,Evening,ComfortLiving Smartphone,Electronics,Stacy Foster,Europe,2023-12-03,575.738,49.0,5.0,P010,Electronics,Thursday,Evening
+T00236,C0184,P041,2024-02-25,1,456.28,456.28,Sunday,14:08:11,February,Afternoon,ComfortLiving Smartphone,Electronics,Tina Jacobs,South America,2022-05-13,484.74000000000007,141.0,6.0,P087,Electronics,Sunday,Afternoon
+T00261,C0125,P041,2024-02-20,2,912.56,456.28,Tuesday,06:00:07,February,Morning,ComfortLiving Smartphone,Electronics,Nicholas Taylor,North America,2022-12-18,743.49,156.0,4.0,P010,Books,Tuesday,Evening
+T00343,C0173,P041,2024-01-02,1,456.28,456.28,Tuesday,11:54:22,January,Morning,ComfortLiving Smartphone,Electronics,Francisco Young,Asia,2022-10-06,726.005,148.0,8.0,P004,Books,Friday,Afternoon
+T00482,C0066,P041,2024-06-04,4,1825.12,456.28,Tuesday,02:02:24,June,Evening,ComfortLiving Smartphone,Electronics,Catherine White,Europe,2024-11-15,1266.4266666666665,152.0,3.0,P041,Electronics,Wednesday,Evening
+T00589,C0186,P041,2024-10-23,1,456.28,456.28,Wednesday,16:42:32,October,Afternoon,ComfortLiving Smartphone,Electronics,Amber Alexander,Asia,2023-10-11,587.2133333333333,96.0,3.0,P002,Electronics,Friday,Morning
+T00597,C0023,P041,2024-07-01,3,1368.84,456.28,Monday,04:53:47,July,Evening,ComfortLiving Smartphone,Electronics,Nicholas Cain,Europe,2022-03-04,859.775,77.0,6.0,P012,Books,Monday,Evening
+T00881,C0101,P041,2024-08-19,3,1368.84,456.28,Monday,04:22:17,August,Evening,ComfortLiving Smartphone,Electronics,Kelsey Roberts,Asia,2023-09-30,693.87375,30.0,7.0,P015,Books,Saturday,Evening
+T00014,C0105,P060,2024-08-05,1,155.65,155.65,Monday,07:35:43,August,Morning,HomeSense T-Shirt,Clothing,Ryan Hampton,Europe,2024-11-11,801.2416666666667,146.0,6.0,P001,Electronics,Monday,Morning
+T00392,C0072,P060,2024-11-02,4,622.6,155.65,Saturday,20:33:22,November,Evening,HomeSense T-Shirt,Clothing,Sarah Scott,North America,2024-07-24,599.918,86.0,5.0,P008,Electronics,Saturday,Evening
+T00405,C0093,P060,2024-08-02,2,311.3,155.65,Friday,21:41:32,August,Evening,HomeSense T-Shirt,Clothing,Nancy Walker,Asia,2024-07-13,588.3322222222222,133.0,8.0,P076,Clothing,Monday,Evening
+T00452,C0009,P060,2024-03-16,1,155.65,155.65,Saturday,17:26:03,March,Evening,HomeSense T-Shirt,Clothing,Joy Clark,Europe,2023-08-14,298.8333333333333,107.0,3.0,P050,Clothing,Saturday,Evening
+T00642,C0162,P060,2024-08-06,4,622.6,155.65,Tuesday,20:12:35,August,Evening,HomeSense T-Shirt,Clothing,Edwin Watson,Asia,2022-03-29,600.28,71.0,8.0,P009,Electronics,Monday,Evening
+T00768,C0083,P060,2024-12-17,1,155.65,155.65,Tuesday,13:01:28,December,Afternoon,HomeSense T-Shirt,Clothing,Christina Stark,South America,2022-04-07,214.26666666666665,41.0,3.0,P036,Clothing,Sunday,Afternoon
+T00015,C0001,P054,2024-01-19,2,114.6,57.3,Friday,03:12:55,January,Evening,SoundWave Cookbook,Books,Lawrence Carroll,South America,2022-07-10,670.9040000000001,86.0,5.0,P022,Electronics,Tuesday,Evening
+T00053,C0039,P054,2024-09-30,3,171.9,57.3,Monday,14:42:16,September,Afternoon,SoundWave Cookbook,Books,Angela Harris,South America,2024-10-13,706.6,92.0,6.0,P011,Electronics,Sunday,Afternoon
+T00203,C0124,P054,2024-03-31,4,229.2,57.3,Sunday,16:50:02,March,Afternoon,SoundWave Cookbook,Books,Lindsay Perez,Europe,2024-08-26,609.1899999999999,112.0,7.0,P006,Home Decor,Saturday,Afternoon
+T00210,C0165,P054,2024-08-15,2,114.6,57.3,Thursday,15:59:47,August,Afternoon,SoundWave Cookbook,Books,Juan Mcdaniel,South America,2022-04-09,745.3444444444444,32.0,6.0,P044,Books,Thursday,Morning
+T00262,C0143,P054,2024-01-30,1,57.3,57.3,Tuesday,22:40:57,January,Evening,SoundWave Cookbook,Books,Brian Parker,Asia,2024-05-27,863.5185714285715,40.0,6.0,P094,Clothing,Wednesday,Evening
+T00327,C0165,P054,2024-11-27,2,114.6,57.3,Wednesday,10:42:19,November,Morning,SoundWave Cookbook,Books,Juan Mcdaniel,South America,2022-04-09,745.3444444444444,32.0,6.0,P044,Books,Thursday,Morning
+T00395,C0038,P054,2024-03-14,3,171.9,57.3,Thursday,08:10:08,March,Morning,SoundWave Cookbook,Books,Jeffrey Perkins,North America,2022-04-16,539.37,46.0,5.0,P028,Home Decor,Thursday,Evening
+T00423,C0019,P054,2024-11-08,3,171.9,57.3,Friday,10:22:51,November,Morning,SoundWave Cookbook,Books,Brandon Rodriguez,Europe,2023-01-12,364.3033333333333,80.0,6.0,P001,Books,Friday,Evening
+T00581,C0083,P054,2024-11-13,2,114.6,57.3,Wednesday,04:56:27,November,Evening,SoundWave Cookbook,Books,Christina Stark,South America,2022-04-07,214.26666666666665,41.0,3.0,P036,Clothing,Sunday,Afternoon
+T00634,C0073,P054,2024-03-20,4,229.2,57.3,Wednesday,02:37:13,March,Evening,SoundWave Cookbook,Books,Heidi Johnson,Europe,2022-08-20,686.8466666666667,313.0,3.0,P017,Books,Monday,Afternoon
+T00699,C0156,P054,2024-04-21,3,171.9,57.3,Sunday,22:39:45,April,Evening,SoundWave Cookbook,Books,William Adams,North America,2023-08-19,694.040909090909,43.0,10.0,P059,Books,Saturday,Afternoon
+T00784,C0047,P054,2024-08-23,3,171.9,57.3,Friday,09:06:06,August,Morning,SoundWave Cookbook,Books,Samantha Frank,North America,2024-03-22,410.07714285714286,157.0,7.0,P007,Books,Friday,Morning
+T00808,C0190,P054,2024-07-06,4,229.2,57.3,Saturday,00:13:42,July,Evening,SoundWave Cookbook,Books,Alexander Lowe,South America,2024-05-31,596.604,42.0,5.0,P016,Electronics,Saturday,Morning
+T00873,C0086,P054,2024-08-02,4,229.2,57.3,Friday,11:13:00,August,Morning,SoundWave Cookbook,Books,Stephanie Peterson,Europe,2022-09-18,550.9359999999999,32.0,5.0,P010,Home Decor,Thursday,Evening
+T00884,C0171,P054,2024-01-28,3,171.9,57.3,Sunday,18:40:51,January,Evening,SoundWave Cookbook,Books,Michael Cowan,South America,2022-12-16,1029.0700000000002,96.0,5.0,P017,Books,Saturday,Evening
+T00926,C0181,P054,2024-08-16,3,171.9,57.3,Friday,02:29:10,August,Evening,SoundWave Cookbook,Books,Alexander Barker,South America,2023-11-16,557.9333333333334,31.0,6.0,P002,Electronics,Friday,Evening
+T00016,C0072,P070,2024-07-05,2,97.38,48.69,Friday,23:04:17,July,Evening,HomeSense T-Shirt,Clothing,Sarah Scott,North America,2024-07-24,599.918,86.0,5.0,P008,Electronics,Saturday,Evening
+T00087,C0108,P070,2024-02-16,1,48.69,48.69,Friday,19:58:26,February,Evening,HomeSense T-Shirt,Clothing,David Davis,South America,2022-09-28,692.6485714285715,117.0,7.0,P011,Clothing,Wednesday,Evening
+T00098,C0090,P070,2024-08-28,3,146.07,48.69,Wednesday,02:11:58,August,Evening,HomeSense T-Shirt,Clothing,Charles Hamilton,Asia,2023-10-17,591.1657142857142,138.0,7.0,P042,Books,Wednesday,Evening
+T00281,C0126,P070,2024-09-24,1,48.69,48.69,Tuesday,16:29:36,September,Afternoon,HomeSense T-Shirt,Clothing,Caitlin Brown,South America,2024-02-20,760.9283333333333,60.0,6.0,P032,Books,Thursday,Evening
+T00750,C0056,P070,2024-12-25,4,194.76,48.69,Wednesday,21:16:21,December,Evening,HomeSense T-Shirt,Clothing,Erika Fernandez,Asia,2024-04-12,636.588,33.0,5.0,P024,Clothing,Wednesday,Evening
+T00762,C0106,P070,2024-11-01,4,194.76,48.69,Friday,09:20:07,November,Morning,HomeSense T-Shirt,Clothing,Amanda Mcguire,Asia,2022-09-22,587.86,61.0,5.0,P031,Clothing,Friday,Morning
+T00018,C0166,P010,2024-09-21,3,1050.39,350.13,Saturday,22:21:26,September,Evening,ComfortLiving Smartwatch,Electronics,John Rogers,Europe,2022-02-13,601.3375000000001,97.0,4.0,P010,Home Decor,Monday,Evening
+T00068,C0088,P010,2024-09-22,3,1050.39,350.13,Sunday,23:11:50,September,Evening,ComfortLiving Smartwatch,Electronics,Carlos Murray,Asia,2023-05-14,427.076,43.0,5.0,P010,Clothing,Sunday,Evening
+T00243,C0069,P010,2024-08-31,2,700.26,350.13,Saturday,00:38:43,August,Evening,ComfortLiving Smartwatch,Electronics,Stacy Foster,Europe,2023-12-03,575.738,49.0,5.0,P010,Electronics,Thursday,Evening
+T00276,C0113,P010,2024-11-27,3,1050.39,350.13,Wednesday,17:12:27,November,Evening,ComfortLiving Smartwatch,Electronics,Joseph Ortiz Jr.,South America,2022-06-17,601.5125,61.0,7.0,P078,Home Decor,Sunday,Evening
+T00292,C0086,P010,2024-12-26,2,700.26,350.13,Thursday,02:30:22,December,Evening,ComfortLiving Smartwatch,Electronics,Stephanie Peterson,Europe,2022-09-18,550.9359999999999,32.0,5.0,P010,Home Decor,Thursday,Evening
+T00315,C0125,P010,2024-04-03,3,1050.39,350.13,Wednesday,21:46:38,April,Evening,ComfortLiving Smartwatch,Electronics,Nicholas Taylor,North America,2022-12-18,743.49,156.0,4.0,P010,Books,Tuesday,Evening
+T00372,C0192,P010,2024-07-22,1,350.13,350.13,Monday,10:55:09,July,Morning,ComfortLiving Smartwatch,Electronics,Sarah Arias,South America,2022-09-15,518.1800000000001,181.0,4.0,P010,Electronics,Monday,Afternoon
+T00516,C0074,P010,2024-07-29,1,350.13,350.13,Monday,06:11:19,July,Morning,ComfortLiving Smartwatch,Electronics,Jonathan Russo,Europe,2022-05-27,1018.4066666666668,182.0,3.0,P005,Books,Monday,Afternoon
+T00710,C0162,P010,2024-01-13,1,350.13,350.13,Saturday,09:31:27,January,Morning,ComfortLiving Smartwatch,Electronics,Edwin Watson,Asia,2022-03-29,600.28,71.0,8.0,P009,Electronics,Monday,Evening
+T00830,C0048,P010,2024-01-28,2,700.26,350.13,Sunday,09:13:22,January,Morning,ComfortLiving Smartwatch,Electronics,Matthew Park,South America,2024-11-07,770.1879999999999,54.0,5.0,P010,Electronics,Sunday,Evening
+T00986,C0122,P010,2024-05-20,2,700.26,350.13,Monday,10:52:21,May,Morning,ComfortLiving Smartwatch,Electronics,Corey Ruiz,North America,2022-05-06,724.65,41.0,7.0,P010,Books,Tuesday,Evening
+T00019,C0006,P040,2024-06-05,2,306.38,153.19,Wednesday,01:19:28,June,Evening,SoundWave Mystery Book,Books,Brittany Palmer,South America,2024-01-07,1056.8925,112.0,4.0,P020,Books,Thursday,Evening
+T00137,C0142,P040,2024-04-03,4,612.76,153.19,Wednesday,12:44:52,April,Afternoon,SoundWave Mystery Book,Books,Nicole Long DVM,Asia,2024-02-08,559.76,34.0,4.0,P040,Books,Tuesday,Afternoon
+T00347,C0139,P040,2024-01-24,2,306.38,153.19,Wednesday,21:50:37,January,Evening,SoundWave Mystery Book,Books,Ricky Gutierrez,North America,2022-03-14,462.955,113.0,8.0,P006,Books,Wednesday,Morning
+T00359,C0048,P040,2024-12-04,4,612.76,153.19,Wednesday,20:50:51,December,Evening,SoundWave Mystery Book,Books,Matthew Park,South America,2024-11-07,770.1879999999999,54.0,5.0,P010,Electronics,Sunday,Evening
+T00406,C0171,P040,2024-02-18,2,306.38,153.19,Sunday,00:12:39,February,Evening,SoundWave Mystery Book,Books,Michael Cowan,South America,2022-12-16,1029.0700000000002,96.0,5.0,P017,Books,Saturday,Evening
+T00538,C0119,P040,2024-04-26,2,306.38,153.19,Friday,17:37:36,April,Evening,SoundWave Mystery Book,Books,David Armstrong,Europe,2023-11-13,238.32199999999997,32.0,5.0,P011,Electronics,Wednesday,Evening
+T00637,C0184,P040,2024-09-08,3,459.57,153.19,Sunday,08:52:51,September,Morning,SoundWave Mystery Book,Books,Tina Jacobs,South America,2022-05-13,484.74000000000007,141.0,6.0,P087,Electronics,Sunday,Afternoon
+T00704,C0186,P040,2024-06-21,4,612.76,153.19,Friday,07:59:57,June,Morning,SoundWave Mystery Book,Books,Amber Alexander,Asia,2023-10-11,587.2133333333333,96.0,3.0,P002,Electronics,Friday,Morning
+T00910,C0071,P040,2024-05-22,1,153.19,153.19,Wednesday,03:47:06,May,Evening,SoundWave Mystery Book,Books,Taylor Murphy,South America,2022-07-01,466.9433333333333,157.0,3.0,P001,Books,Friday,Afternoon
+T00930,C0193,P040,2024-05-27,2,306.38,153.19,Monday,09:32:58,May,Morning,SoundWave Mystery Book,Books,Douglas Torres,Asia,2023-02-03,752.3225000000001,245.0,4.0,P007,Books,Monday,Evening
+T00936,C0148,P040,2024-06-11,4,612.76,153.19,Tuesday,20:36:32,June,Evening,SoundWave Mystery Book,Books,Matthew Rogers,South America,2023-04-16,1091.558,117.0,5.0,P011,Electronics,Tuesday,Evening
+T00993,C0027,P040,2024-03-08,2,306.38,153.19,Friday,09:48:14,March,Morning,SoundWave Mystery Book,Books,Justin Heath,Asia,2022-11-09,640.735,108.0,4.0,P003,Books,Friday,Morning
+T00995,C0191,P040,2024-06-04,4,612.76,153.19,Tuesday,06:32:15,June,Morning,SoundWave Mystery Book,Books,Samantha Gibson DVM,South America,2024-04-07,599.594,46.0,5.0,P001,Books,Thursday,Morning
+T00020,C0153,P007,2024-07-16,4,1680.6,420.15,Tuesday,22:33:47,July,Evening,SoundWave Cookbook,Books,Justin Smith,South America,2022-03-20,790.7983333333333,138.0,6.0,P003,Books,Friday,Morning
+T00163,C0101,P007,2024-03-13,4,1680.6,420.15,Wednesday,22:33:34,March,Evening,SoundWave Cookbook,Books,Kelsey Roberts,Asia,2023-09-30,693.87375,30.0,7.0,P015,Books,Saturday,Evening
+T00204,C0161,P007,2024-01-31,2,840.3,420.15,Wednesday,01:11:48,January,Evening,SoundWave Cookbook,Books,Jessica Warren,Asia,2022-03-14,392.72875,165.0,8.0,P007,Books,Monday,Evening
+T00309,C0103,P007,2024-08-28,2,840.3,420.15,Wednesday,05:03:00,August,Morning,SoundWave Cookbook,Books,Jennifer Munoz,Europe,2022-05-15,492.50999999999993,119.0,5.0,P006,Clothing,Monday,Evening
+T00421,C0047,P007,2024-01-04,1,420.15,420.15,Thursday,07:47:38,January,Morning,SoundWave Cookbook,Books,Samantha Frank,North America,2024-03-22,410.07714285714286,157.0,7.0,P007,Books,Friday,Morning
+T00565,C0156,P007,2024-12-15,2,840.3,420.15,Sunday,00:35:54,December,Evening,SoundWave Cookbook,Books,William Adams,North America,2023-08-19,694.040909090909,43.0,10.0,P059,Books,Saturday,Afternoon
+T00741,C0079,P007,2024-02-22,2,840.3,420.15,Thursday,15:13:43,February,Afternoon,SoundWave Cookbook,Books,Brian Murillo,North America,2022-02-02,1062.8899999999999,181.0,4.0,P007,Home Decor,Thursday,Evening
+T00945,C0193,P007,2024-05-22,3,1260.45,420.15,Wednesday,21:58:39,May,Evening,SoundWave Cookbook,Books,Douglas Torres,Asia,2023-02-03,752.3225000000001,245.0,4.0,P007,Books,Monday,Evening
+T00021,C0145,P038,2024-01-11,2,294.44,147.22,Thursday,09:47:21,January,Morning,TechPro Vase,Home Decor,Wayne Stone,Asia,2023-01-13,721.40875,62.0,7.0,P080,Clothing,Monday,Morning
+T00032,C0109,P038,2024-11-07,4,588.88,147.22,Thursday,01:47:33,November,Evening,TechPro Vase,Home Decor,Abigail Jones,North America,2022-05-09,498.84090909090907,81.0,10.0,P100,Clothing,Saturday,Evening
+T00251,C0004,P038,2024-08-03,3,441.66,147.22,Saturday,06:21:11,August,Morning,TechPro Vase,Home Decor,Kathleen Rodriguez,South America,2022-10-09,669.36,35.0,8.0,P008,Books,Monday,Morning
+T00323,C0082,P038,2024-09-22,4,588.88,147.22,Sunday,07:51:55,September,Morning,TechPro Vase,Home Decor,Aimee Taylor,South America,2022-05-13,1081.8442857142857,58.0,7.0,P019,Books,Saturday,Evening
+T00374,C0181,P038,2024-12-27,2,294.44,147.22,Friday,17:31:24,December,Evening,TechPro Vase,Home Decor,Alexander Barker,South America,2023-11-16,557.9333333333334,31.0,6.0,P002,Electronics,Friday,Evening
+T00432,C0065,P038,2024-12-13,3,441.66,147.22,Friday,21:18:19,December,Evening,TechPro Vase,Home Decor,Gerald Hines,North America,2024-07-10,766.37,45.0,10.0,P022,Home Decor,Monday,Evening
+T00434,C0025,P038,2024-05-09,4,588.88,147.22,Thursday,03:14:51,May,Evening,TechPro Vase,Home Decor,Gregory Odom,South America,2022-07-04,397.4525,167.0,4.0,P022,Home Decor,Thursday,Evening
+T00726,C0111,P038,2024-12-12,1,147.22,147.22,Thursday,18:56:02,December,Evening,TechPro Vase,Home Decor,Roger David,Europe,2024-11-13,394.604,46.0,5.0,P003,Clothing,Wednesday,Evening
+T00728,C0160,P038,2024-02-08,1,147.22,147.22,Thursday,22:57:38,February,Evening,TechPro Vase,Home Decor,Jodi Cook,North America,2022-04-05,585.386,164.0,5.0,P022,Home Decor,Sunday,Morning
+T00785,C0159,P038,2024-03-26,1,147.22,147.22,Tuesday,00:51:36,March,Evening,TechPro Vase,Home Decor,Austin Miller,Asia,2022-08-06,690.8033333333333,45.0,3.0,P038,Home Decor,Friday,Evening
+T00814,C0093,P038,2024-09-08,1,147.22,147.22,Sunday,16:26:03,September,Afternoon,TechPro Vase,Home Decor,Nancy Walker,Asia,2024-07-13,588.3322222222222,133.0,8.0,P076,Clothing,Monday,Evening
+T00863,C0008,P038,2024-11-08,1,147.22,147.22,Friday,20:46:29,November,Evening,TechPro Vase,Home Decor,David Li,North America,2024-01-13,427.16099999999994,41.0,10.0,P004,Home Decor,Monday,Evening
+T00913,C0117,P038,2024-02-08,1,147.22,147.22,Thursday,17:57:52,February,Evening,TechPro Vase,Home Decor,Jeffrey Mcmahon,North America,2024-11-22,1007.0675000000001,175.0,4.0,P019,Books,Monday,Evening
+T00022,C0061,P085,2024-08-19,3,1249.05,416.35,Monday,08:16:57,August,Morning,BookWorld Biography,Books,Brandon Escobar,Europe,2023-03-06,712.7533333333334,48.0,3.0,P005,Clothing,Friday,Morning
+T00052,C0090,P085,2024-02-25,3,1249.05,416.35,Sunday,18:56:28,February,Evening,BookWorld Biography,Books,Charles Hamilton,Asia,2023-10-17,591.1657142857142,138.0,7.0,P042,Books,Wednesday,Evening
+T00330,C0028,P085,2024-05-15,3,1249.05,416.35,Wednesday,10:49:01,May,Morning,BookWorld Biography,Books,Jennifer Pena,Asia,2024-06-29,852.44625,33.0,6.0,P057,Electronics,Thursday,Afternoon
+T00401,C0189,P085,2024-11-11,3,1249.05,416.35,Monday,16:53:21,November,Afternoon,BookWorld Biography,Books,Sherri Dixon,North America,2024-01-22,528.642,37.0,5.0,P025,Home Decor,Monday,Evening
+T00435,C0037,P085,2024-05-16,4,1665.4,416.35,Thursday,16:00:40,May,Afternoon,BookWorld Biography,Books,Linda Smith,Europe,2023-02-04,850.5540000000001,119.0,5.0,P006,Home Decor,Monday,Evening
+T00475,C0145,P085,2024-09-28,2,832.7,416.35,Saturday,22:39:52,September,Evening,BookWorld Biography,Books,Wayne Stone,Asia,2023-01-13,721.40875,62.0,7.0,P080,Clothing,Monday,Morning
+T00504,C0021,P085,2024-04-05,1,416.35,416.35,Friday,03:20:25,April,Evening,BookWorld Biography,Books,Robert Blanchard,Asia,2023-04-17,677.49,107.0,8.0,P015,Books,Saturday,Evening
+T00829,C0099,P085,2024-12-23,4,1665.4,416.35,Monday,18:22:03,December,Evening,BookWorld Biography,Books,Rodney Eaton,South America,2023-01-29,839.465,35.0,8.0,P005,Clothing,Friday,Evening
+T00023,C0012,P061,2024-06-18,4,627.84,156.96,Tuesday,10:55:39,June,Morning,HomeSense Desk Lamp,Home Decor,Kevin May,South America,2024-08-07,747.3228571428571,33.0,6.0,P023,Home Decor,Sunday,Evening
+T00128,C0167,P061,2024-10-01,3,470.88,156.96,Tuesday,14:05:25,October,Afternoon,HomeSense Desk Lamp,Home Decor,Brandy Welch,Europe,2024-01-27,766.8066666666667,118.0,3.0,P048,Books,Sunday,Afternoon
+T00361,C0052,P061,2024-09-01,4,627.84,156.96,Sunday,11:18:51,September,Morning,HomeSense Desk Lamp,Home Decor,Stanley Aguirre,South America,2024-02-20,622.0025,148.0,3.0,P061,Home Decor,Saturday,Morning
+T00403,C0114,P061,2024-02-21,4,627.84,156.96,Wednesday,15:52:59,February,Afternoon,HomeSense Desk Lamp,Home Decor,Benjamin Anderson,Europe,2024-11-18,1156.086,126.0,5.0,P020,Electronics,Wednesday,Afternoon
+T00422,C0163,P061,2024-05-11,3,470.88,156.96,Saturday,07:45:26,May,Morning,HomeSense Desk Lamp,Home Decor,Tiffany Cain,South America,2023-06-08,962.5466666666666,107.0,5.0,P074,Home Decor,Friday,Afternoon
+T00458,C0102,P061,2024-06-25,1,156.96,156.96,Tuesday,22:40:29,June,Evening,HomeSense Desk Lamp,Home Decor,Michael Atkinson,South America,2022-09-16,766.5450000000001,148.0,7.0,P058,Electronics,Friday,Evening
+T00476,C0119,P061,2024-02-07,1,156.96,156.96,Wednesday,04:03:23,February,Evening,HomeSense Desk Lamp,Home Decor,David Armstrong,Europe,2023-11-13,238.32199999999997,32.0,5.0,P011,Electronics,Wednesday,Evening
+T00553,C0038,P061,2024-12-12,1,156.96,156.96,Thursday,18:55:55,December,Evening,HomeSense Desk Lamp,Home Decor,Jeffrey Perkins,North America,2022-04-16,539.37,46.0,5.0,P028,Home Decor,Thursday,Evening
+T00655,C0182,P061,2024-04-28,4,627.84,156.96,Sunday,02:14:05,April,Evening,HomeSense Desk Lamp,Home Decor,Joshua Preston,Europe,2024-12-28,996.1539999999999,263.0,5.0,P008,Home Decor,Monday,Evening
+T00696,C0065,P061,2024-03-05,3,470.88,156.96,Tuesday,18:21:47,March,Evening,HomeSense Desk Lamp,Home Decor,Gerald Hines,North America,2024-07-10,766.37,45.0,10.0,P022,Home Decor,Monday,Evening
+T00731,C0200,P061,2024-07-15,4,627.84,156.96,Monday,20:36:28,July,Evening,HomeSense Desk Lamp,Home Decor,Kelly Cross,Asia,2023-06-11,951.72,47.0,5.0,P034,Clothing,Monday,Evening
+T00791,C0052,P061,2024-01-09,2,313.92,156.96,Tuesday,13:32:17,January,Afternoon,HomeSense Desk Lamp,Home Decor,Stanley Aguirre,South America,2024-02-20,622.0025,148.0,3.0,P061,Home Decor,Saturday,Morning
+T00795,C0178,P061,2024-12-21,1,156.96,156.96,Saturday,00:45:52,December,Evening,HomeSense Desk Lamp,Home Decor,Carol Williams,Asia,2023-11-19,677.2075,37.0,4.0,P003,Home Decor,Monday,Evening
+T00834,C0090,P061,2024-05-16,3,470.88,156.96,Thursday,01:56:32,May,Evening,HomeSense Desk Lamp,Home Decor,Charles Hamilton,Asia,2023-10-17,591.1657142857142,138.0,7.0,P042,Books,Wednesday,Evening
+T00840,C0018,P061,2024-03-28,3,470.88,156.96,Thursday,17:43:38,March,Evening,HomeSense Desk Lamp,Home Decor,Tyler Haynes,North America,2024-09-21,956.3700000000001,177.0,5.0,P027,Books,Friday,Evening
+T00869,C0081,P061,2023-12-30,2,313.92,156.96,Saturday,15:29:12,December,Afternoon,HomeSense Desk Lamp,Home Decor,Kimberly Turner,Europe,2024-02-24,590.4133333333333,80.0,6.0,P006,Books,Saturday,Evening
+T00024,C0006,P084,2024-06-13,3,1013.73,337.91,Thursday,10:35:07,June,Morning,ActiveWear Wall Art,Home Decor,Brittany Palmer,South America,2024-01-07,1056.8925,112.0,4.0,P020,Books,Thursday,Evening
+T00100,C0197,P084,2024-05-08,3,1013.73,337.91,Wednesday,15:48:20,May,Afternoon,ActiveWear Wall Art,Home Decor,Christina Harvey,Europe,2023-03-21,642.8833333333333,31.0,3.0,P013,Electronics,Friday,Evening
+T00202,C0100,P084,2024-01-31,1,337.91,337.91,Wednesday,14:10:21,January,Afternoon,ActiveWear Wall Art,Home Decor,Clinton Gomez,Europe,2023-03-16,833.9083333333333,145.0,6.0,P009,Home Decor,Saturday,Afternoon
+T00235,C0116,P084,2024-01-31,2,675.82,337.91,Wednesday,11:17:38,January,Morning,ActiveWear Wall Art,Home Decor,James Martinez,North America,2024-09-11,459.78000000000003,89.0,6.0,P029,Books,Wednesday,Evening
+T00265,C0122,P084,2024-03-19,1,337.91,337.91,Tuesday,00:50:12,March,Evening,ActiveWear Wall Art,Home Decor,Corey Ruiz,North America,2022-05-06,724.65,41.0,7.0,P010,Books,Tuesday,Evening
+T00346,C0149,P084,2024-04-09,4,1351.64,337.91,Tuesday,16:45:10,April,Afternoon,ActiveWear Wall Art,Home Decor,Tina Wilson,Europe,2023-01-21,880.9559999999999,151.0,5.0,P012,Clothing,Tuesday,Afternoon
+T00444,C0127,P084,2024-02-08,1,337.91,337.91,Thursday,03:30:38,February,Evening,ActiveWear Wall Art,Home Decor,Kathryn Stevens,Europe,2024-04-04,538.8133333333334,129.0,6.0,P028,Electronics,Thursday,Morning
+T00752,C0178,P084,2024-04-25,4,1351.64,337.91,Thursday,22:21:27,April,Evening,ActiveWear Wall Art,Home Decor,Carol Williams,Asia,2023-11-19,677.2075,37.0,4.0,P003,Home Decor,Monday,Evening
+T00753,C0075,P084,2024-12-06,4,1351.64,337.91,Friday,01:59:41,December,Evening,ActiveWear Wall Art,Home Decor,Misty Higgins,Europe,2023-05-01,649.8855555555556,48.0,9.0,P013,Books,Friday,Evening
+T00862,C0106,P084,2024-05-06,2,675.82,337.91,Monday,07:02:05,May,Morning,ActiveWear Wall Art,Home Decor,Amanda Mcguire,Asia,2022-09-22,587.86,61.0,5.0,P031,Clothing,Friday,Morning
+T00940,C0059,P084,2024-09-14,4,1351.64,337.91,Saturday,15:29:16,September,Afternoon,ActiveWear Wall Art,Home Decor,Mrs. Kimberly Wright,North America,2024-04-07,884.16,95.0,8.0,P019,Home Decor,Tuesday,Evening
+T00958,C0026,P084,2024-10-07,3,1013.73,337.91,Monday,21:52:59,October,Evening,ActiveWear Wall Art,Home Decor,Sara Miller,North America,2024-05-03,887.2625,110.0,4.0,P027,Electronics,Wednesday,Evening
+T00990,C0195,P084,2024-08-18,2,675.82,337.91,Sunday,21:30:57,August,Evening,ActiveWear Wall Art,Home Decor,Jeremy Mclaughlin,South America,2024-09-17,672.7116666666667,64.0,6.0,P028,Home Decor,Tuesday,Evening
+T00025,C0027,P003,2024-10-11,4,176.48,44.12,Friday,21:32:34,October,Evening,ComfortLiving Biography,Books,Justin Heath,Asia,2022-11-09,640.735,108.0,4.0,P003,Books,Friday,Morning
+T00102,C0153,P003,2024-07-20,2,88.24,44.12,Saturday,16:04:49,July,Afternoon,ComfortLiving Biography,Books,Justin Smith,South America,2022-03-20,790.7983333333333,138.0,6.0,P003,Books,Friday,Morning
+T00242,C0178,P003,2024-10-08,1,44.12,44.12,Tuesday,06:27:20,October,Morning,ComfortLiving Biography,Books,Carol Williams,Asia,2023-11-19,677.2075,37.0,4.0,P003,Home Decor,Monday,Evening
+T00381,C0109,P003,2024-08-16,4,176.48,44.12,Friday,19:39:33,August,Evening,ComfortLiving Biography,Books,Abigail Jones,North America,2022-05-09,498.84090909090907,81.0,10.0,P100,Clothing,Saturday,Evening
+T00430,C0135,P003,2024-05-16,2,88.24,44.12,Thursday,03:37:41,May,Evening,ComfortLiving Biography,Books,Toni Weaver,Europe,2022-08-23,783.895,116.0,4.0,P003,Books,Thursday,Evening
+T00574,C0172,P003,2024-07-23,1,44.12,44.12,Tuesday,20:01:12,July,Evening,ComfortLiving Biography,Books,Jamie Webb,Europe,2024-09-09,366.95,67.0,6.0,P003,Home Decor,Tuesday,Afternoon
+T00600,C0101,P003,2024-01-02,3,132.36,44.12,Tuesday,11:26:51,January,Morning,ComfortLiving Biography,Books,Kelsey Roberts,Asia,2023-09-30,693.87375,30.0,7.0,P015,Books,Saturday,Evening
+T00633,C0137,P003,2024-03-20,3,132.36,44.12,Wednesday,23:29:34,March,Evening,ComfortLiving Biography,Books,Robert Gardner,South America,2024-04-09,666.51,35.0,5.0,P003,Books,Wednesday,Afternoon
+T00686,C0012,P003,2024-05-12,4,176.48,44.12,Sunday,12:53:40,May,Afternoon,ComfortLiving Biography,Books,Kevin May,South America,2024-08-07,747.3228571428571,33.0,6.0,P023,Home Decor,Sunday,Evening
+T00826,C0169,P003,2024-07-20,2,88.24,44.12,Saturday,11:22:47,July,Morning,ComfortLiving Biography,Books,Jennifer Shaw,South America,2023-04-13,755.5533333333333,55.0,6.0,P003,Books,Friday,Morning
+T00914,C0094,P003,2024-03-10,2,88.24,44.12,Sunday,12:10:40,March,Afternoon,ComfortLiving Biography,Books,Emily Trevino,North America,2023-09-16,291.7425,83.0,4.0,P003,Books,Sunday,Morning
+T00991,C0111,P003,2024-01-26,3,132.36,44.12,Friday,22:34:43,January,Evening,ComfortLiving Biography,Books,Roger David,Europe,2024-11-13,394.604,46.0,5.0,P003,Clothing,Wednesday,Evening
+T00026,C0136,P051,2024-02-01,3,195.48,65.16,Thursday,08:58:02,February,Morning,ComfortLiving Desk Lamp,Home Decor,Kristen Holder,Asia,2024-03-14,716.4983333333333,78.0,6.0,P011,Home Decor,Tuesday,Evening
+T00044,C0046,P051,2024-03-09,3,195.48,65.16,Saturday,09:06:10,March,Morning,ComfortLiving Desk Lamp,Home Decor,Beth Cardenas,North America,2024-10-23,803.9757142857143,124.0,7.0,P016,Books,Saturday,Evening
+T00079,C0147,P051,2024-05-09,1,65.16,65.16,Thursday,16:33:17,May,Afternoon,ComfortLiving Desk Lamp,Home Decor,Hunter Fuller,South America,2022-05-16,327.6044444444444,33.0,9.0,P018,Books,Saturday,Evening
+T00169,C0152,P051,2024-06-09,1,65.16,65.16,Sunday,15:20:30,June,Afternoon,ComfortLiving Desk Lamp,Home Decor,Justin Evans,South America,2022-04-19,677.1719999999999,98.0,5.0,P051,Home Decor,Saturday,Morning
+T00297,C0131,P051,2024-01-18,3,195.48,65.16,Thursday,01:32:18,January,Evening,ComfortLiving Desk Lamp,Home Decor,Scott Wilson,North America,2022-06-05,647.9399999999999,39.0,3.0,P017,Books,Thursday,Evening
+T00386,C0116,P051,2024-09-03,4,260.64,65.16,Tuesday,03:40:56,September,Evening,ComfortLiving Desk Lamp,Home Decor,James Martinez,North America,2024-09-11,459.78000000000003,89.0,6.0,P029,Books,Wednesday,Evening
+T00590,C0157,P051,2024-05-04,2,130.32,65.16,Saturday,20:38:52,May,Evening,ComfortLiving Desk Lamp,Home Decor,Miguel Wong,North America,2024-01-30,375.21999999999997,51.0,5.0,P013,Electronics,Saturday,Afternoon
+T00607,C0175,P051,2024-10-04,4,260.64,65.16,Friday,01:18:02,October,Evening,ComfortLiving Desk Lamp,Home Decor,Matthew Johnson,Asia,2022-04-16,621.053,68.0,10.0,P008,Books,Wednesday,Evening
+T00856,C0043,P051,2024-09-19,2,130.32,65.16,Thursday,14:24:09,September,Afternoon,ComfortLiving Desk Lamp,Home Decor,Sandy Short MD,Asia,2023-02-05,377.10666666666674,130.0,3.0,P051,Books,Thursday,Evening
+T00957,C0076,P051,2024-02-21,3,195.48,65.16,Wednesday,04:21:27,February,Evening,ComfortLiving Desk Lamp,Home Decor,Emily Roberts,South America,2024-02-11,466.61199999999997,57.0,5.0,P019,Home Decor,Wednesday,Evening
+T00027,C0124,P086,2024-03-30,2,881.4,440.7,Saturday,21:17:42,March,Evening,SoundWave Novel,Books,Lindsay Perez,Europe,2024-08-26,609.1899999999999,112.0,7.0,P006,Home Decor,Saturday,Afternoon
+T00069,C0021,P086,2024-01-13,4,1762.8,440.7,Saturday,00:48:20,January,Evening,SoundWave Novel,Books,Robert Blanchard,Asia,2023-04-17,677.49,107.0,8.0,P015,Books,Saturday,Evening
+T00193,C0041,P086,2024-06-10,4,1762.8,440.7,Monday,11:46:13,June,Morning,SoundWave Novel,Books,Lindsey Deleon,Europe,2023-12-27,878.54,43.0,7.0,P011,Books,Sunday,Evening
+T00420,C0057,P086,2024-07-31,4,1762.8,440.7,Wednesday,21:34:31,July,Evening,SoundWave Novel,Books,Elizabeth Nguyen,Europe,2024-07-27,756.0666666666666,40.0,6.0,P008,Books,Wednesday,Afternoon
+T00493,C0126,P086,2024-11-28,4,1762.8,440.7,Thursday,19:01:58,November,Evening,SoundWave Novel,Books,Caitlin Brown,South America,2024-02-20,760.9283333333333,60.0,6.0,P032,Books,Thursday,Evening
+T00587,C0165,P086,2024-08-09,4,1762.8,440.7,Friday,08:58:30,August,Morning,SoundWave Novel,Books,Juan Mcdaniel,South America,2022-04-09,745.3444444444444,32.0,6.0,P044,Books,Thursday,Morning
+T00691,C0171,P086,2024-01-13,3,1322.1,440.7,Saturday,11:31:31,January,Morning,SoundWave Novel,Books,Michael Cowan,South America,2022-12-16,1029.0700000000002,96.0,5.0,P017,Books,Saturday,Evening
+T00813,C0006,P086,2024-10-07,3,1322.1,440.7,Monday,04:07:35,October,Evening,SoundWave Novel,Books,Brittany Palmer,South America,2024-01-07,1056.8925,112.0,4.0,P020,Books,Thursday,Evening
+T00896,C0093,P086,2024-03-26,1,440.7,440.7,Tuesday,18:01:53,March,Evening,SoundWave Novel,Books,Nancy Walker,Asia,2024-07-13,588.3322222222222,133.0,8.0,P076,Clothing,Monday,Evening
+T00028,C0106,P047,2024-11-27,2,318.66,159.33,Wednesday,05:40:32,November,Morning,ComfortLiving Cookware Set,Home Decor,Amanda Mcguire,Asia,2022-09-22,587.86,61.0,5.0,P031,Clothing,Friday,Morning
+T00047,C0136,P047,2024-04-23,4,637.32,159.33,Tuesday,17:09:27,April,Evening,ComfortLiving Cookware Set,Home Decor,Kristen Holder,Asia,2024-03-14,716.4983333333333,78.0,6.0,P011,Home Decor,Tuesday,Evening
+T00107,C0175,P047,2024-09-25,3,477.99,159.33,Wednesday,20:31:49,September,Evening,ComfortLiving Cookware Set,Home Decor,Matthew Johnson,Asia,2022-04-16,621.053,68.0,10.0,P008,Books,Wednesday,Evening
+T00197,C0075,P047,2024-02-21,4,637.32,159.33,Wednesday,11:11:20,February,Morning,ComfortLiving Cookware Set,Home Decor,Misty Higgins,Europe,2023-05-01,649.8855555555556,48.0,9.0,P013,Books,Friday,Evening
+T00352,C0046,P047,2024-09-09,2,318.66,159.33,Monday,04:31:40,September,Evening,ComfortLiving Cookware Set,Home Decor,Beth Cardenas,North America,2024-10-23,803.9757142857143,124.0,7.0,P016,Books,Saturday,Evening
+T00443,C0128,P047,2024-05-26,2,318.66,159.33,Sunday,08:08:36,May,Morning,ComfortLiving Cookware Set,Home Decor,Henry Leach,Asia,2023-05-29,386.595,246.0,2.0,P023,Home Decor,Monday,Afternoon
+T00524,C0014,P047,2024-01-17,2,318.66,159.33,Wednesday,18:31:55,January,Evening,ComfortLiving Cookware Set,Home Decor,Deborah Wilcox,Europe,2024-06-22,318.66,376.0,1.0,P047,Home Decor,Wednesday,Evening
+T00531,C0022,P047,2024-07-10,1,159.33,159.33,Wednesday,07:04:02,July,Morning,ComfortLiving Cookware Set,Home Decor,Teresa Esparza,Asia,2023-10-27,775.8449999999999,132.0,6.0,P008,Clothing,Tuesday,Morning
+T00539,C0159,P047,2024-12-13,4,637.32,159.33,Friday,17:21:14,December,Evening,ComfortLiving Cookware Set,Home Decor,Austin Miller,Asia,2022-08-06,690.8033333333333,45.0,3.0,P038,Home Decor,Friday,Evening
+T00897,C0195,P047,2024-04-30,3,477.99,159.33,Tuesday,14:23:08,April,Afternoon,ComfortLiving Cookware Set,Home Decor,Jeremy Mclaughlin,South America,2024-09-17,672.7116666666667,64.0,6.0,P028,Home Decor,Tuesday,Evening
+T00029,C0193,P068,2024-02-12,3,1341.69,447.23,Monday,03:10:36,February,Evening,TechPro Novel,Books,Douglas Torres,Asia,2023-02-03,752.3225000000001,245.0,4.0,P007,Books,Monday,Evening
+T00071,C0059,P068,2024-10-24,1,447.23,447.23,Thursday,00:10:41,October,Evening,TechPro Novel,Books,Mrs. Kimberly Wright,North America,2024-04-07,884.16,95.0,8.0,P019,Home Decor,Tuesday,Evening
+T00118,C0082,P068,2024-11-30,3,1341.69,447.23,Saturday,07:11:48,November,Morning,TechPro Novel,Books,Aimee Taylor,South America,2022-05-13,1081.8442857142857,58.0,7.0,P019,Books,Saturday,Evening
+T00156,C0081,P068,2024-11-08,1,447.23,447.23,Friday,18:02:09,November,Evening,TechPro Novel,Books,Kimberly Turner,Europe,2024-02-24,590.4133333333333,80.0,6.0,P006,Books,Saturday,Evening
+T00199,C0160,P068,2024-01-07,1,447.23,447.23,Sunday,09:51:12,January,Morning,TechPro Novel,Books,Jodi Cook,North America,2022-04-05,585.386,164.0,5.0,P022,Home Decor,Sunday,Morning
+T00287,C0165,P068,2024-12-26,4,1788.92,447.23,Thursday,06:46:12,December,Morning,TechPro Novel,Books,Juan Mcdaniel,South America,2022-04-09,745.3444444444444,32.0,6.0,P044,Books,Thursday,Morning
+T00308,C0139,P068,2024-09-29,2,894.46,447.23,Sunday,13:03:14,September,Afternoon,TechPro Novel,Books,Ricky Gutierrez,North America,2022-03-14,462.955,113.0,8.0,P006,Books,Wednesday,Morning
+T00425,C0008,P068,2024-08-01,1,447.23,447.23,Thursday,14:20:03,August,Afternoon,TechPro Novel,Books,David Li,North America,2024-01-13,427.16099999999994,41.0,10.0,P004,Home Decor,Monday,Evening
+T00447,C0035,P068,2024-09-30,3,1341.69,447.23,Monday,17:00:33,September,Evening,TechPro Novel,Books,Brianna Richardson,North America,2024-10-01,646.9025,119.0,4.0,P013,Electronics,Monday,Evening
+T00450,C0104,P068,2024-08-23,1,447.23,447.23,Friday,02:14:14,August,Evening,TechPro Novel,Books,Laura Bennett,South America,2022-02-10,822.3875,84.0,8.0,P006,Home Decor,Monday,Afternoon
+T00833,C0187,P068,2024-01-09,3,1341.69,447.23,Tuesday,11:36:08,January,Morning,TechPro Novel,Books,Kayla Kelly,South America,2024-08-02,922.4879999999999,107.0,5.0,P009,Books,Thursday,Morning
+T00030,C0185,P092,2024-08-20,3,1167.6,389.2,Tuesday,05:30:54,August,Morning,BookWorld Running Shoes,Clothing,Kathleen Logan,North America,2023-10-17,1141.4399999999998,160.0,3.0,P021,Books,Saturday,Evening
+T00340,C0098,P092,2024-07-02,2,778.4,389.2,Tuesday,05:35:21,July,Morning,BookWorld Running Shoes,Clothing,Laura Gilbert,North America,2024-10-21,394.7525,35.0,8.0,P021,Clothing,Tuesday,Evening
+T00410,C0042,P092,2024-10-30,4,1556.8,389.2,Wednesday,12:42:57,October,Afternoon,BookWorld Running Shoes,Clothing,Heather Riley,North America,2023-03-15,800.8299999999999,79.0,3.0,P048,Clothing,Saturday,Afternoon
+T00426,C0026,P092,2024-03-20,1,389.2,389.2,Wednesday,10:30:55,March,Morning,BookWorld Running Shoes,Clothing,Sara Miller,North America,2024-05-03,887.2625,110.0,4.0,P027,Electronics,Wednesday,Evening
+T00439,C0141,P092,2024-07-01,4,1556.8,389.2,Monday,14:11:51,July,Afternoon,BookWorld Running Shoes,Clothing,Paul Parsons,Europe,2023-02-23,1067.387,55.0,10.0,P025,Clothing,Tuesday,Evening
+T00618,C0103,P092,2024-03-04,1,389.2,389.2,Monday,04:39:40,March,Evening,BookWorld Running Shoes,Clothing,Jennifer Munoz,Europe,2022-05-15,492.50999999999993,119.0,5.0,P006,Clothing,Monday,Evening
+T00652,C0149,P092,2024-04-27,4,1556.8,389.2,Saturday,01:00:06,April,Evening,BookWorld Running Shoes,Clothing,Tina Wilson,Europe,2023-01-21,880.9559999999999,151.0,5.0,P012,Clothing,Tuesday,Afternoon
+T00676,C0081,P092,2024-09-04,4,1556.8,389.2,Wednesday,02:55:21,September,Evening,BookWorld Running Shoes,Clothing,Kimberly Turner,Europe,2024-02-24,590.4133333333333,80.0,6.0,P006,Books,Saturday,Evening
+T00678,C0142,P092,2024-12-24,3,1167.6,389.2,Tuesday,20:00:42,December,Evening,BookWorld Running Shoes,Clothing,Nicole Long DVM,Asia,2024-02-08,559.76,34.0,4.0,P040,Books,Tuesday,Afternoon
+T00031,C0093,P076,2024-08-31,3,1287.87,429.29,Saturday,18:20:26,August,Evening,ActiveWear Jeans,Clothing,Nancy Walker,Asia,2024-07-13,588.3322222222222,133.0,8.0,P076,Clothing,Monday,Evening
+T00106,C0158,P076,2024-09-12,4,1717.16,429.29,Thursday,09:25:47,September,Morning,ActiveWear Jeans,Clothing,Wendy Browning,South America,2023-04-12,929.13,137.0,4.0,P021,Home Decor,Thursday,Afternoon
+T00149,C0093,P076,2024-07-13,4,1717.16,429.29,Saturday,13:50:21,July,Afternoon,ActiveWear Jeans,Clothing,Nancy Walker,Asia,2024-07-13,588.3322222222222,133.0,8.0,P076,Clothing,Monday,Evening
+T00240,C0113,P076,2024-01-24,1,429.29,429.29,Wednesday,02:35:57,January,Evening,ActiveWear Jeans,Clothing,Joseph Ortiz Jr.,South America,2022-06-17,601.5125,61.0,7.0,P078,Home Decor,Sunday,Evening
+T00487,C0159,P076,2024-07-21,3,1287.87,429.29,Sunday,04:34:35,July,Evening,ActiveWear Jeans,Clothing,Austin Miller,Asia,2022-08-06,690.8033333333333,45.0,3.0,P038,Home Decor,Friday,Evening
+T00614,C0042,P076,2024-04-28,1,429.29,429.29,Sunday,14:38:55,April,Afternoon,ActiveWear Jeans,Clothing,Heather Riley,North America,2023-03-15,800.8299999999999,79.0,3.0,P048,Clothing,Saturday,Afternoon
+T00694,C0188,P076,2024-06-30,4,1717.16,429.29,Sunday,08:52:10,June,Morning,ActiveWear Jeans,Clothing,Anna Ball,South America,2022-05-17,888.9150000000001,32.0,7.0,P057,Electronics,Friday,Morning
+T00709,C0175,P076,2024-09-30,1,429.29,429.29,Monday,05:29:31,September,Morning,ActiveWear Jeans,Clothing,Matthew Johnson,Asia,2022-04-16,621.053,68.0,10.0,P008,Books,Wednesday,Evening
+T00754,C0143,P076,2024-01-30,3,1287.87,429.29,Tuesday,13:30:24,January,Afternoon,ActiveWear Jeans,Clothing,Brian Parker,Asia,2024-05-27,863.5185714285715,40.0,6.0,P094,Clothing,Wednesday,Evening
+T00894,C0155,P076,2024-09-12,2,858.58,429.29,Thursday,09:37:09,September,Morning,ActiveWear Jeans,Clothing,Michelle Brown,South America,2023-03-23,768.2614285714286,77.0,7.0,P026,Books,Wednesday,Evening
+T00033,C0099,P036,2024-12-17,2,745.1,372.55,Tuesday,22:52:47,December,Evening,BookWorld Jacket,Clothing,Rodney Eaton,South America,2023-01-29,839.465,35.0,8.0,P005,Clothing,Friday,Evening
+T00080,C0139,P036,2024-04-09,1,372.55,372.55,Tuesday,07:47:04,April,Morning,BookWorld Jacket,Clothing,Ricky Gutierrez,North America,2022-03-14,462.955,113.0,8.0,P006,Books,Wednesday,Morning
+T00312,C0092,P036,2024-01-27,1,372.55,372.55,Saturday,16:35:59,January,Afternoon,BookWorld Jacket,Clothing,Jacqueline Zamora,Asia,2024-05-29,753.9875,42.0,3.0,P036,Clothing,Monday,Evening
+T00316,C0141,P036,2024-12-03,2,745.1,372.55,Tuesday,18:01:55,December,Evening,BookWorld Jacket,Clothing,Paul Parsons,Europe,2023-02-23,1067.387,55.0,10.0,P025,Clothing,Tuesday,Evening
+T00376,C0092,P036,2024-10-21,4,1490.2,372.55,Monday,04:58:32,October,Evening,BookWorld Jacket,Clothing,Jacqueline Zamora,Asia,2024-05-29,753.9875,42.0,3.0,P036,Clothing,Monday,Evening
+T00407,C0067,P036,2024-10-17,1,372.55,372.55,Thursday,02:10:15,October,Evening,BookWorld Jacket,Clothing,Carl Gonzalez,North America,2023-07-06,681.8066666666667,102.0,6.0,P002,Clothing,Thursday,Evening
+T00469,C0083,P036,2024-04-14,1,372.55,372.55,Sunday,12:03:56,April,Afternoon,BookWorld Jacket,Clothing,Christina Stark,South America,2022-04-07,214.26666666666665,41.0,3.0,P036,Clothing,Sunday,Afternoon
+T00517,C0010,P036,2024-11-16,3,1117.65,372.55,Saturday,18:14:23,November,Evening,BookWorld Jacket,Clothing,Aaron Cox,Europe,2022-12-15,429.38750000000005,72.0,4.0,P014,Clothing,Friday,Evening
+T00616,C0101,P036,2024-12-07,2,745.1,372.55,Saturday,12:23:24,December,Afternoon,BookWorld Jacket,Clothing,Kelsey Roberts,Asia,2023-09-30,693.87375,30.0,7.0,P015,Books,Saturday,Evening
+T00659,C0013,P036,2024-11-03,3,1117.65,372.55,Sunday,05:30:39,November,Morning,BookWorld Jacket,Clothing,Lauren Buchanan,South America,2024-05-19,857.2228571428572,85.0,7.0,P015,Clothing,Friday,Evening
+T00690,C0029,P036,2024-12-26,3,1117.65,372.55,Thursday,01:49:16,December,Evening,BookWorld Jacket,Clothing,Erin Manning,North America,2022-04-16,446.46750000000003,32.0,4.0,P036,Clothing,Thursday,Evening
+T00925,C0093,P036,2024-04-04,1,372.55,372.55,Thursday,03:50:45,April,Evening,BookWorld Jacket,Clothing,Nancy Walker,Asia,2024-07-13,588.3322222222222,133.0,8.0,P076,Clothing,Monday,Evening
+T00036,C0035,P013,2024-01-17,1,114.2,114.2,Wednesday,12:40:30,January,Afternoon,BookWorld Smartwatch,Electronics,Brianna Richardson,North America,2024-10-01,646.9025,119.0,4.0,P013,Electronics,Monday,Evening
+T00097,C0045,P013,2024-06-08,4,456.8,114.2,Saturday,14:47:32,June,Afternoon,BookWorld Smartwatch,Electronics,Michael Williams,Asia,2022-02-25,860.2571428571429,154.0,7.0,P001,Electronics,Saturday,Afternoon
+T00144,C0084,P013,2024-01-24,1,114.2,114.2,Wednesday,09:21:15,January,Morning,BookWorld Smartwatch,Electronics,Belinda Garner,Asia,2024-09-17,493.4555555555556,42.0,8.0,P013,Electronics,Tuesday,Morning
+T00201,C0118,P013,2024-11-14,1,114.2,114.2,Thursday,13:58:43,November,Afternoon,BookWorld Smartwatch,Electronics,Jacob Holt,South America,2022-01-22,572.4616666666667,40.0,6.0,P013,Books,Saturday,Afternoon
+T00498,C0039,P013,2024-10-27,1,114.2,114.2,Sunday,05:26:27,October,Morning,BookWorld Smartwatch,Electronics,Angela Harris,South America,2024-10-13,706.6,92.0,6.0,P011,Electronics,Sunday,Afternoon
+T00544,C0075,P013,2024-06-13,3,342.6,114.2,Thursday,07:28:26,June,Morning,BookWorld Smartwatch,Electronics,Misty Higgins,Europe,2023-05-01,649.8855555555556,48.0,9.0,P013,Books,Friday,Evening
+T00560,C0069,P013,2024-05-09,3,342.6,114.2,Thursday,09:15:59,May,Morning,BookWorld Smartwatch,Electronics,Stacy Foster,Europe,2023-12-03,575.738,49.0,5.0,P010,Electronics,Thursday,Evening
+T00697,C0084,P013,2024-10-16,3,342.6,114.2,Wednesday,06:10:29,October,Morning,BookWorld Smartwatch,Electronics,Belinda Garner,Asia,2024-09-17,493.4555555555556,42.0,8.0,P013,Electronics,Tuesday,Morning
+T00738,C0157,P013,2024-03-19,3,342.6,114.2,Tuesday,16:14:11,March,Afternoon,BookWorld Smartwatch,Electronics,Miguel Wong,North America,2024-01-30,375.21999999999997,51.0,5.0,P013,Electronics,Saturday,Afternoon
+T00803,C0197,P013,2024-01-13,4,456.8,114.2,Saturday,04:52:09,January,Evening,BookWorld Smartwatch,Electronics,Christina Harvey,Europe,2023-03-21,642.8833333333333,31.0,3.0,P013,Electronics,Friday,Evening
+T00919,C0091,P013,2024-03-10,3,342.6,114.2,Sunday,12:56:52,March,Afternoon,BookWorld Smartwatch,Electronics,Lisa Kirk,South America,2023-03-16,522.9433333333333,167.0,5.0,P026,Electronics,Tuesday,Evening
+T00038,C0084,P058,2024-09-05,2,315.24,157.62,Thursday,08:46:22,September,Morning,ActiveWear Textbook,Books,Belinda Garner,Asia,2024-09-17,493.4555555555556,42.0,8.0,P013,Electronics,Tuesday,Morning
+T00124,C0076,P058,2024-02-07,3,472.86,157.62,Wednesday,01:32:26,February,Evening,ActiveWear Textbook,Books,Emily Roberts,South America,2024-02-11,466.61199999999997,57.0,5.0,P019,Home Decor,Wednesday,Evening
+T00227,C0049,P058,2024-04-25,2,315.24,157.62,Thursday,18:50:36,April,Evening,ActiveWear Textbook,Books,Jason Yates,North America,2024-09-18,289.435,150.0,8.0,P027,Clothing,Monday,Evening
+T00365,C0102,P058,2024-04-09,4,630.48,157.62,Tuesday,18:48:11,April,Evening,ActiveWear Textbook,Books,Michael Atkinson,South America,2022-09-16,766.5450000000001,148.0,7.0,P058,Electronics,Friday,Evening
+T00404,C0022,P058,2024-09-17,2,315.24,157.62,Tuesday,15:12:23,September,Afternoon,ActiveWear Textbook,Books,Teresa Esparza,Asia,2023-10-27,775.8449999999999,132.0,6.0,P008,Clothing,Tuesday,Morning
+T00416,C0152,P058,2024-01-13,1,157.62,157.62,Saturday,10:46:55,January,Morning,ActiveWear Textbook,Books,Justin Evans,South America,2022-04-19,677.1719999999999,98.0,5.0,P051,Home Decor,Saturday,Morning
+T00471,C0102,P058,2024-01-12,4,630.48,157.62,Friday,17:34:27,January,Evening,ActiveWear Textbook,Books,Michael Atkinson,South America,2022-09-16,766.5450000000001,148.0,7.0,P058,Electronics,Friday,Evening
+T00566,C0139,P058,2024-07-30,2,315.24,157.62,Tuesday,11:43:57,July,Morning,ActiveWear Textbook,Books,Ricky Gutierrez,North America,2022-03-14,462.955,113.0,8.0,P006,Books,Wednesday,Morning
+T00662,C0118,P058,2024-11-08,1,157.62,157.62,Friday,12:43:10,November,Afternoon,ActiveWear Textbook,Books,Jacob Holt,South America,2022-01-22,572.4616666666667,40.0,6.0,P013,Books,Saturday,Afternoon
+T00667,C0047,P058,2024-04-26,2,315.24,157.62,Friday,14:16:50,April,Afternoon,ActiveWear Textbook,Books,Samantha Frank,North America,2024-03-22,410.07714285714286,157.0,7.0,P007,Books,Friday,Morning
+T00681,C0153,P058,2024-09-05,4,630.48,157.62,Thursday,07:22:52,September,Morning,ActiveWear Textbook,Books,Justin Smith,South America,2022-03-20,790.7983333333333,138.0,6.0,P003,Books,Friday,Morning
+T00824,C0156,P058,2024-05-20,1,157.62,157.62,Monday,12:30:20,May,Afternoon,ActiveWear Textbook,Books,William Adams,North America,2023-08-19,694.040909090909,43.0,10.0,P059,Books,Saturday,Afternoon
+T00981,C0112,P058,2024-07-10,4,630.48,157.62,Wednesday,02:32:56,July,Evening,ActiveWear Textbook,Books,Brian Adkins,South America,2022-07-07,653.17,201.0,3.0,P050,Electronics,Wednesday,Evening
+T00039,C0056,P050,2024-10-16,2,875.3,437.65,Wednesday,01:04:33,October,Evening,ActiveWear Smartwatch,Electronics,Erika Fernandez,Asia,2024-04-12,636.588,33.0,5.0,P024,Clothing,Wednesday,Evening
+T00191,C0172,P050,2024-11-21,1,437.65,437.65,Thursday,12:52:03,November,Afternoon,ActiveWear Smartwatch,Electronics,Jamie Webb,Europe,2024-09-09,366.95,67.0,6.0,P003,Home Decor,Tuesday,Afternoon
+T00328,C0085,P050,2024-09-04,3,1312.95,437.65,Wednesday,11:39:30,September,Morning,ActiveWear Smartwatch,Electronics,Richard Brown,South America,2024-09-22,866.11,108.0,3.0,P021,Books,Friday,Morning
+T00345,C0140,P050,2024-08-07,4,1750.6,437.65,Wednesday,09:24:39,August,Morning,ActiveWear Smartwatch,Electronics,Gregory Estrada,Asia,2023-07-01,944.0699999999999,104.0,2.0,P022,Electronics,Tuesday,Evening
+T00362,C0096,P050,2024-01-31,2,875.3,437.65,Wednesday,07:07:22,January,Morning,ActiveWear Smartwatch,Electronics,Benjamin Mcclure,South America,2022-11-18,1214.584,47.0,5.0,P025,Electronics,Wednesday,Morning
+T00542,C0098,P050,2024-04-17,1,437.65,437.65,Wednesday,00:48:43,April,Evening,ActiveWear Smartwatch,Electronics,Laura Gilbert,North America,2024-10-21,394.7525,35.0,8.0,P021,Clothing,Tuesday,Evening
+T00718,C0007,P050,2024-02-20,1,437.65,437.65,Tuesday,09:22:52,February,Morning,ActiveWear Smartwatch,Electronics,Paul Graves,Asia,2022-06-18,859.9399999999999,155.0,3.0,P050,Electronics,Friday,Morning
+T00770,C0181,P050,2024-09-16,2,875.3,437.65,Monday,21:24:16,September,Evening,ActiveWear Smartwatch,Electronics,Alexander Barker,South America,2023-11-16,557.9333333333334,31.0,6.0,P002,Electronics,Friday,Evening
+T00859,C0162,P050,2024-01-11,3,1312.95,437.65,Thursday,14:19:36,January,Afternoon,ActiveWear Smartwatch,Electronics,Edwin Watson,Asia,2022-03-29,600.28,71.0,8.0,P009,Electronics,Monday,Evening
+T00902,C0009,P050,2024-10-12,1,437.65,437.65,Saturday,04:57:16,October,Evening,ActiveWear Smartwatch,Electronics,Joy Clark,Europe,2023-08-14,298.8333333333333,107.0,3.0,P050,Clothing,Saturday,Evening
+T00904,C0155,P050,2024-01-17,1,437.65,437.65,Wednesday,03:47:03,January,Evening,ActiveWear Smartwatch,Electronics,Michelle Brown,South America,2023-03-23,768.2614285714286,77.0,7.0,P026,Books,Wednesday,Evening
+T00979,C0112,P050,2024-05-08,3,1312.95,437.65,Wednesday,03:42:39,May,Evening,ActiveWear Smartwatch,Electronics,Brian Adkins,South America,2022-07-07,653.17,201.0,3.0,P050,Electronics,Wednesday,Evening
+T00984,C0156,P050,2024-05-04,4,1750.6,437.65,Saturday,11:33:18,May,Morning,ActiveWear Smartwatch,Electronics,William Adams,North America,2023-08-19,694.040909090909,43.0,10.0,P059,Books,Saturday,Afternoon
+T00040,C0177,P030,2024-06-27,4,1111.44,277.86,Thursday,19:13:16,June,Evening,ActiveWear Cookbook,Books,Julia Kelly,Asia,2024-06-01,627.4525,84.0,4.0,P028,Books,Monday,Evening
+T00268,C0170,P030,2024-05-20,1,277.86,277.86,Monday,10:53:24,May,Morning,ActiveWear Cookbook,Books,Logan Harris,Europe,2023-09-13,986.348,136.0,5.0,P019,Home Decor,Friday,Morning
+T00303,C0085,P030,2024-10-11,1,277.86,277.86,Friday,20:08:31,October,Evening,ActiveWear Cookbook,Books,Richard Brown,South America,2024-09-22,866.11,108.0,3.0,P021,Books,Friday,Morning
+T00491,C0136,P030,2024-06-07,4,1111.44,277.86,Friday,08:52:46,June,Morning,ActiveWear Cookbook,Books,Kristen Holder,Asia,2024-03-14,716.4983333333333,78.0,6.0,P011,Home Decor,Tuesday,Evening
+T00511,C0081,P030,2024-05-26,3,833.58,277.86,Sunday,05:56:36,May,Morning,ActiveWear Cookbook,Books,Kimberly Turner,Europe,2024-02-24,590.4133333333333,80.0,6.0,P006,Books,Saturday,Evening
+T00604,C0011,P030,2024-08-10,1,277.86,277.86,Saturday,15:04:27,August,Afternoon,ActiveWear Cookbook,Books,Bryan Mathews,South America,2022-12-12,746.0,32.0,5.0,P017,Books,Saturday,Evening
+T00647,C0018,P030,2024-08-03,4,1111.44,277.86,Saturday,19:15:23,August,Evening,ActiveWear Cookbook,Books,Tyler Haynes,North America,2024-09-21,956.3700000000001,177.0,5.0,P027,Books,Friday,Evening
+T00810,C0046,P030,2024-01-06,1,277.86,277.86,Saturday,13:22:36,January,Afternoon,ActiveWear Cookbook,Books,Beth Cardenas,North America,2024-10-23,803.9757142857143,124.0,7.0,P016,Books,Saturday,Evening
+T00938,C0087,P030,2024-02-21,3,833.58,277.86,Wednesday,18:51:05,February,Evening,ActiveWear Cookbook,Books,Travis Campbell,South America,2024-04-11,943.4614285714285,136.0,7.0,P029,Books,Monday,Evening
+T00042,C0189,P025,2024-12-21,2,569.24,284.62,Saturday,02:16:46,December,Evening,ActiveWear Cookware Set,Home Decor,Sherri Dixon,North America,2024-01-22,528.642,37.0,5.0,P025,Home Decor,Monday,Evening
+T00074,C0041,P025,2024-03-10,3,853.86,284.62,Sunday,02:20:47,March,Evening,ActiveWear Cookware Set,Home Decor,Lindsey Deleon,Europe,2023-12-27,878.54,43.0,7.0,P011,Books,Sunday,Evening
+T00304,C0174,P025,2024-12-12,1,284.62,284.62,Thursday,13:59:40,December,Afternoon,ActiveWear Cookware Set,Home Decor,Tracy Steele,South America,2022-11-03,578.39,46.0,5.0,P025,Books,Sunday,Afternoon
+T00331,C0005,P025,2024-05-05,3,853.86,284.62,Sunday,13:03:41,May,Afternoon,ActiveWear Cookware Set,Home Decor,Laura Weber,Asia,2022-08-15,678.08,84.0,3.0,P012,Electronics,Friday,Evening
+T00456,C0004,P025,2024-12-12,2,569.24,284.62,Thursday,03:38:36,December,Evening,ActiveWear Cookware Set,Home Decor,Kathleen Rodriguez,South America,2022-10-09,669.36,35.0,8.0,P008,Books,Monday,Morning
+T00462,C0003,P025,2024-06-03,3,853.86,284.62,Monday,19:17:36,June,Evening,ActiveWear Cookware Set,Home Decor,Michael Rivera,South America,2024-03-07,681.345,156.0,4.0,P002,Home Decor,Sunday,Evening
+T00573,C0162,P025,2024-11-17,3,853.86,284.62,Sunday,04:21:44,November,Evening,ActiveWear Cookware Set,Home Decor,Edwin Watson,Asia,2022-03-29,600.28,71.0,8.0,P009,Electronics,Monday,Evening
+T00580,C0141,P025,2024-04-09,1,284.62,284.62,Tuesday,07:28:17,April,Morning,ActiveWear Cookware Set,Home Decor,Paul Parsons,Europe,2023-02-23,1067.387,55.0,10.0,P025,Clothing,Tuesday,Evening
+T00658,C0021,P025,2024-01-16,1,284.62,284.62,Tuesday,11:22:42,January,Morning,ActiveWear Cookware Set,Home Decor,Robert Blanchard,Asia,2023-04-17,677.49,107.0,8.0,P015,Books,Saturday,Evening
+T00832,C0064,P025,2024-05-07,3,853.86,284.62,Tuesday,01:08:19,May,Evening,ActiveWear Cookware Set,Home Decor,Martha Montgomery,Europe,2023-10-22,807.954,52.0,5.0,P018,Books,Tuesday,Afternoon
+T00842,C0055,P025,2024-01-24,4,1138.48,284.62,Wednesday,06:58:00,January,Morning,ActiveWear Cookware Set,Home Decor,Lauren Williams,North America,2024-11-11,571.5360000000001,118.0,5.0,P025,Electronics,Tuesday,Morning
+T00864,C0096,P025,2024-08-22,4,1138.48,284.62,Thursday,05:45:56,August,Morning,ActiveWear Cookware Set,Home Decor,Benjamin Mcclure,South America,2022-11-18,1214.584,47.0,5.0,P025,Electronics,Wednesday,Morning
+T00043,C0049,P027,2024-03-02,4,916.24,229.06,Saturday,16:59:31,March,Afternoon,SoundWave Headphones,Electronics,Jason Yates,North America,2024-09-18,289.435,150.0,8.0,P027,Clothing,Monday,Evening
+T00141,C0039,P027,2024-07-08,3,687.18,229.06,Monday,19:55:52,July,Evening,SoundWave Headphones,Electronics,Angela Harris,South America,2024-10-13,706.6,92.0,6.0,P011,Electronics,Sunday,Afternoon
+T00178,C0173,P027,2024-01-05,2,458.12,229.06,Friday,13:14:07,January,Afternoon,SoundWave Headphones,Electronics,Francisco Young,Asia,2022-10-06,726.005,148.0,8.0,P004,Books,Friday,Afternoon
+T00275,C0018,P027,2024-02-17,4,916.24,229.06,Saturday,18:50:52,February,Evening,SoundWave Headphones,Electronics,Tyler Haynes,North America,2024-09-21,956.3700000000001,177.0,5.0,P027,Books,Friday,Evening
+T00326,C0019,P027,2024-06-14,3,687.18,229.06,Friday,11:41:17,June,Morning,SoundWave Headphones,Electronics,Brandon Rodriguez,Europe,2023-01-12,364.3033333333333,80.0,6.0,P001,Books,Friday,Evening
+T00337,C0064,P027,2024-01-07,4,916.24,229.06,Sunday,16:11:55,January,Afternoon,SoundWave Headphones,Electronics,Martha Montgomery,Europe,2023-10-22,807.954,52.0,5.0,P018,Books,Tuesday,Afternoon
+T00453,C0034,P027,2024-07-10,4,916.24,229.06,Wednesday,19:53:08,July,Evening,SoundWave Headphones,Electronics,Dalton Perez,North America,2023-09-27,512.2,96.0,6.0,P014,Clothing,Wednesday,Evening
+T00739,C0098,P027,2024-04-26,2,458.12,229.06,Friday,07:31:56,April,Morning,SoundWave Headphones,Electronics,Laura Gilbert,North America,2024-10-21,394.7525,35.0,8.0,P021,Clothing,Tuesday,Evening
+T00787,C0026,P027,2024-06-04,4,916.24,229.06,Tuesday,00:03:44,June,Evening,SoundWave Headphones,Electronics,Sara Miller,North America,2024-05-03,887.2625,110.0,4.0,P027,Electronics,Wednesday,Evening
+T00871,C0084,P027,2024-03-12,4,916.24,229.06,Tuesday,11:15:01,March,Morning,SoundWave Headphones,Electronics,Belinda Garner,Asia,2024-09-17,493.4555555555556,42.0,8.0,P013,Electronics,Tuesday,Morning
+T00951,C0197,P027,2024-12-27,2,458.12,229.06,Friday,18:20:31,December,Evening,SoundWave Headphones,Electronics,Christina Harvey,Europe,2023-03-21,642.8833333333333,31.0,3.0,P013,Electronics,Friday,Evening
+T00045,C0113,P078,2024-07-09,4,164.72,41.18,Tuesday,02:53:14,July,Evening,HomeSense Rug,Home Decor,Joseph Ortiz Jr.,South America,2022-06-17,601.5125,61.0,7.0,P078,Home Decor,Sunday,Evening
+T00123,C0113,P078,2024-07-25,2,82.36,41.18,Thursday,17:05:14,July,Evening,HomeSense Rug,Home Decor,Joseph Ortiz Jr.,South America,2022-06-17,601.5125,61.0,7.0,P078,Home Decor,Sunday,Evening
+T00164,C0062,P078,2024-07-10,3,123.54,41.18,Wednesday,08:49:17,July,Morning,HomeSense Rug,Home Decor,Jeffery Hartman,Europe,2022-12-14,546.5133333333333,201.0,2.0,P059,Clothing,Wednesday,Morning
+T00186,C0098,P078,2024-04-02,1,41.18,41.18,Tuesday,07:44:01,April,Morning,HomeSense Rug,Home Decor,Laura Gilbert,North America,2024-10-21,394.7525,35.0,8.0,P021,Clothing,Tuesday,Evening
+T00431,C0067,P078,2024-08-15,3,123.54,41.18,Thursday,00:55:59,August,Evening,HomeSense Rug,Home Decor,Carl Gonzalez,North America,2023-07-06,681.8066666666667,102.0,6.0,P002,Clothing,Thursday,Evening
+T00515,C0190,P078,2024-12-14,1,41.18,41.18,Saturday,00:46:19,December,Evening,HomeSense Rug,Home Decor,Alexander Lowe,South America,2024-05-31,596.604,42.0,5.0,P016,Electronics,Saturday,Morning
+T00522,C0160,P078,2024-03-03,4,164.72,41.18,Sunday,09:40:08,March,Morning,HomeSense Rug,Home Decor,Jodi Cook,North America,2022-04-05,585.386,164.0,5.0,P022,Home Decor,Sunday,Morning
+T00592,C0060,P078,2024-09-03,2,82.36,41.18,Tuesday,07:19:28,September,Morning,HomeSense Rug,Home Decor,James Murphy,Europe,2022-04-22,82.36,146.0,1.0,P078,Home Decor,Tuesday,Morning
+T00635,C0166,P078,2024-07-25,4,164.72,41.18,Thursday,02:34:05,July,Evening,HomeSense Rug,Home Decor,John Rogers,Europe,2022-02-13,601.3375000000001,97.0,4.0,P010,Home Decor,Monday,Evening
+T00816,C0172,P078,2024-09-25,2,82.36,41.18,Wednesday,06:56:25,September,Morning,HomeSense Rug,Home Decor,Jamie Webb,Europe,2024-09-09,366.95,67.0,6.0,P003,Home Decor,Tuesday,Afternoon
+T00048,C0043,P100,2024-04-23,2,252.68,126.34,Tuesday,22:46:40,April,Evening,HomeSense Sweater,Clothing,Sandy Short MD,Asia,2023-02-05,377.10666666666674,130.0,3.0,P051,Books,Thursday,Evening
+T00115,C0161,P100,2024-03-10,1,126.34,126.34,Sunday,02:22:50,March,Evening,HomeSense Sweater,Clothing,Jessica Warren,Asia,2022-03-14,392.72875,165.0,8.0,P007,Books,Monday,Evening
+T00283,C0109,P100,2024-07-16,4,505.36,126.34,Tuesday,14:50:07,July,Afternoon,HomeSense Sweater,Clothing,Abigail Jones,North America,2022-05-09,498.84090909090907,81.0,10.0,P100,Clothing,Saturday,Evening
+T00301,C0109,P100,2024-07-13,2,252.68,126.34,Saturday,08:15:45,July,Morning,HomeSense Sweater,Clothing,Abigail Jones,North America,2022-05-09,498.84090909090907,81.0,10.0,P100,Clothing,Saturday,Evening
+T00740,C0156,P100,2024-08-24,4,505.36,126.34,Saturday,19:10:31,August,Evening,HomeSense Sweater,Clothing,William Adams,North America,2023-08-19,694.040909090909,43.0,10.0,P059,Books,Saturday,Afternoon
+T00820,C0077,P100,2024-03-11,2,252.68,126.34,Monday,10:55:51,March,Morning,HomeSense Sweater,Clothing,Scott Sims,South America,2023-10-18,279.09999999999997,86.0,3.0,P081,Clothing,Monday,Afternoon
+T00049,C0148,P039,2024-06-23,3,1291.77,430.59,Sunday,14:05:49,June,Afternoon,TechPro Smartwatch,Electronics,Matthew Rogers,South America,2023-04-16,1091.558,117.0,5.0,P011,Electronics,Tuesday,Evening
+T00086,C0168,P039,2024-07-14,3,1291.77,430.59,Sunday,14:57:44,July,Afternoon,TechPro Smartwatch,Electronics,Karen Clements MD,South America,2022-12-13,1263.4575,96.0,4.0,P039,Books,Monday,Afternoon
+T00090,C0072,P039,2024-03-10,4,1722.36,430.59,Sunday,16:04:33,March,Afternoon,TechPro Smartwatch,Electronics,Sarah Scott,North America,2024-07-24,599.918,86.0,5.0,P008,Electronics,Saturday,Evening
+T00198,C0048,P039,2024-09-17,1,430.59,430.59,Tuesday,07:53:30,September,Morning,TechPro Smartwatch,Electronics,Matthew Park,South America,2024-11-07,770.1879999999999,54.0,5.0,P010,Electronics,Sunday,Evening
+T00256,C0192,P039,2024-07-30,3,1291.77,430.59,Tuesday,12:47:07,July,Afternoon,TechPro Smartwatch,Electronics,Sarah Arias,South America,2022-09-15,518.1800000000001,181.0,4.0,P010,Electronics,Monday,Afternoon
+T00348,C0005,P039,2024-03-15,2,861.18,430.59,Friday,04:08:59,March,Evening,TechPro Smartwatch,Electronics,Laura Weber,Asia,2022-08-15,678.08,84.0,3.0,P012,Electronics,Friday,Evening
+T00391,C0096,P039,2024-08-02,4,1722.36,430.59,Friday,09:54:08,August,Morning,TechPro Smartwatch,Electronics,Benjamin Mcclure,South America,2022-11-18,1214.584,47.0,5.0,P025,Electronics,Wednesday,Morning
+T00472,C0016,P039,2024-07-02,1,430.59,430.59,Tuesday,06:30:26,July,Morning,TechPro Smartwatch,Electronics,Emily Woods,North America,2024-01-03,774.884,78.0,5.0,P016,Clothing,Thursday,Morning
+T00480,C0102,P039,2024-08-02,3,1291.77,430.59,Friday,03:34:50,August,Evening,TechPro Smartwatch,Electronics,Michael Atkinson,South America,2022-09-16,766.5450000000001,148.0,7.0,P058,Electronics,Friday,Evening
+T00523,C0114,P039,2024-03-15,3,1291.77,430.59,Friday,12:05:37,March,Afternoon,TechPro Smartwatch,Electronics,Benjamin Anderson,Europe,2024-11-18,1156.086,126.0,5.0,P020,Electronics,Wednesday,Afternoon
+T00555,C0088,P039,2024-12-15,1,430.59,430.59,Sunday,04:43:29,December,Evening,TechPro Smartwatch,Electronics,Carlos Murray,Asia,2023-05-14,427.076,43.0,5.0,P010,Clothing,Sunday,Evening
+T00665,C0053,P039,2024-11-01,4,1722.36,430.59,Friday,12:16:45,November,Afternoon,TechPro Smartwatch,Electronics,Albert Burke,Europe,2022-06-18,886.0766666666667,87.0,6.0,P006,Clothing,Friday,Evening
+T00050,C0124,P016,2024-10-07,1,330.05,330.05,Monday,07:58:38,October,Morning,ActiveWear Running Shoes,Clothing,Lindsay Perez,Europe,2024-08-26,609.1899999999999,112.0,7.0,P006,Home Decor,Saturday,Afternoon
+T00056,C0192,P016,2024-02-07,1,330.05,330.05,Wednesday,14:37:55,February,Afternoon,ActiveWear Running Shoes,Clothing,Sarah Arias,South America,2022-09-15,518.1800000000001,181.0,4.0,P010,Electronics,Monday,Afternoon
+T00167,C0153,P016,2024-07-05,3,990.15,330.05,Friday,11:53:41,July,Morning,ActiveWear Running Shoes,Clothing,Justin Smith,South America,2022-03-20,790.7983333333333,138.0,6.0,P003,Books,Friday,Morning
+T00368,C0190,P016,2024-05-16,4,1320.2,330.05,Thursday,09:05:38,May,Morning,ActiveWear Running Shoes,Clothing,Alexander Lowe,South America,2024-05-31,596.604,42.0,5.0,P016,Electronics,Saturday,Morning
+T00579,C0051,P016,2024-12-16,1,330.05,330.05,Monday,17:36:31,December,Evening,ActiveWear Running Shoes,Clothing,Nicholas Ellis,Europe,2023-12-21,814.2242857142857,42.0,7.0,P006,Electronics,Saturday,Evening
+T00683,C0111,P016,2024-01-27,4,1320.2,330.05,Saturday,21:34:25,January,Evening,ActiveWear Running Shoes,Clothing,Roger David,Europe,2024-11-13,394.604,46.0,5.0,P003,Clothing,Wednesday,Evening
+T00700,C0016,P016,2024-08-15,1,330.05,330.05,Thursday,10:18:31,August,Morning,ActiveWear Running Shoes,Clothing,Emily Woods,North America,2024-01-03,774.884,78.0,5.0,P016,Clothing,Thursday,Morning
+T00802,C0046,P016,2024-09-25,3,990.15,330.05,Wednesday,01:45:49,September,Evening,ActiveWear Running Shoes,Clothing,Beth Cardenas,North America,2024-10-23,803.9757142857143,124.0,7.0,P016,Books,Saturday,Evening
+T00942,C0105,P016,2024-06-19,4,1320.2,330.05,Wednesday,06:55:10,June,Morning,ActiveWear Running Shoes,Clothing,Ryan Hampton,Europe,2024-11-11,801.2416666666667,146.0,6.0,P001,Electronics,Monday,Morning
+T00051,C0097,P022,2024-03-23,1,137.54,137.54,Saturday,05:58:54,March,Morning,HomeSense Wall Art,Home Decor,Tina Ford,Asia,2023-12-18,137.54,310.0,1.0,P022,Home Decor,Saturday,Morning
+T00160,C0065,P022,2024-07-29,3,412.62,137.54,Monday,06:59:14,July,Morning,HomeSense Wall Art,Home Decor,Gerald Hines,North America,2024-07-10,766.37,45.0,10.0,P022,Home Decor,Monday,Evening
+T00252,C0154,P022,2024-06-12,1,137.54,137.54,Wednesday,22:59:30,June,Evening,HomeSense Wall Art,Home Decor,Robert Sharp,North America,2024-10-27,617.2683333333333,130.0,6.0,P008,Electronics,Monday,Afternoon
+T00271,C0035,P022,2024-04-29,3,412.62,137.54,Monday,19:45:24,April,Evening,HomeSense Wall Art,Home Decor,Brianna Richardson,North America,2024-10-01,646.9025,119.0,4.0,P013,Electronics,Monday,Evening
+T00296,C0179,P022,2024-07-23,3,412.62,137.54,Tuesday,09:15:48,July,Morning,HomeSense Wall Art,Home Decor,Donald Miller,Europe,2022-10-16,608.805,109.0,6.0,P022,Home Decor,Saturday,Evening
+T00300,C0160,P022,2024-08-16,4,550.16,137.54,Friday,08:44:30,August,Morning,HomeSense Wall Art,Home Decor,Jodi Cook,North America,2022-04-05,585.386,164.0,5.0,P022,Home Decor,Sunday,Morning
+T00414,C0194,P022,2024-03-31,3,412.62,137.54,Sunday,03:46:52,March,Evening,HomeSense Wall Art,Home Decor,Stacy Cook,North America,2024-05-04,552.7385714285714,97.0,7.0,P005,Books,Sunday,Evening
+T00481,C0188,P022,2024-08-30,3,412.62,137.54,Friday,20:51:44,August,Evening,HomeSense Wall Art,Home Decor,Anna Ball,South America,2022-05-17,888.9150000000001,32.0,7.0,P057,Electronics,Friday,Morning
+T00509,C0025,P022,2024-08-13,1,137.54,137.54,Tuesday,22:51:21,August,Evening,HomeSense Wall Art,Home Decor,Gregory Odom,South America,2022-07-04,397.4525,167.0,4.0,P022,Home Decor,Thursday,Evening
+T00612,C0140,P022,2024-10-15,1,137.54,137.54,Tuesday,18:21:07,October,Evening,HomeSense Wall Art,Home Decor,Gregory Estrada,Asia,2023-07-01,944.0699999999999,104.0,2.0,P022,Electronics,Tuesday,Evening
+T00742,C0124,P022,2024-03-23,2,275.08,137.54,Saturday,05:53:50,March,Morning,HomeSense Wall Art,Home Decor,Lindsay Perez,Europe,2024-08-26,609.1899999999999,112.0,7.0,P006,Home Decor,Saturday,Afternoon
+T00761,C0199,P022,2024-10-01,4,550.16,137.54,Tuesday,05:57:09,October,Morning,HomeSense Wall Art,Home Decor,Andrea Jenkins,Europe,2022-12-03,494.82,93.0,4.0,P008,Electronics,Saturday,Afternoon
+T00886,C0104,P022,2024-10-28,3,412.62,137.54,Monday,14:36:09,October,Afternoon,HomeSense Wall Art,Home Decor,Laura Bennett,South America,2022-02-10,822.3875,84.0,8.0,P006,Home Decor,Monday,Afternoon
+T00895,C0121,P022,2024-05-03,3,412.62,137.54,Friday,18:35:03,May,Evening,HomeSense Wall Art,Home Decor,Mark Atkinson,Europe,2023-07-23,243.63,122.0,4.0,P022,Books,Friday,Evening
+T00932,C0001,P022,2024-09-17,3,412.62,137.54,Tuesday,09:01:18,September,Morning,HomeSense Wall Art,Home Decor,Lawrence Carroll,South America,2022-07-10,670.9040000000001,86.0,5.0,P022,Electronics,Tuesday,Evening
+T00054,C0085,P021,2024-02-05,3,1007.52,335.84,Monday,07:45:31,February,Morning,SoundWave Rug,Home Decor,Richard Brown,South America,2024-09-22,866.11,108.0,3.0,P021,Books,Friday,Morning
+T00075,C0039,P021,2024-10-27,3,1007.52,335.84,Sunday,13:50:07,October,Afternoon,SoundWave Rug,Home Decor,Angela Harris,South America,2024-10-13,706.6,92.0,6.0,P011,Electronics,Sunday,Afternoon
+T00299,C0098,P021,2024-08-27,1,335.84,335.84,Tuesday,22:57:39,August,Evening,SoundWave Rug,Home Decor,Laura Gilbert,North America,2024-10-21,394.7525,35.0,8.0,P021,Clothing,Tuesday,Evening
+T00440,C0136,P021,2024-07-24,3,1007.52,335.84,Wednesday,00:20:52,July,Evening,SoundWave Rug,Home Decor,Kristen Holder,Asia,2024-03-14,716.4983333333333,78.0,6.0,P011,Home Decor,Tuesday,Evening
+T00457,C0158,P021,2024-07-18,1,335.84,335.84,Thursday,20:01:21,July,Evening,SoundWave Rug,Home Decor,Wendy Browning,South America,2023-04-12,929.13,137.0,4.0,P021,Home Decor,Thursday,Afternoon
+T00687,C0182,P021,2024-03-31,4,1343.36,335.84,Sunday,22:56:31,March,Evening,SoundWave Rug,Home Decor,Joshua Preston,Europe,2024-12-28,996.1539999999999,263.0,5.0,P008,Home Decor,Monday,Evening
+T00737,C0157,P021,2024-05-19,1,335.84,335.84,Sunday,06:37:56,May,Morning,SoundWave Rug,Home Decor,Miguel Wong,North America,2024-01-30,375.21999999999997,51.0,5.0,P013,Electronics,Saturday,Afternoon
+T00763,C0185,P021,2024-04-14,3,1007.52,335.84,Sunday,23:09:04,April,Evening,SoundWave Rug,Home Decor,Kathleen Logan,North America,2023-10-17,1141.4399999999998,160.0,3.0,P021,Books,Saturday,Evening
+T00807,C0086,P021,2024-10-23,1,335.84,335.84,Wednesday,17:24:22,October,Evening,SoundWave Rug,Home Decor,Stephanie Peterson,Europe,2022-09-18,550.9359999999999,32.0,5.0,P010,Home Decor,Thursday,Evening
+T00857,C0080,P021,2024-03-12,3,1007.52,335.84,Tuesday,15:48:24,March,Afternoon,SoundWave Rug,Home Decor,David Gonzalez,Asia,2024-02-07,1007.52,321.0,1.0,P021,Home Decor,Tuesday,Afternoon
+T00877,C0137,P021,2024-01-31,2,671.68,335.84,Wednesday,15:36:46,January,Afternoon,SoundWave Rug,Home Decor,Robert Gardner,South America,2024-04-09,666.51,35.0,5.0,P003,Books,Wednesday,Afternoon
+T00055,C0177,P072,2024-06-12,2,798.68,399.34,Wednesday,20:54:36,June,Evening,ActiveWear Headphones,Electronics,Julia Kelly,Asia,2024-06-01,627.4525,84.0,4.0,P028,Books,Monday,Evening
+T00162,C0045,P072,2024-08-26,3,1198.02,399.34,Monday,13:10:31,August,Afternoon,ActiveWear Headphones,Electronics,Michael Williams,Asia,2022-02-25,860.2571428571429,154.0,7.0,P001,Electronics,Saturday,Afternoon
+T00172,C0021,P072,2024-07-14,2,798.68,399.34,Sunday,06:50:22,July,Morning,ActiveWear Headphones,Electronics,Robert Blanchard,Asia,2023-04-17,677.49,107.0,8.0,P015,Books,Saturday,Evening
+T00529,C0152,P072,2024-10-21,3,1198.02,399.34,Monday,06:20:03,October,Morning,ActiveWear Headphones,Electronics,Justin Evans,South America,2022-04-19,677.1719999999999,98.0,5.0,P051,Home Decor,Saturday,Morning
+T00929,C0068,P072,2024-12-24,3,1198.02,399.34,Tuesday,23:45:11,December,Evening,ActiveWear Headphones,Electronics,Mark Cox,North America,2023-04-04,743.8025,34.0,8.0,P002,Electronics,Tuesday,Evening
+T00994,C0040,P072,2024-01-06,2,798.68,399.34,Saturday,21:49:35,January,Evening,ActiveWear Headphones,Electronics,Michael Harrell,Asia,2022-03-07,1323.1333333333332,192.0,2.0,P020,Clothing,Friday,Morning
+T00057,C0062,P059,2024-07-03,3,909.6,303.2,Wednesday,07:10:58,July,Morning,SoundWave Jeans,Clothing,Jeffery Hartman,Europe,2022-12-14,546.5133333333333,201.0,2.0,P059,Clothing,Wednesday,Morning
+T00062,C0009,P059,2024-10-12,1,303.2,303.2,Saturday,06:41:00,October,Morning,SoundWave Jeans,Clothing,Joy Clark,Europe,2023-08-14,298.8333333333333,107.0,3.0,P050,Clothing,Saturday,Evening
+T00131,C0029,P059,2024-06-13,1,303.2,303.2,Thursday,02:56:04,June,Evening,SoundWave Jeans,Clothing,Erin Manning,North America,2022-04-16,446.46750000000003,32.0,4.0,P036,Clothing,Thursday,Evening
+T00188,C0195,P059,2024-05-21,3,909.6,303.2,Tuesday,03:08:56,May,Evening,SoundWave Jeans,Clothing,Jeremy Mclaughlin,South America,2024-09-17,672.7116666666667,64.0,6.0,P028,Home Decor,Tuesday,Evening
+T00282,C0145,P059,2024-11-26,1,303.2,303.2,Tuesday,07:35:05,November,Morning,SoundWave Jeans,Clothing,Wayne Stone,Asia,2023-01-13,721.40875,62.0,7.0,P080,Clothing,Monday,Morning
+T00284,C0022,P059,2024-01-15,4,1212.8,303.2,Monday,07:06:38,January,Morning,SoundWave Jeans,Clothing,Teresa Esparza,Asia,2023-10-27,775.8449999999999,132.0,6.0,P008,Clothing,Tuesday,Morning
+T00295,C0087,P059,2024-07-22,3,909.6,303.2,Monday,09:54:09,July,Morning,SoundWave Jeans,Clothing,Travis Campbell,South America,2024-04-11,943.4614285714285,136.0,7.0,P029,Books,Monday,Evening
+T00377,C0179,P059,2024-01-22,1,303.2,303.2,Monday,19:36:33,January,Evening,SoundWave Jeans,Clothing,Donald Miller,Europe,2022-10-16,608.805,109.0,6.0,P022,Home Decor,Saturday,Evening
+T00400,C0175,P059,2024-04-24,2,606.4,303.2,Wednesday,00:16:33,April,Evening,SoundWave Jeans,Clothing,Matthew Johnson,Asia,2022-04-16,621.053,68.0,10.0,P008,Books,Wednesday,Evening
+T00638,C0100,P059,2024-04-27,3,909.6,303.2,Saturday,05:29:48,April,Morning,SoundWave Jeans,Clothing,Clinton Gomez,Europe,2023-03-16,833.9083333333333,145.0,6.0,P009,Home Decor,Saturday,Afternoon
+T00674,C0024,P059,2024-04-14,3,909.6,303.2,Sunday,01:19:59,April,Evening,SoundWave Jeans,Clothing,Michele Cooley,North America,2024-02-05,518.1457142857142,125.0,7.0,P001,Books,Sunday,Evening
+T00702,C0104,P059,2024-05-20,4,1212.8,303.2,Monday,13:15:04,May,Afternoon,SoundWave Jeans,Clothing,Laura Bennett,South America,2022-02-10,822.3875,84.0,8.0,P006,Home Decor,Monday,Afternoon
+T00705,C0027,P059,2024-06-08,4,1212.8,303.2,Saturday,07:23:21,June,Morning,SoundWave Jeans,Clothing,Justin Heath,Asia,2022-11-09,640.735,108.0,4.0,P003,Books,Friday,Morning
+T00775,C0156,P059,2024-10-05,1,303.2,303.2,Saturday,06:56:28,October,Morning,SoundWave Jeans,Clothing,William Adams,North America,2023-08-19,694.040909090909,43.0,10.0,P059,Books,Saturday,Afternoon
+T00806,C0062,P059,2024-01-04,2,606.4,303.2,Thursday,21:05:07,January,Evening,SoundWave Jeans,Clothing,Jeffery Hartman,Europe,2022-12-14,546.5133333333333,201.0,2.0,P059,Clothing,Wednesday,Morning
+T00854,C0017,P059,2024-07-14,1,303.2,303.2,Sunday,10:29:11,July,Morning,SoundWave Jeans,Clothing,Jennifer King,Europe,2023-12-05,594.2275,57.0,8.0,P001,Books,Sunday,Evening
+T00882,C0156,P059,2024-09-21,3,909.6,303.2,Saturday,14:11:57,September,Afternoon,SoundWave Jeans,Clothing,William Adams,North America,2023-08-19,694.040909090909,43.0,10.0,P059,Books,Saturday,Afternoon
+T00906,C0129,P059,2024-10-10,4,1212.8,303.2,Thursday,12:25:03,October,Afternoon,SoundWave Jeans,Clothing,Marcus Livingston,South America,2024-04-14,779.87,109.0,3.0,P009,Clothing,Monday,Afternoon
+T00948,C0098,P059,2024-01-20,2,606.4,303.2,Saturday,12:30:32,January,Afternoon,SoundWave Jeans,Clothing,Laura Gilbert,North America,2024-10-21,394.7525,35.0,8.0,P021,Clothing,Tuesday,Evening
+T00058,C0106,P031,2024-09-18,2,392.8,196.4,Wednesday,09:38:21,September,Morning,SoundWave Headphones,Electronics,Amanda Mcguire,Asia,2022-09-22,587.86,61.0,5.0,P031,Clothing,Friday,Morning
+T00653,C0028,P031,2024-07-12,4,785.6,196.4,Friday,13:17:08,July,Afternoon,SoundWave Headphones,Electronics,Jennifer Pena,Asia,2024-06-29,852.44625,33.0,6.0,P057,Electronics,Thursday,Afternoon
+T00792,C0105,P031,2024-01-11,1,196.4,196.4,Thursday,06:02:11,January,Morning,SoundWave Headphones,Electronics,Ryan Hampton,Europe,2024-11-11,801.2416666666667,146.0,6.0,P001,Electronics,Monday,Morning
+T00815,C0008,P031,2024-03-26,2,392.8,196.4,Tuesday,20:30:49,March,Evening,SoundWave Headphones,Electronics,David Li,North America,2024-01-13,427.16099999999994,41.0,10.0,P004,Home Decor,Monday,Evening
+T00059,C0107,P042,2024-06-29,1,379.44,379.44,Saturday,13:17:07,June,Afternoon,ActiveWear Headphones,Electronics,Dana Cantrell,South America,2023-02-07,724.784,97.0,5.0,P005,Clothing,Tuesday,Afternoon
+T00344,C0047,P042,2024-01-17,3,1138.32,379.44,Wednesday,10:01:00,January,Morning,ActiveWear Headphones,Electronics,Samantha Frank,North America,2024-03-22,410.07714285714286,157.0,7.0,P007,Books,Friday,Morning
+T00484,C0013,P042,2024-02-24,2,758.88,379.44,Saturday,20:08:07,February,Evening,ActiveWear Headphones,Electronics,Lauren Buchanan,South America,2024-05-19,857.2228571428572,85.0,7.0,P015,Clothing,Friday,Evening
+T00514,C0032,P042,2024-11-27,1,379.44,379.44,Wednesday,20:42:52,November,Evening,ActiveWear Headphones,Electronics,Dustin Campbell,South America,2024-04-17,224.33333333333334,61.0,3.0,P033,Books,Friday,Morning
+T00693,C0122,P042,2024-12-17,4,1517.76,379.44,Tuesday,19:17:17,December,Evening,ActiveWear Headphones,Electronics,Corey Ruiz,North America,2022-05-06,724.65,41.0,7.0,P010,Books,Tuesday,Evening
+T00695,C0090,P042,2024-09-11,3,1138.32,379.44,Wednesday,19:59:24,September,Evening,ActiveWear Headphones,Electronics,Charles Hamilton,Asia,2023-10-17,591.1657142857142,138.0,7.0,P042,Books,Wednesday,Evening
+T00861,C0141,P042,2024-09-26,4,1517.76,379.44,Thursday,21:52:56,September,Evening,ActiveWear Headphones,Electronics,Paul Parsons,Europe,2023-02-23,1067.387,55.0,10.0,P025,Clothing,Tuesday,Evening
+T00973,C0084,P042,2024-07-12,3,1138.32,379.44,Friday,22:15:21,July,Evening,ActiveWear Headphones,Electronics,Belinda Garner,Asia,2024-09-17,493.4555555555556,42.0,8.0,P013,Electronics,Tuesday,Morning
+T00060,C0054,P074,2024-05-06,4,1182.32,295.58,Monday,13:06:06,May,Afternoon,SoundWave Desk Lamp,Home Decor,Bruce Rhodes,Asia,2024-09-29,1005.0487499999999,112.0,8.0,P037,Electronics,Sunday,Afternoon
+T00152,C0144,P074,2024-04-17,4,1182.32,295.58,Wednesday,01:46:23,April,Evening,SoundWave Desk Lamp,Home Decor,Andrea Hart,North America,2024-09-30,652.3399999999999,275.0,2.0,P035,Clothing,Saturday,Evening
+T00217,C0047,P074,2024-02-28,1,295.58,295.58,Wednesday,06:05:22,February,Morning,SoundWave Desk Lamp,Home Decor,Samantha Frank,North America,2024-03-22,410.07714285714286,157.0,7.0,P007,Books,Friday,Morning
+T00223,C0163,P074,2024-04-29,1,295.58,295.58,Monday,10:25:40,April,Morning,SoundWave Desk Lamp,Home Decor,Tiffany Cain,South America,2023-06-08,962.5466666666666,107.0,5.0,P074,Home Decor,Friday,Afternoon
+T00250,C0045,P074,2024-07-14,4,1182.32,295.58,Sunday,11:42:29,July,Morning,SoundWave Desk Lamp,Home Decor,Michael Williams,Asia,2022-02-25,860.2571428571429,154.0,7.0,P001,Electronics,Saturday,Afternoon
+T00325,C0152,P074,2024-06-22,1,295.58,295.58,Saturday,20:59:16,June,Evening,SoundWave Desk Lamp,Home Decor,Justin Evans,South America,2022-04-19,677.1719999999999,98.0,5.0,P051,Home Decor,Saturday,Morning
+T00382,C0163,P074,2024-03-01,4,1182.32,295.58,Friday,16:19:14,March,Afternoon,SoundWave Desk Lamp,Home Decor,Tiffany Cain,South America,2023-06-08,962.5466666666666,107.0,5.0,P074,Home Decor,Friday,Afternoon
+T00438,C0037,P074,2024-07-15,3,886.74,295.58,Monday,16:33:41,July,Afternoon,SoundWave Desk Lamp,Home Decor,Linda Smith,Europe,2023-02-04,850.5540000000001,119.0,5.0,P006,Home Decor,Monday,Evening
+T00537,C0012,P074,2024-12-25,1,295.58,295.58,Wednesday,08:03:34,December,Morning,SoundWave Desk Lamp,Home Decor,Kevin May,South America,2024-08-07,747.3228571428571,33.0,6.0,P023,Home Decor,Sunday,Evening
+T00743,C0172,P074,2024-01-21,3,886.74,295.58,Sunday,13:21:23,January,Afternoon,SoundWave Desk Lamp,Home Decor,Jamie Webb,Europe,2024-09-09,366.95,67.0,6.0,P003,Home Decor,Tuesday,Afternoon
+T00796,C0166,P074,2024-08-12,3,886.74,295.58,Monday,05:20:19,August,Morning,SoundWave Desk Lamp,Home Decor,John Rogers,Europe,2022-02-13,601.3375000000001,97.0,4.0,P010,Home Decor,Monday,Evening
+T00839,C0089,P074,2024-12-03,3,886.74,295.58,Tuesday,21:30:15,December,Evening,SoundWave Desk Lamp,Home Decor,Paul Carter,Europe,2024-04-02,1278.1100000000001,55.0,2.0,P074,Home Decor,Monday,Afternoon
+T00885,C0170,P074,2024-09-13,3,886.74,295.58,Friday,07:08:30,September,Morning,SoundWave Desk Lamp,Home Decor,Logan Harris,Europe,2023-09-13,986.348,136.0,5.0,P019,Home Decor,Friday,Morning
+T00061,C0126,P032,2024-01-16,2,977.26,488.63,Tuesday,00:42:19,January,Evening,BookWorld Cookbook,Books,Caitlin Brown,South America,2024-02-20,760.9283333333333,60.0,6.0,P032,Books,Thursday,Evening
+T00116,C0127,P032,2024-08-15,1,488.63,488.63,Thursday,21:51:12,August,Evening,BookWorld Cookbook,Books,Kathryn Stevens,Europe,2024-04-04,538.8133333333334,129.0,6.0,P028,Electronics,Thursday,Morning
+T00319,C0139,P032,2024-01-17,1,488.63,488.63,Wednesday,09:48:56,January,Morning,BookWorld Cookbook,Books,Ricky Gutierrez,North America,2022-03-14,462.955,113.0,8.0,P006,Books,Wednesday,Morning
+T00320,C0179,P032,2024-04-06,3,1465.89,488.63,Saturday,16:23:53,April,Afternoon,BookWorld Cookbook,Books,Donald Miller,Europe,2022-10-16,608.805,109.0,6.0,P022,Home Decor,Saturday,Evening
+T00465,C0173,P032,2024-05-24,2,977.26,488.63,Friday,16:11:23,May,Afternoon,BookWorld Cookbook,Books,Francisco Young,Asia,2022-10-06,726.005,148.0,8.0,P004,Books,Friday,Afternoon
+T00499,C0065,P032,2024-07-18,4,1954.52,488.63,Thursday,02:51:22,July,Evening,BookWorld Cookbook,Books,Gerald Hines,North America,2024-07-10,766.37,45.0,10.0,P022,Home Decor,Monday,Evening
+T00513,C0023,P032,2024-11-11,2,977.26,488.63,Monday,10:44:12,November,Morning,BookWorld Cookbook,Books,Nicholas Cain,Europe,2022-03-04,859.775,77.0,6.0,P012,Books,Monday,Evening
+T00577,C0082,P032,2024-10-19,2,977.26,488.63,Saturday,00:46:52,October,Evening,BookWorld Cookbook,Books,Aimee Taylor,South America,2022-05-13,1081.8442857142857,58.0,7.0,P019,Books,Saturday,Evening
+T00821,C0050,P032,2024-04-04,2,977.26,488.63,Thursday,14:19:01,April,Afternoon,BookWorld Cookbook,Books,Ryan Davis,North America,2024-03-02,1022.9433333333333,71.0,3.0,P029,Electronics,Thursday,Evening
+T00867,C0171,P032,2024-10-23,3,1465.89,488.63,Wednesday,16:23:33,October,Afternoon,BookWorld Cookbook,Books,Michael Cowan,South America,2022-12-16,1029.0700000000002,96.0,5.0,P017,Books,Saturday,Evening
+T00987,C0015,P032,2024-02-10,1,488.63,488.63,Saturday,12:35:35,February,Afternoon,BookWorld Cookbook,Books,Tina Duran,North America,2023-11-20,578.74,128.0,2.0,P032,Books,Saturday,Afternoon
+T00064,C0037,P009,2024-09-15,1,325.01,325.01,Sunday,03:50:57,September,Evening,BookWorld Wall Art,Home Decor,Linda Smith,Europe,2023-02-04,850.5540000000001,119.0,5.0,P006,Home Decor,Monday,Evening
+T00311,C0129,P009,2024-09-30,2,650.02,325.01,Monday,00:40:17,September,Evening,BookWorld Wall Art,Home Decor,Marcus Livingston,South America,2024-04-14,779.87,109.0,3.0,P009,Clothing,Monday,Afternoon
+T00397,C0187,P009,2024-07-04,1,325.01,325.01,Thursday,05:29:36,July,Morning,BookWorld Wall Art,Home Decor,Kayla Kelly,South America,2024-08-02,922.4879999999999,107.0,5.0,P009,Books,Thursday,Morning
+T00477,C0162,P009,2024-10-14,3,975.03,325.01,Monday,15:50:39,October,Afternoon,BookWorld Wall Art,Home Decor,Edwin Watson,Asia,2022-03-29,600.28,71.0,8.0,P009,Electronics,Monday,Evening
+T00530,C0079,P009,2024-05-02,2,650.02,325.01,Thursday,00:31:22,May,Evening,BookWorld Wall Art,Home Decor,Brian Murillo,North America,2022-02-02,1062.8899999999999,181.0,4.0,P007,Home Decor,Thursday,Evening
+T00651,C0172,P009,2024-06-12,2,650.02,325.01,Wednesday,22:33:14,June,Evening,BookWorld Wall Art,Home Decor,Jamie Webb,Europe,2024-09-09,366.95,67.0,6.0,P003,Home Decor,Tuesday,Afternoon
+T00677,C0100,P009,2024-03-05,4,1300.04,325.01,Tuesday,23:39:40,March,Evening,BookWorld Wall Art,Home Decor,Clinton Gomez,Europe,2023-03-16,833.9083333333333,145.0,6.0,P009,Home Decor,Saturday,Afternoon
+T00065,C0049,P081,2024-02-01,1,66.32,66.32,Thursday,19:05:13,February,Evening,HomeSense Sweater,Clothing,Jason Yates,North America,2024-09-18,289.435,150.0,8.0,P027,Clothing,Monday,Evening
+T00081,C0077,P081,2024-11-02,4,265.28,66.32,Saturday,19:35:08,November,Evening,HomeSense Sweater,Clothing,Scott Sims,South America,2023-10-18,279.09999999999997,86.0,3.0,P081,Clothing,Monday,Afternoon
+T00092,C0189,P081,2024-04-15,3,198.96,66.32,Monday,01:10:23,April,Evening,HomeSense Sweater,Clothing,Sherri Dixon,North America,2024-01-22,528.642,37.0,5.0,P025,Home Decor,Monday,Evening
+T00103,C0091,P081,2024-08-13,4,265.28,66.32,Tuesday,03:22:31,August,Evening,HomeSense Sweater,Clothing,Lisa Kirk,South America,2023-03-16,522.9433333333333,167.0,5.0,P026,Electronics,Tuesday,Evening
+T00111,C0082,P081,2024-09-16,4,265.28,66.32,Monday,22:57:51,September,Evening,HomeSense Sweater,Clothing,Aimee Taylor,South America,2022-05-13,1081.8442857142857,58.0,7.0,P019,Books,Saturday,Evening
+T00387,C0173,P081,2024-05-18,3,198.96,66.32,Saturday,16:57:20,May,Afternoon,HomeSense Sweater,Clothing,Francisco Young,Asia,2022-10-06,726.005,148.0,8.0,P004,Books,Friday,Afternoon
+T00486,C0111,P081,2024-07-03,4,265.28,66.32,Wednesday,07:27:54,July,Morning,HomeSense Sweater,Clothing,Roger David,Europe,2024-11-13,394.604,46.0,5.0,P003,Clothing,Wednesday,Evening
+T00512,C0183,P081,2024-01-08,1,66.32,66.32,Monday,13:41:10,January,Afternoon,HomeSense Sweater,Clothing,Kimberly Johnson,North America,2024-01-23,770.0440000000001,75.0,5.0,P052,Clothing,Monday,Afternoon
+T00668,C0053,P081,2024-01-21,2,132.64,66.32,Sunday,08:08:41,January,Morning,HomeSense Sweater,Clothing,Albert Burke,Europe,2022-06-18,886.0766666666667,87.0,6.0,P006,Clothing,Friday,Evening
+T00715,C0033,P081,2024-07-05,2,132.64,66.32,Friday,23:41:15,July,Evening,HomeSense Sweater,Clothing,Tyler Holt,North America,2024-08-04,132.64,206.0,1.0,P081,Clothing,Friday,Evening
+T00898,C0108,P081,2024-07-26,1,66.32,66.32,Friday,21:44:47,July,Evening,HomeSense Sweater,Clothing,David Davis,South America,2022-09-28,692.6485714285715,117.0,7.0,P011,Clothing,Wednesday,Evening
+T00939,C0010,P081,2024-03-29,3,198.96,66.32,Friday,07:04:02,March,Morning,HomeSense Sweater,Clothing,Aaron Cox,Europe,2022-12-15,429.38750000000005,72.0,4.0,P014,Clothing,Friday,Evening
+T00960,C0147,P081,2024-09-10,1,66.32,66.32,Tuesday,12:40:27,September,Afternoon,HomeSense Sweater,Clothing,Hunter Fuller,South America,2022-05-16,327.6044444444444,33.0,9.0,P018,Books,Saturday,Evening
+T00066,C0041,P011,2024-01-21,4,1044.8,261.2,Sunday,22:41:36,January,Evening,SoundWave Desk Lamp,Home Decor,Lindsey Deleon,Europe,2023-12-27,878.54,43.0,7.0,P011,Books,Sunday,Evening
+T00415,C0169,P011,2024-03-13,4,1044.8,261.2,Wednesday,06:04:36,March,Morning,SoundWave Desk Lamp,Home Decor,Jennifer Shaw,South America,2023-04-13,755.5533333333333,55.0,6.0,P003,Books,Friday,Morning
+T00521,C0148,P011,2024-06-11,4,1044.8,261.2,Tuesday,02:31:18,June,Evening,SoundWave Desk Lamp,Home Decor,Matthew Rogers,South America,2023-04-16,1091.558,117.0,5.0,P011,Electronics,Tuesday,Evening
+T00601,C0161,P011,2024-08-15,1,261.2,261.2,Thursday,03:06:41,August,Evening,SoundWave Desk Lamp,Home Decor,Jessica Warren,Asia,2022-03-14,392.72875,165.0,8.0,P007,Books,Monday,Evening
+T00698,C0119,P011,2024-12-26,1,261.2,261.2,Thursday,21:34:07,December,Evening,SoundWave Desk Lamp,Home Decor,David Armstrong,Europe,2023-11-13,238.32199999999997,32.0,5.0,P011,Electronics,Wednesday,Evening
+T00712,C0134,P011,2024-09-23,3,783.6,261.2,Monday,06:44:40,September,Morning,SoundWave Desk Lamp,Home Decor,Theresa Gonzalez,Asia,2022-02-19,535.856,48.0,5.0,P006,Clothing,Sunday,Morning
+T00848,C0108,P011,2024-09-25,2,522.4,261.2,Wednesday,01:50:13,September,Evening,SoundWave Desk Lamp,Home Decor,David Davis,South America,2022-09-28,692.6485714285715,117.0,7.0,P011,Clothing,Wednesday,Evening
+T00868,C0039,P011,2024-09-08,4,1044.8,261.2,Sunday,14:32:15,September,Afternoon,SoundWave Desk Lamp,Home Decor,Angela Harris,South America,2024-10-13,706.6,92.0,6.0,P011,Electronics,Sunday,Afternoon
+T00977,C0136,P011,2024-01-16,4,1044.8,261.2,Tuesday,15:56:05,January,Afternoon,SoundWave Desk Lamp,Home Decor,Kristen Holder,Asia,2024-03-14,716.4983333333333,78.0,6.0,P011,Home Decor,Tuesday,Evening
+T00998,C0024,P011,2024-06-19,2,522.4,261.2,Wednesday,17:52:26,June,Evening,SoundWave Desk Lamp,Home Decor,Michele Cooley,North America,2024-02-05,518.1457142857142,125.0,7.0,P001,Books,Sunday,Evening
+T00067,C0017,P096,2024-03-31,2,614.94,307.47,Sunday,19:29:30,March,Evening,SoundWave Headphones,Electronics,Jennifer King,Europe,2023-12-05,594.2275,57.0,8.0,P001,Books,Sunday,Evening
+T00085,C0001,P096,2024-04-08,2,614.94,307.47,Monday,00:01:00,April,Evening,SoundWave Headphones,Electronics,Lawrence Carroll,South America,2022-07-10,670.9040000000001,86.0,5.0,P022,Electronics,Tuesday,Evening
+T00117,C0164,P096,2024-03-25,2,614.94,307.47,Monday,07:41:04,March,Morning,SoundWave Headphones,Electronics,Morgan Perez,Europe,2023-06-01,617.538,87.0,5.0,P004,Home Decor,Sunday,Afternoon
+T00279,C0059,P096,2024-09-09,1,307.47,307.47,Monday,19:42:23,September,Evening,SoundWave Headphones,Electronics,Mrs. Kimberly Wright,North America,2024-04-07,884.16,95.0,8.0,P019,Home Decor,Tuesday,Evening
+T00350,C0020,P096,2024-01-30,3,922.41,307.47,Tuesday,00:57:29,January,Evening,SoundWave Headphones,Electronics,Mr. Manuel Conway,North America,2024-06-11,922.41,363.0,1.0,P096,Electronics,Tuesday,Evening
+T00467,C0045,P096,2024-03-16,3,922.41,307.47,Saturday,04:08:29,March,Evening,SoundWave Headphones,Electronics,Michael Williams,Asia,2022-02-25,860.2571428571429,154.0,7.0,P001,Electronics,Saturday,Afternoon
+T00610,C0021,P096,2024-10-12,2,614.94,307.47,Saturday,03:25:58,October,Evening,SoundWave Headphones,Electronics,Robert Blanchard,Asia,2023-04-17,677.49,107.0,8.0,P015,Books,Saturday,Evening
+T00645,C0007,P096,2024-08-25,3,922.41,307.47,Sunday,08:05:44,August,Morning,SoundWave Headphones,Electronics,Paul Graves,Asia,2022-06-18,859.9399999999999,155.0,3.0,P050,Electronics,Friday,Morning
+T00666,C0044,P096,2024-06-27,1,307.47,307.47,Thursday,12:03:16,June,Afternoon,SoundWave Headphones,Electronics,Kenneth Alexander,Europe,2024-07-10,1076.7033333333331,97.0,3.0,P045,Books,Thursday,Evening
+T00724,C0117,P096,2024-07-22,3,922.41,307.47,Monday,23:34:18,July,Evening,SoundWave Headphones,Electronics,Jeffrey Mcmahon,North America,2024-11-22,1007.0675000000001,175.0,4.0,P019,Books,Monday,Evening
+T00735,C0104,P096,2024-11-04,4,1229.88,307.47,Monday,07:25:57,November,Morning,SoundWave Headphones,Electronics,Laura Bennett,South America,2022-02-10,822.3875,84.0,8.0,P006,Home Decor,Monday,Afternoon
+T00748,C0119,P096,2024-10-13,1,307.47,307.47,Sunday,16:15:16,October,Afternoon,SoundWave Headphones,Electronics,David Armstrong,Europe,2023-11-13,238.32199999999997,32.0,5.0,P011,Electronics,Wednesday,Evening
+T00764,C0026,P096,2024-10-09,4,1229.88,307.47,Wednesday,13:52:57,October,Afternoon,SoundWave Headphones,Electronics,Sara Miller,North America,2024-05-03,887.2625,110.0,4.0,P027,Electronics,Wednesday,Evening
+T00794,C0161,P096,2024-05-20,1,307.47,307.47,Monday,06:17:43,May,Morning,SoundWave Headphones,Electronics,Jessica Warren,Asia,2022-03-14,392.72875,165.0,8.0,P007,Books,Monday,Evening
+T00819,C0075,P096,2024-10-08,2,614.94,307.47,Tuesday,21:31:59,October,Evening,SoundWave Headphones,Electronics,Misty Higgins,Europe,2023-05-01,649.8855555555556,48.0,9.0,P013,Books,Friday,Evening
+T00070,C0051,P017,2024-12-11,4,1879.08,469.77,Wednesday,13:46:30,December,Afternoon,ActiveWear Textbook,Books,Nicholas Ellis,Europe,2023-12-21,814.2242857142857,42.0,7.0,P006,Electronics,Saturday,Evening
+T00180,C0073,P017,2024-03-11,2,939.54,469.77,Monday,15:12:50,March,Afternoon,ActiveWear Textbook,Books,Heidi Johnson,Europe,2022-08-20,686.8466666666667,313.0,3.0,P017,Books,Monday,Afternoon
+T00224,C0171,P017,2024-07-06,4,1879.08,469.77,Saturday,23:53:24,July,Evening,ActiveWear Textbook,Books,Michael Cowan,South America,2022-12-16,1029.0700000000002,96.0,5.0,P017,Books,Saturday,Evening
+T00324,C0104,P017,2024-08-11,1,469.77,469.77,Sunday,07:01:49,August,Morning,ActiveWear Textbook,Books,Laura Bennett,South America,2022-02-10,822.3875,84.0,8.0,P006,Home Decor,Monday,Afternoon
+T00341,C0011,P017,2024-12-26,2,939.54,469.77,Thursday,03:09:48,December,Evening,ActiveWear Textbook,Books,Bryan Mathews,South America,2022-12-12,746.0,32.0,5.0,P017,Books,Saturday,Evening
+T00503,C0013,P017,2024-07-26,4,1879.08,469.77,Friday,00:21:59,July,Evening,ActiveWear Textbook,Books,Lauren Buchanan,South America,2024-05-19,857.2228571428572,85.0,7.0,P015,Clothing,Friday,Evening
+T00558,C0169,P017,2024-11-29,4,1879.08,469.77,Friday,23:39:00,November,Evening,ActiveWear Textbook,Books,Jennifer Shaw,South America,2023-04-13,755.5533333333333,55.0,6.0,P003,Books,Friday,Morning
+T00571,C0137,P017,2024-02-01,2,939.54,469.77,Thursday,15:50:43,February,Afternoon,ActiveWear Textbook,Books,Robert Gardner,South America,2024-04-09,666.51,35.0,5.0,P003,Books,Wednesday,Afternoon
+T00682,C0131,P017,2024-04-01,2,939.54,469.77,Monday,10:10:17,April,Morning,ActiveWear Textbook,Books,Scott Wilson,North America,2022-06-05,647.9399999999999,39.0,3.0,P017,Books,Thursday,Evening
+T00971,C0023,P017,2024-06-22,1,469.77,469.77,Saturday,21:26:26,June,Evening,ActiveWear Textbook,Books,Nicholas Cain,Europe,2022-03-04,859.775,77.0,6.0,P012,Books,Monday,Evening
+T00072,C0167,P048,2024-05-23,3,1249.2,416.4,Thursday,19:17:40,May,Evening,TechPro Cookbook,Books,Brandy Welch,Europe,2024-01-27,766.8066666666667,118.0,3.0,P048,Books,Sunday,Afternoon
+T00280,C0175,P048,2024-05-09,2,832.8,416.4,Thursday,17:38:43,May,Evening,TechPro Cookbook,Books,Matthew Johnson,Asia,2022-04-16,621.053,68.0,10.0,P008,Books,Wednesday,Evening
+T00298,C0042,P048,2024-11-09,1,416.4,416.4,Saturday,20:42:09,November,Evening,TechPro Cookbook,Books,Heather Riley,North America,2023-03-15,800.8299999999999,79.0,3.0,P048,Clothing,Saturday,Afternoon
+T00322,C0099,P048,2024-02-17,3,1249.2,416.4,Saturday,04:23:02,February,Evening,TechPro Cookbook,Books,Rodney Eaton,South America,2023-01-29,839.465,35.0,8.0,P005,Clothing,Friday,Evening
+T00357,C0147,P048,2024-11-15,1,416.4,416.4,Friday,23:35:14,November,Evening,TechPro Cookbook,Books,Hunter Fuller,South America,2022-05-16,327.6044444444444,33.0,9.0,P018,Books,Saturday,Evening
+T00371,C0155,P048,2024-05-15,4,1665.6,416.4,Wednesday,23:20:02,May,Evening,TechPro Cookbook,Books,Michelle Brown,South America,2023-03-23,768.2614285714286,77.0,7.0,P026,Books,Wednesday,Evening
+T00548,C0185,P048,2024-01-06,3,1249.2,416.4,Saturday,22:00:35,January,Evening,TechPro Cookbook,Books,Kathleen Logan,North America,2023-10-17,1141.4399999999998,160.0,3.0,P021,Books,Saturday,Evening
+T00550,C0154,P048,2024-04-24,3,1249.2,416.4,Wednesday,05:30:39,April,Morning,TechPro Cookbook,Books,Robert Sharp,North America,2024-10-27,617.2683333333333,130.0,6.0,P008,Electronics,Monday,Afternoon
+T00608,C0025,P048,2024-06-13,2,832.8,416.4,Thursday,22:53:33,June,Evening,TechPro Cookbook,Books,Gregory Odom,South America,2022-07-04,397.4525,167.0,4.0,P022,Home Decor,Thursday,Evening
+T00657,C0100,P048,2024-08-04,1,416.4,416.4,Sunday,15:35:01,August,Afternoon,TechPro Cookbook,Books,Clinton Gomez,Europe,2023-03-16,833.9083333333333,145.0,6.0,P009,Home Decor,Saturday,Afternoon
+T00771,C0200,P048,2024-09-10,4,1665.6,416.4,Tuesday,09:50:48,September,Morning,TechPro Cookbook,Books,Kelly Cross,Asia,2023-06-11,951.72,47.0,5.0,P034,Clothing,Monday,Evening
+T00786,C0174,P048,2024-08-07,4,1665.6,416.4,Wednesday,22:11:19,August,Evening,TechPro Cookbook,Books,Tracy Steele,South America,2022-11-03,578.39,46.0,5.0,P025,Books,Sunday,Afternoon
+T00811,C0141,P048,2024-06-03,4,1665.6,416.4,Monday,23:59:14,June,Evening,TechPro Cookbook,Books,Paul Parsons,Europe,2023-02-23,1067.387,55.0,10.0,P025,Clothing,Tuesday,Evening
+T00844,C0118,P048,2024-12-18,4,1665.6,416.4,Wednesday,04:17:20,December,Evening,TechPro Cookbook,Books,Jacob Holt,South America,2022-01-22,572.4616666666667,40.0,6.0,P013,Books,Saturday,Afternoon
+T00950,C0068,P048,2024-02-28,4,1665.6,416.4,Wednesday,16:08:32,February,Afternoon,TechPro Cookbook,Books,Mark Cox,North America,2023-04-04,743.8025,34.0,8.0,P002,Electronics,Tuesday,Evening
+T00073,C0183,P052,2024-11-13,2,709.62,354.81,Wednesday,14:33:38,November,Afternoon,SoundWave Jacket,Clothing,Kimberly Johnson,North America,2024-01-23,770.0440000000001,75.0,5.0,P052,Clothing,Monday,Afternoon
+T00101,C0008,P052,2024-09-16,4,1419.24,354.81,Monday,22:10:13,September,Evening,SoundWave Jacket,Clothing,David Li,North America,2024-01-13,427.16099999999994,41.0,10.0,P004,Home Decor,Monday,Evening
+T00351,C0169,P052,2024-12-03,4,1419.24,354.81,Tuesday,17:26:43,December,Evening,SoundWave Jacket,Clothing,Jennifer Shaw,South America,2023-04-13,755.5533333333333,55.0,6.0,P003,Books,Friday,Morning
+T00460,C0099,P052,2024-05-02,2,709.62,354.81,Thursday,00:25:40,May,Evening,SoundWave Jacket,Clothing,Rodney Eaton,South America,2023-01-29,839.465,35.0,8.0,P005,Clothing,Friday,Evening
+T00988,C0165,P052,2024-09-06,4,1419.24,354.81,Friday,06:43:42,September,Morning,SoundWave Jacket,Clothing,Juan Mcdaniel,South America,2022-04-09,745.3444444444444,32.0,6.0,P044,Books,Thursday,Morning
+T00076,C0141,P065,2024-09-23,3,1282.83,427.61,Monday,20:32:31,September,Evening,BookWorld Sweater,Clothing,Paul Parsons,Europe,2023-02-23,1067.387,55.0,10.0,P025,Clothing,Tuesday,Evening
+T00110,C0084,P065,2024-08-13,2,855.22,427.61,Tuesday,10:30:05,August,Morning,BookWorld Sweater,Clothing,Belinda Garner,Asia,2024-09-17,493.4555555555556,42.0,8.0,P013,Electronics,Tuesday,Morning
+T00139,C0118,P065,2024-04-13,1,427.61,427.61,Saturday,02:29:41,April,Evening,BookWorld Sweater,Clothing,Jacob Holt,South America,2022-01-22,572.4616666666667,40.0,6.0,P013,Books,Saturday,Afternoon
+T00288,C0049,P065,2024-01-22,1,427.61,427.61,Monday,14:14:26,January,Afternoon,BookWorld Sweater,Clothing,Jason Yates,North America,2024-09-18,289.435,150.0,8.0,P027,Clothing,Monday,Evening
+T00306,C0021,P065,2024-06-27,3,1282.83,427.61,Thursday,23:39:15,June,Evening,BookWorld Sweater,Clothing,Robert Blanchard,Asia,2023-04-17,677.49,107.0,8.0,P015,Books,Saturday,Evening
+T00383,C0048,P065,2024-11-22,2,855.22,427.61,Friday,19:56:10,November,Evening,BookWorld Sweater,Clothing,Matthew Park,South America,2024-11-07,770.1879999999999,54.0,5.0,P010,Electronics,Sunday,Evening
+T00540,C0034,P065,2024-05-08,2,855.22,427.61,Wednesday,21:17:10,May,Evening,BookWorld Sweater,Clothing,Dalton Perez,North America,2023-09-27,512.2,96.0,6.0,P014,Clothing,Wednesday,Evening
+T00569,C0107,P065,2024-10-22,3,1282.83,427.61,Tuesday,12:54:23,October,Afternoon,BookWorld Sweater,Clothing,Dana Cantrell,South America,2023-02-07,724.784,97.0,5.0,P005,Clothing,Tuesday,Afternoon
+T00585,C0056,P065,2024-01-31,2,855.22,427.61,Wednesday,08:26:51,January,Morning,BookWorld Sweater,Clothing,Erika Fernandez,Asia,2024-04-12,636.588,33.0,5.0,P024,Clothing,Wednesday,Evening
+T00888,C0055,P065,2024-05-24,2,855.22,427.61,Friday,09:36:07,May,Morning,BookWorld Sweater,Clothing,Lauren Williams,North America,2024-11-11,571.5360000000001,118.0,5.0,P025,Electronics,Tuesday,Morning
+T00892,C0022,P065,2024-04-06,4,1710.44,427.61,Saturday,10:33:06,April,Morning,BookWorld Sweater,Clothing,Teresa Esparza,Asia,2023-10-27,775.8449999999999,132.0,6.0,P008,Clothing,Tuesday,Morning
+T00077,C0192,P063,2024-06-15,3,100.77,33.59,Saturday,17:12:53,June,Evening,TechPro Novel,Books,Sarah Arias,South America,2022-09-15,518.1800000000001,181.0,4.0,P010,Electronics,Monday,Afternoon
+T00104,C0174,P063,2024-01-12,3,100.77,33.59,Friday,03:22:30,January,Evening,TechPro Novel,Books,Tracy Steele,South America,2022-11-03,578.39,46.0,5.0,P025,Books,Sunday,Afternoon
+T00216,C0193,P063,2024-03-22,3,100.77,33.59,Friday,19:50:03,March,Evening,TechPro Novel,Books,Douglas Torres,Asia,2023-02-03,752.3225000000001,245.0,4.0,P007,Books,Monday,Evening
+T00353,C0012,P063,2024-10-22,1,33.59,33.59,Tuesday,21:55:48,October,Evening,TechPro Novel,Books,Kevin May,South America,2024-08-07,747.3228571428571,33.0,6.0,P023,Home Decor,Sunday,Evening
+T00378,C0175,P063,2024-08-03,3,100.77,33.59,Saturday,22:08:12,August,Evening,TechPro Novel,Books,Matthew Johnson,Asia,2022-04-16,621.053,68.0,10.0,P008,Books,Wednesday,Evening
+T00413,C0021,P063,2024-01-24,3,100.77,33.59,Wednesday,18:23:07,January,Evening,TechPro Novel,Books,Robert Blanchard,Asia,2023-04-17,677.49,107.0,8.0,P015,Books,Saturday,Evening
+T00459,C0075,P063,2024-01-17,4,134.36,33.59,Wednesday,01:36:03,January,Evening,TechPro Novel,Books,Misty Higgins,Europe,2023-05-01,649.8855555555556,48.0,9.0,P013,Books,Friday,Evening
+T00760,C0090,P063,2024-01-03,1,33.59,33.59,Wednesday,18:25:39,January,Evening,TechPro Novel,Books,Charles Hamilton,Asia,2023-10-17,591.1657142857142,138.0,7.0,P042,Books,Wednesday,Evening
+T00853,C0098,P063,2024-12-23,4,134.36,33.59,Monday,18:36:04,December,Evening,TechPro Novel,Books,Laura Gilbert,North America,2024-10-21,394.7525,35.0,8.0,P021,Clothing,Tuesday,Evening
+T00078,C0011,P089,2024-03-23,3,662.73,220.91,Saturday,02:59:36,March,Evening,HomeSense Bluetooth Speaker,Electronics,Bryan Mathews,South America,2022-12-12,746.0,32.0,5.0,P017,Books,Saturday,Evening
+T00153,C0094,P089,2024-11-05,3,662.73,220.91,Tuesday,07:32:47,November,Morning,HomeSense Bluetooth Speaker,Electronics,Emily Trevino,North America,2023-09-16,291.7425,83.0,4.0,P003,Books,Sunday,Morning
+T00245,C0120,P089,2024-04-28,4,883.64,220.91,Sunday,20:01:47,April,Evening,HomeSense Bluetooth Speaker,Electronics,Francisco Diaz,South America,2023-01-13,823.34,172.0,3.0,P029,Electronics,Monday,Morning
+T00291,C0109,P089,2024-01-27,2,441.82,220.91,Saturday,06:14:19,January,Morning,HomeSense Bluetooth Speaker,Electronics,Abigail Jones,North America,2022-05-09,498.84090909090907,81.0,10.0,P100,Clothing,Saturday,Evening
+T00390,C0113,P089,2024-02-04,4,883.64,220.91,Sunday,07:33:04,February,Morning,HomeSense Bluetooth Speaker,Electronics,Joseph Ortiz Jr.,South America,2022-06-17,601.5125,61.0,7.0,P078,Home Decor,Sunday,Evening
+T00773,C0068,P089,2024-12-08,3,662.73,220.91,Sunday,14:38:23,December,Afternoon,HomeSense Bluetooth Speaker,Electronics,Mark Cox,North America,2023-04-04,743.8025,34.0,8.0,P002,Electronics,Tuesday,Evening
+T00883,C0170,P089,2024-05-10,4,883.64,220.91,Friday,03:22:49,May,Evening,HomeSense Bluetooth Speaker,Electronics,Logan Harris,Europe,2023-09-13,986.348,136.0,5.0,P019,Home Decor,Friday,Morning
+T00082,C0127,P088,2024-08-25,1,263.55,263.55,Sunday,05:43:29,August,Morning,SoundWave Headphones,Electronics,Kathryn Stevens,Europe,2024-04-04,538.8133333333334,129.0,6.0,P028,Electronics,Thursday,Morning
+T00130,C0191,P088,2024-08-15,1,263.55,263.55,Thursday,13:06:00,August,Afternoon,SoundWave Headphones,Electronics,Samantha Gibson DVM,South America,2024-04-07,599.594,46.0,5.0,P001,Books,Thursday,Morning
+T00424,C0114,P088,2024-09-23,4,1054.2,263.55,Monday,04:35:24,September,Evening,SoundWave Headphones,Electronics,Benjamin Anderson,Europe,2024-11-18,1156.086,126.0,5.0,P020,Electronics,Wednesday,Afternoon
+T00461,C0072,P088,2024-09-17,1,263.55,263.55,Tuesday,03:59:29,September,Evening,SoundWave Headphones,Electronics,Sarah Scott,North America,2024-07-24,599.918,86.0,5.0,P008,Electronics,Saturday,Evening
+T00556,C0050,P088,2024-11-17,3,790.65,263.55,Sunday,17:56:48,November,Evening,SoundWave Headphones,Electronics,Ryan Davis,North America,2024-03-02,1022.9433333333333,71.0,3.0,P029,Electronics,Thursday,Evening
+T00751,C0096,P088,2024-03-11,2,527.1,263.55,Monday,17:07:12,March,Evening,SoundWave Headphones,Electronics,Benjamin Mcclure,South America,2022-11-18,1214.584,47.0,5.0,P025,Electronics,Wednesday,Morning
+T00954,C0179,P088,2024-10-10,4,1054.2,263.55,Thursday,04:15:26,October,Evening,SoundWave Headphones,Electronics,Donald Miller,Europe,2022-10-16,608.805,109.0,6.0,P022,Home Decor,Saturday,Evening
+T00985,C0068,P088,2024-07-30,2,527.1,263.55,Tuesday,21:37:27,July,Evening,SoundWave Headphones,Electronics,Mark Cox,North America,2023-04-04,743.8025,34.0,8.0,P002,Electronics,Tuesday,Evening
+T00083,C0046,P066,2024-04-08,4,1348.88,337.22,Monday,10:34:10,April,Morning,SoundWave Textbook,Books,Beth Cardenas,North America,2024-10-23,803.9757142857143,124.0,7.0,P016,Books,Saturday,Evening
+T00195,C0023,P066,2024-11-02,1,337.22,337.22,Saturday,10:20:14,November,Morning,SoundWave Textbook,Books,Nicholas Cain,Europe,2022-03-04,859.775,77.0,6.0,P012,Books,Monday,Evening
+T00225,C0126,P066,2024-06-20,3,1011.66,337.22,Thursday,04:11:50,June,Evening,SoundWave Textbook,Books,Caitlin Brown,South America,2024-02-20,760.9283333333333,60.0,6.0,P032,Books,Thursday,Evening
+T00267,C0037,P066,2024-06-30,3,1011.66,337.22,Sunday,00:11:05,June,Evening,SoundWave Textbook,Books,Linda Smith,Europe,2023-02-04,850.5540000000001,119.0,5.0,P006,Home Decor,Monday,Evening
+T00505,C0147,P066,2024-07-29,2,674.44,337.22,Monday,19:28:48,July,Evening,SoundWave Textbook,Books,Hunter Fuller,South America,2022-05-16,327.6044444444444,33.0,9.0,P018,Books,Saturday,Evening
+T00596,C0175,P066,2024-09-30,1,337.22,337.22,Monday,11:36:49,September,Morning,SoundWave Textbook,Books,Matthew Johnson,Asia,2022-04-16,621.053,68.0,10.0,P008,Books,Wednesday,Evening
+T00609,C0094,P066,2024-03-19,1,337.22,337.22,Tuesday,01:04:53,March,Evening,SoundWave Textbook,Books,Emily Trevino,North America,2023-09-16,291.7425,83.0,4.0,P003,Books,Sunday,Morning
+T00623,C0146,P066,2024-07-12,3,1011.66,337.22,Friday,10:03:14,July,Morning,SoundWave Textbook,Books,Brittany Harvey,Asia,2024-09-04,642.7,40.0,4.0,P029,Electronics,Friday,Evening
+T00838,C0101,P066,2024-07-24,1,337.22,337.22,Wednesday,17:40:37,July,Evening,SoundWave Textbook,Books,Kelsey Roberts,Asia,2023-09-30,693.87375,30.0,7.0,P015,Books,Saturday,Evening
+T00921,C0017,P066,2024-12-01,4,1348.88,337.22,Sunday,22:55:38,December,Evening,SoundWave Textbook,Books,Jennifer King,Europe,2023-12-05,594.2275,57.0,8.0,P001,Books,Sunday,Evening
+T00924,C0116,P066,2024-04-02,1,337.22,337.22,Tuesday,00:16:13,April,Evening,SoundWave Textbook,Books,James Martinez,North America,2024-09-11,459.78000000000003,89.0,6.0,P029,Books,Wednesday,Evening
+T00084,C0045,P015,2024-08-02,4,635.72,158.93,Friday,13:45:45,August,Afternoon,HomeSense Headphones,Electronics,Michael Williams,Asia,2022-02-25,860.2571428571429,154.0,7.0,P001,Electronics,Saturday,Afternoon
+T00114,C0068,P015,2024-05-28,1,158.93,158.93,Tuesday,18:07:55,May,Evening,HomeSense Headphones,Electronics,Mark Cox,North America,2023-04-04,743.8025,34.0,8.0,P002,Electronics,Tuesday,Evening
+T00333,C0101,P015,2024-12-28,3,476.79,158.93,Saturday,11:00:00,December,Morning,HomeSense Headphones,Electronics,Kelsey Roberts,Asia,2023-09-30,693.87375,30.0,7.0,P015,Books,Saturday,Evening
+T00526,C0156,P015,2024-01-01,4,635.72,158.93,Monday,16:46:56,January,Afternoon,HomeSense Headphones,Electronics,William Adams,North America,2023-08-19,694.040909090909,43.0,10.0,P059,Books,Saturday,Afternoon
+T00599,C0013,P015,2024-08-15,1,158.93,158.93,Thursday,20:46:42,August,Evening,HomeSense Headphones,Electronics,Lauren Buchanan,South America,2024-05-19,857.2228571428572,85.0,7.0,P015,Clothing,Friday,Evening
+T00801,C0021,P015,2024-02-06,1,158.93,158.93,Tuesday,03:27:17,February,Evening,HomeSense Headphones,Electronics,Robert Blanchard,Asia,2023-04-17,677.49,107.0,8.0,P015,Books,Saturday,Evening
+T00893,C0101,P015,2024-03-24,1,158.93,158.93,Sunday,16:37:25,March,Afternoon,HomeSense Headphones,Electronics,Kelsey Roberts,Asia,2023-09-30,693.87375,30.0,7.0,P015,Books,Saturday,Evening
+T00989,C0129,P015,2024-05-28,3,476.79,158.93,Tuesday,14:48:17,May,Afternoon,HomeSense Headphones,Electronics,Marcus Livingston,South America,2024-04-14,779.87,109.0,3.0,P009,Clothing,Monday,Afternoon
+T00088,C0019,P001,2024-01-30,2,338.6,169.3,Tuesday,17:23:03,January,Evening,ActiveWear Biography,Books,Brandon Rodriguez,Europe,2023-01-12,364.3033333333333,80.0,6.0,P001,Books,Friday,Evening
+T00314,C0024,P001,2024-09-24,4,677.2,169.3,Tuesday,17:15:16,September,Evening,ActiveWear Biography,Books,Michele Cooley,North America,2024-02-05,518.1457142857142,125.0,7.0,P001,Books,Sunday,Evening
+T00428,C0071,P001,2024-08-02,2,338.6,169.3,Friday,08:13:23,August,Morning,ActiveWear Biography,Books,Taylor Murphy,South America,2022-07-01,466.9433333333333,157.0,3.0,P001,Books,Friday,Afternoon
+T00433,C0036,P001,2024-05-05,2,338.6,169.3,Sunday,05:01:18,May,Morning,ActiveWear Biography,Books,Brian Aguilar DDS,North America,2024-07-06,625.9866666666667,86.0,3.0,P001,Books,Saturday,Afternoon
+T00449,C0191,P001,2024-12-12,1,169.3,169.3,Thursday,12:17:38,December,Afternoon,ActiveWear Biography,Books,Samantha Gibson DVM,South America,2024-04-07,599.594,46.0,5.0,P001,Books,Thursday,Morning
+T00545,C0105,P001,2024-06-24,2,338.6,169.3,Monday,10:10:17,June,Morning,ActiveWear Biography,Books,Ryan Hampton,Europe,2024-11-11,801.2416666666667,146.0,6.0,P001,Electronics,Monday,Morning
+T00732,C0045,P001,2024-08-13,2,338.6,169.3,Tuesday,10:42:48,August,Morning,ActiveWear Biography,Books,Michael Williams,Asia,2022-02-25,860.2571428571429,154.0,7.0,P001,Electronics,Saturday,Afternoon
+T00758,C0017,P001,2024-05-28,3,507.9,169.3,Tuesday,14:47:15,May,Afternoon,ActiveWear Biography,Books,Jennifer King,Europe,2023-12-05,594.2275,57.0,8.0,P001,Books,Sunday,Evening
+T00095,C0189,P093,2024-09-13,2,609.88,304.94,Friday,18:57:35,September,Evening,TechPro Vase,Home Decor,Sherri Dixon,North America,2024-01-22,528.642,37.0,5.0,P025,Home Decor,Monday,Evening
+T00211,C0007,P093,2024-03-29,4,1219.76,304.94,Friday,14:35:12,March,Afternoon,TechPro Vase,Home Decor,Paul Graves,Asia,2022-06-18,859.9399999999999,155.0,3.0,P050,Electronics,Friday,Morning
+T00335,C0118,P093,2024-04-06,2,609.88,304.94,Saturday,09:26:36,April,Morning,TechPro Vase,Home Decor,Jacob Holt,South America,2022-01-22,572.4616666666667,40.0,6.0,P013,Books,Saturday,Afternoon
+T00547,C0079,P093,2024-07-30,4,1219.76,304.94,Tuesday,23:32:12,July,Evening,TechPro Vase,Home Decor,Brian Murillo,North America,2022-02-02,1062.8899999999999,181.0,4.0,P007,Home Decor,Thursday,Evening
+T00586,C0179,P093,2024-08-31,1,304.94,304.94,Saturday,22:33:10,August,Evening,TechPro Vase,Home Decor,Donald Miller,Europe,2022-10-16,608.805,109.0,6.0,P022,Home Decor,Saturday,Evening
+T00629,C0100,P093,2024-04-06,1,304.94,304.94,Saturday,10:30:48,April,Morning,TechPro Vase,Home Decor,Clinton Gomez,Europe,2023-03-16,833.9083333333333,145.0,6.0,P009,Home Decor,Saturday,Afternoon
+T00630,C0031,P093,2024-10-08,2,609.88,304.94,Tuesday,23:58:14,October,Evening,TechPro Vase,Home Decor,Tina Miller,South America,2024-04-11,501.345,64.0,4.0,P002,Home Decor,Sunday,Evening
+T00899,C0141,P093,2024-04-30,1,304.94,304.94,Tuesday,17:03:34,April,Evening,TechPro Vase,Home Decor,Paul Parsons,Europe,2023-02-23,1067.387,55.0,10.0,P025,Clothing,Tuesday,Evening
+T00096,C0161,P073,2024-03-23,3,80.97,26.99,Saturday,00:07:54,March,Evening,ComfortLiving Laptop,Electronics,Jessica Warren,Asia,2022-03-14,392.72875,165.0,8.0,P007,Books,Monday,Evening
+T00277,C0029,P073,2024-10-01,4,107.96,26.99,Tuesday,17:22:05,October,Evening,ComfortLiving Laptop,Electronics,Erin Manning,North America,2022-04-16,446.46750000000003,32.0,4.0,P036,Clothing,Thursday,Evening
+T00317,C0111,P073,2024-06-19,4,107.96,26.99,Wednesday,15:07:10,June,Afternoon,ComfortLiving Laptop,Electronics,Roger David,Europe,2024-11-13,394.604,46.0,5.0,P003,Clothing,Wednesday,Evening
+T00336,C0147,P073,2024-11-16,3,80.97,26.99,Saturday,15:45:25,November,Afternoon,ComfortLiving Laptop,Electronics,Hunter Fuller,South America,2022-05-16,327.6044444444444,33.0,9.0,P018,Books,Saturday,Evening
+T00388,C0081,P073,2024-04-11,1,26.99,26.99,Thursday,01:44:41,April,Evening,ComfortLiving Laptop,Electronics,Kimberly Turner,Europe,2024-02-24,590.4133333333333,80.0,6.0,P006,Books,Saturday,Evening
+T00494,C0055,P073,2024-10-01,2,53.98,26.99,Tuesday,04:39:43,October,Evening,ComfortLiving Laptop,Electronics,Lauren Williams,North America,2024-11-11,571.5360000000001,118.0,5.0,P025,Electronics,Tuesday,Morning
+T00519,C0054,P073,2024-06-02,2,53.98,26.99,Sunday,10:00:57,June,Morning,ComfortLiving Laptop,Electronics,Bruce Rhodes,Asia,2024-09-29,1005.0487499999999,112.0,8.0,P037,Electronics,Sunday,Afternoon
+T00583,C0198,P073,2024-10-04,1,26.99,26.99,Friday,18:31:12,October,Evening,ComfortLiving Laptop,Electronics,Rebecca Ray,Europe,2022-02-27,465.915,115.0,2.0,P064,Clothing,Friday,Afternoon
+T00661,C0049,P073,2024-05-25,2,53.98,26.99,Saturday,20:16:42,May,Evening,ComfortLiving Laptop,Electronics,Jason Yates,North America,2024-09-18,289.435,150.0,8.0,P027,Clothing,Monday,Evening
+T00955,C0149,P073,2024-08-29,2,53.98,26.99,Thursday,14:05:41,August,Afternoon,ComfortLiving Laptop,Electronics,Tina Wilson,Europe,2023-01-21,880.9559999999999,151.0,5.0,P012,Clothing,Tuesday,Afternoon
+T00099,C0103,P006,2024-09-30,1,121.32,121.32,Monday,23:30:02,September,Evening,ActiveWear Rug,Home Decor,Jennifer Munoz,Europe,2022-05-15,492.50999999999993,119.0,5.0,P006,Clothing,Monday,Evening
+T00134,C0051,P006,2024-01-03,2,242.64,121.32,Wednesday,04:06:49,January,Evening,ActiveWear Rug,Home Decor,Nicholas Ellis,Europe,2023-12-21,814.2242857142857,42.0,7.0,P006,Electronics,Saturday,Evening
+T00143,C0003,P006,2024-06-16,3,363.96,121.32,Sunday,05:24:04,June,Morning,ActiveWear Rug,Home Decor,Michael Rivera,South America,2024-03-07,681.345,156.0,4.0,P002,Home Decor,Sunday,Evening
+T00181,C0181,P006,2024-07-21,4,485.28,121.32,Sunday,03:18:31,July,Evening,ActiveWear Rug,Home Decor,Alexander Barker,South America,2023-11-16,557.9333333333334,31.0,6.0,P002,Electronics,Friday,Evening
+T00226,C0139,P006,2024-10-02,2,242.64,121.32,Wednesday,16:46:50,October,Afternoon,ActiveWear Rug,Home Decor,Ricky Gutierrez,North America,2022-03-14,462.955,113.0,8.0,P006,Books,Wednesday,Morning
+T00273,C0134,P006,2024-04-14,4,485.28,121.32,Sunday,11:32:12,April,Morning,ActiveWear Rug,Home Decor,Theresa Gonzalez,Asia,2022-02-19,535.856,48.0,5.0,P006,Clothing,Sunday,Morning
+T00321,C0017,P006,2024-06-20,3,363.96,121.32,Thursday,04:13:03,June,Evening,ActiveWear Rug,Home Decor,Jennifer King,Europe,2023-12-05,594.2275,57.0,8.0,P001,Books,Sunday,Evening
+T00389,C0081,P006,2024-01-20,3,363.96,121.32,Saturday,04:23:56,January,Evening,ActiveWear Rug,Home Decor,Kimberly Turner,Europe,2024-02-24,590.4133333333333,80.0,6.0,P006,Books,Saturday,Evening
+T00478,C0124,P006,2024-04-12,4,485.28,121.32,Friday,12:07:07,April,Afternoon,ActiveWear Rug,Home Decor,Lindsay Perez,Europe,2024-08-26,609.1899999999999,112.0,7.0,P006,Home Decor,Saturday,Afternoon
+T00506,C0053,P006,2024-09-18,1,121.32,121.32,Wednesday,23:31:26,September,Evening,ActiveWear Rug,Home Decor,Albert Burke,Europe,2022-06-18,886.0766666666667,87.0,6.0,P006,Clothing,Friday,Evening
+T00613,C0037,P006,2024-09-30,3,363.96,121.32,Monday,18:17:00,September,Evening,ActiveWear Rug,Home Decor,Linda Smith,Europe,2023-02-04,850.5540000000001,119.0,5.0,P006,Home Decor,Monday,Evening
+T00679,C0138,P006,2024-09-06,4,485.28,121.32,Friday,20:35:41,September,Evening,ActiveWear Rug,Home Decor,Cynthia Clayton,Asia,2024-11-01,1122.05,40.0,4.0,P079,Home Decor,Friday,Evening
+T00772,C0104,P006,2024-06-16,2,242.64,121.32,Sunday,21:51:16,June,Evening,ActiveWear Rug,Home Decor,Laura Bennett,South America,2022-02-10,822.3875,84.0,8.0,P006,Home Decor,Monday,Afternoon
+T00108,C0177,P055,2024-11-04,1,128.53,128.53,Monday,03:30:07,November,Evening,BookWorld Biography,Books,Julia Kelly,Asia,2024-06-01,627.4525,84.0,4.0,P028,Books,Monday,Evening
+T00255,C0107,P055,2024-02-27,4,514.12,128.53,Tuesday,16:51:17,February,Afternoon,BookWorld Biography,Books,Dana Cantrell,South America,2023-02-07,724.784,97.0,5.0,P005,Clothing,Tuesday,Afternoon
+T00429,C0030,P055,2024-12-15,3,385.59,128.53,Sunday,01:23:26,December,Evening,BookWorld Biography,Books,Mark Brock,North America,2024-01-30,509.93600000000004,43.0,5.0,P004,Clothing,Sunday,Evening
+T00463,C0142,P055,2024-05-25,2,257.06,128.53,Saturday,22:37:50,May,Evening,BookWorld Biography,Books,Nicole Long DVM,Asia,2024-02-08,559.76,34.0,4.0,P040,Books,Tuesday,Afternoon
+T00466,C0034,P055,2024-10-23,4,514.12,128.53,Wednesday,16:57:26,October,Afternoon,BookWorld Biography,Books,Dalton Perez,North America,2023-09-27,512.2,96.0,6.0,P014,Clothing,Wednesday,Evening
+T00639,C0109,P055,2024-03-12,3,385.59,128.53,Tuesday,03:33:00,March,Evening,BookWorld Biography,Books,Abigail Jones,North America,2022-05-09,498.84090909090907,81.0,10.0,P100,Clothing,Saturday,Evening
+T00822,C0011,P055,2024-05-08,3,385.59,128.53,Wednesday,18:21:34,May,Evening,BookWorld Biography,Books,Bryan Mathews,South America,2022-12-12,746.0,32.0,5.0,P017,Books,Saturday,Evening
+T00850,C0029,P055,2024-03-03,2,257.06,128.53,Sunday,06:11:38,March,Morning,BookWorld Biography,Books,Erin Manning,North America,2022-04-16,446.46750000000003,32.0,4.0,P036,Clothing,Thursday,Evening
+T00872,C0088,P055,2024-06-02,1,128.53,128.53,Sunday,13:27:11,June,Afternoon,BookWorld Biography,Books,Carlos Murray,Asia,2023-05-14,427.076,43.0,5.0,P010,Clothing,Sunday,Evening
+T00941,C0041,P055,2024-07-20,1,128.53,128.53,Saturday,10:39:52,July,Morning,BookWorld Biography,Books,Lindsey Deleon,Europe,2023-12-27,878.54,43.0,7.0,P011,Books,Sunday,Evening
+T00109,C0175,P064,2024-11-20,4,1809.68,452.42,Wednesday,09:53:42,November,Morning,HomeSense Running Shoes,Clothing,Matthew Johnson,Asia,2022-04-16,621.053,68.0,10.0,P008,Books,Wednesday,Evening
+T00145,C0198,P064,2024-09-29,2,904.84,452.42,Sunday,16:14:59,September,Afternoon,HomeSense Running Shoes,Clothing,Rebecca Ray,Europe,2022-02-27,465.915,115.0,2.0,P064,Clothing,Friday,Afternoon
+T00552,C0096,P064,2024-12-11,4,1809.68,452.42,Wednesday,17:46:24,December,Evening,HomeSense Running Shoes,Clothing,Benjamin Mcclure,South America,2022-11-18,1214.584,47.0,5.0,P025,Electronics,Wednesday,Morning
+T00628,C0141,P064,2024-08-19,1,452.42,452.42,Monday,00:45:26,August,Evening,HomeSense Running Shoes,Clothing,Paul Parsons,Europe,2023-02-23,1067.387,55.0,10.0,P025,Clothing,Tuesday,Evening
+T00636,C0054,P064,2024-01-28,3,1357.26,452.42,Sunday,04:32:55,January,Evening,HomeSense Running Shoes,Clothing,Bruce Rhodes,Asia,2024-09-29,1005.0487499999999,112.0,8.0,P037,Electronics,Sunday,Afternoon
+T00671,C0013,P064,2024-08-23,1,452.42,452.42,Friday,09:19:16,August,Morning,HomeSense Running Shoes,Clothing,Lauren Buchanan,South America,2024-05-19,857.2228571428572,85.0,7.0,P015,Clothing,Friday,Evening
+T00688,C0116,P064,2024-05-22,1,452.42,452.42,Wednesday,04:00:43,May,Evening,HomeSense Running Shoes,Clothing,James Martinez,North America,2024-09-11,459.78000000000003,89.0,6.0,P029,Books,Wednesday,Evening
+T00889,C0200,P064,2024-10-03,3,1357.26,452.42,Thursday,04:33:16,October,Evening,HomeSense Running Shoes,Clothing,Kelly Cross,Asia,2023-06-11,951.72,47.0,5.0,P034,Clothing,Monday,Evening
+T00972,C0106,P064,2024-11-01,3,1357.26,452.42,Friday,06:54:57,November,Morning,HomeSense Running Shoes,Clothing,Amanda Mcguire,Asia,2022-09-22,587.86,61.0,5.0,P031,Clothing,Friday,Morning
+T00999,C0024,P064,2024-02-24,1,452.42,452.42,Saturday,12:09:53,February,Afternoon,HomeSense Running Shoes,Clothing,Michele Cooley,North America,2024-02-05,518.1457142857142,125.0,7.0,P001,Books,Sunday,Evening
+T00113,C0194,P090,2024-08-26,1,165.3,165.3,Monday,15:16:49,August,Afternoon,ComfortLiving Biography,Books,Stacy Cook,North America,2024-05-04,552.7385714285714,97.0,7.0,P005,Books,Sunday,Evening
+T00220,C0157,P090,2024-06-21,1,165.3,165.3,Friday,15:09:45,June,Afternoon,ComfortLiving Biography,Books,Miguel Wong,North America,2024-01-30,375.21999999999997,51.0,5.0,P013,Electronics,Saturday,Afternoon
+T00234,C0176,P090,2024-07-07,4,661.2,165.3,Sunday,23:53:12,July,Evening,ComfortLiving Biography,Books,Nicole Booth,North America,2022-03-23,777.1066666666667,204.0,3.0,P071,Clothing,Friday,Evening
+T00689,C0024,P090,2024-05-30,2,330.6,165.3,Thursday,00:00:01,May,Evening,ComfortLiving Biography,Books,Michele Cooley,North America,2024-02-05,518.1457142857142,125.0,7.0,P001,Books,Sunday,Evening
+T00716,C0055,P090,2024-04-02,2,330.6,165.3,Tuesday,02:03:25,April,Evening,ComfortLiving Biography,Books,Lauren Williams,North America,2024-11-11,571.5360000000001,118.0,5.0,P025,Electronics,Tuesday,Morning
+T00720,C0126,P090,2024-01-08,1,165.3,165.3,Monday,11:31:27,January,Morning,ComfortLiving Biography,Books,Caitlin Brown,South America,2024-02-20,760.9283333333333,60.0,6.0,P032,Books,Thursday,Evening
+T00917,C0113,P090,2024-01-18,2,330.6,165.3,Thursday,09:04:29,January,Morning,ComfortLiving Biography,Books,Joseph Ortiz Jr.,South America,2022-06-17,601.5125,61.0,7.0,P078,Home Decor,Sunday,Evening
+T00937,C0116,P090,2024-10-30,1,165.3,165.3,Wednesday,08:16:03,October,Morning,ComfortLiving Biography,Books,James Martinez,North America,2024-09-11,459.78000000000003,89.0,6.0,P029,Books,Wednesday,Evening
+T00119,C0147,P018,2024-03-13,1,436.89,436.89,Wednesday,02:57:13,March,Evening,ComfortLiving Mystery Book,Books,Hunter Fuller,South America,2022-05-16,327.6044444444444,33.0,9.0,P018,Books,Saturday,Evening
+T00411,C0064,P018,2024-02-06,4,1747.56,436.89,Tuesday,15:02:30,February,Afternoon,ComfortLiving Mystery Book,Books,Martha Montgomery,Europe,2023-10-22,807.954,52.0,5.0,P018,Books,Tuesday,Afternoon
+T00507,C0019,P018,2024-05-28,1,436.89,436.89,Tuesday,00:57:27,May,Evening,ComfortLiving Mystery Book,Books,Brandon Rodriguez,Europe,2023-01-12,364.3033333333333,80.0,6.0,P001,Books,Friday,Evening
+T00606,C0196,P018,2024-08-06,3,1310.67,436.89,Tuesday,14:37:15,August,Afternoon,ComfortLiving Mystery Book,Books,Laura Watts,Europe,2022-06-07,1245.72,43.0,3.0,P079,Home Decor,Tuesday,Afternoon
+T00722,C0016,P018,2024-07-31,4,1747.56,436.89,Wednesday,05:19:54,July,Morning,ComfortLiving Mystery Book,Books,Emily Woods,North America,2024-01-03,774.884,78.0,5.0,P016,Clothing,Thursday,Morning
+T00779,C0052,P018,2024-08-29,3,1310.67,436.89,Thursday,18:52:57,August,Evening,ComfortLiving Mystery Book,Books,Stanley Aguirre,South America,2024-02-20,622.0025,148.0,3.0,P061,Home Decor,Saturday,Morning
+T00870,C0187,P018,2024-05-02,4,1747.56,436.89,Thursday,14:16:38,May,Afternoon,ComfortLiving Mystery Book,Books,Kayla Kelly,South America,2024-08-02,922.4879999999999,107.0,5.0,P009,Books,Thursday,Morning
+T00120,C0156,P083,2024-02-27,1,455.72,455.72,Tuesday,16:09:00,February,Afternoon,ActiveWear Smartwatch,Electronics,William Adams,North America,2023-08-19,694.040909090909,43.0,10.0,P059,Books,Saturday,Afternoon
+T00133,C0194,P083,2024-09-26,3,1367.16,455.72,Thursday,23:48:07,September,Evening,ActiveWear Smartwatch,Electronics,Stacy Cook,North America,2024-05-04,552.7385714285714,97.0,7.0,P005,Books,Sunday,Evening
+T00138,C0051,P083,2024-04-26,4,1822.88,455.72,Friday,22:10:35,April,Evening,ActiveWear Smartwatch,Electronics,Nicholas Ellis,Europe,2023-12-21,814.2242857142857,42.0,7.0,P006,Electronics,Saturday,Evening
+T00168,C0023,P083,2024-09-26,3,1367.16,455.72,Thursday,17:22:30,September,Evening,ActiveWear Smartwatch,Electronics,Nicholas Cain,Europe,2022-03-04,859.775,77.0,6.0,P012,Books,Monday,Evening
+T00289,C0141,P083,2024-12-03,3,1367.16,455.72,Tuesday,21:22:02,December,Evening,ActiveWear Smartwatch,Electronics,Paul Parsons,Europe,2023-02-23,1067.387,55.0,10.0,P025,Clothing,Tuesday,Evening
+T00313,C0191,P083,2024-04-23,1,455.72,455.72,Tuesday,06:38:57,April,Morning,ActiveWear Smartwatch,Electronics,Samantha Gibson DVM,South America,2024-04-07,599.594,46.0,5.0,P001,Books,Thursday,Morning
+T00445,C0001,P083,2024-05-07,2,911.44,455.72,Tuesday,03:11:44,May,Evening,ActiveWear Smartwatch,Electronics,Lawrence Carroll,South America,2022-07-10,670.9040000000001,86.0,5.0,P022,Electronics,Tuesday,Evening
+T00594,C0183,P083,2024-10-29,3,1367.16,455.72,Tuesday,22:39:18,October,Evening,ActiveWear Smartwatch,Electronics,Kimberly Johnson,North America,2024-01-23,770.0440000000001,75.0,5.0,P052,Clothing,Monday,Afternoon
+T00632,C0016,P083,2024-07-11,1,455.72,455.72,Thursday,12:42:08,July,Afternoon,ActiveWear Smartwatch,Electronics,Emily Woods,North America,2024-01-03,774.884,78.0,5.0,P016,Clothing,Thursday,Morning
+T00670,C0046,P083,2024-08-03,2,911.44,455.72,Saturday,21:42:27,August,Evening,ActiveWear Smartwatch,Electronics,Beth Cardenas,North America,2024-10-23,803.9757142857143,124.0,7.0,P016,Books,Saturday,Evening
+T00831,C0184,P083,2024-05-19,2,911.44,455.72,Sunday,18:25:44,May,Evening,ActiveWear Smartwatch,Electronics,Tina Jacobs,South America,2022-05-13,484.74000000000007,141.0,6.0,P087,Electronics,Sunday,Afternoon
+T00845,C0154,P083,2023-12-31,2,911.44,455.72,Sunday,15:44:04,December,Afternoon,ActiveWear Smartwatch,Electronics,Robert Sharp,North America,2024-10-27,617.2683333333333,130.0,6.0,P008,Electronics,Monday,Afternoon
+T00887,C0066,P083,2024-08-28,3,1367.16,455.72,Wednesday,20:52:33,August,Evening,ActiveWear Smartwatch,Electronics,Catherine White,Europe,2024-11-15,1266.4266666666665,152.0,3.0,P041,Electronics,Wednesday,Evening
+T00121,C0168,P043,2024-10-23,4,1617.6,404.4,Wednesday,06:09:51,October,Morning,SoundWave Novel,Books,Karen Clements MD,South America,2022-12-13,1263.4575,96.0,4.0,P039,Books,Monday,Afternoon
+T00151,C0131,P043,2024-12-19,2,808.8,404.4,Thursday,17:58:21,December,Evening,SoundWave Novel,Books,Scott Wilson,North America,2022-06-05,647.9399999999999,39.0,3.0,P017,Books,Thursday,Evening
+T00254,C0174,P043,2024-06-30,2,808.8,404.4,Sunday,15:44:26,June,Afternoon,SoundWave Novel,Books,Tracy Steele,South America,2022-11-03,578.39,46.0,5.0,P025,Books,Sunday,Afternoon
+T00342,C0054,P043,2024-01-24,3,1213.2,404.4,Wednesday,16:03:16,January,Afternoon,SoundWave Novel,Books,Bruce Rhodes,Asia,2024-09-29,1005.0487499999999,112.0,8.0,P037,Electronics,Sunday,Afternoon
+T00356,C0115,P043,2024-12-22,4,1617.6,404.4,Sunday,17:19:08,December,Evening,SoundWave Novel,Books,Joshua Hamilton,Asia,2024-11-11,1045.7266666666667,36.0,3.0,P037,Electronics,Sunday,Morning
+T00572,C0155,P043,2024-09-21,2,808.8,404.4,Saturday,21:57:20,September,Evening,SoundWave Novel,Books,Michelle Brown,South America,2023-03-23,768.2614285714286,77.0,7.0,P026,Books,Wednesday,Evening
+T00790,C0084,P043,2024-08-13,1,404.4,404.4,Tuesday,23:52:47,August,Evening,SoundWave Novel,Books,Belinda Garner,Asia,2024-09-17,493.4555555555556,42.0,8.0,P013,Electronics,Tuesday,Morning
+T00837,C0139,P043,2024-09-20,2,808.8,404.4,Friday,04:55:33,September,Evening,SoundWave Novel,Books,Ricky Gutierrez,North America,2022-03-14,462.955,113.0,8.0,P006,Books,Wednesday,Morning
+T00841,C0019,P043,2024-07-01,1,404.4,404.4,Monday,13:07:47,July,Afternoon,SoundWave Novel,Books,Brandon Rodriguez,Europe,2023-01-12,364.3033333333333,80.0,6.0,P001,Books,Friday,Evening
+T00907,C0160,P043,2024-02-15,4,1617.6,404.4,Thursday,17:18:56,February,Evening,SoundWave Novel,Books,Jodi Cook,North America,2022-04-05,585.386,164.0,5.0,P022,Home Decor,Sunday,Morning
+T00931,C0114,P043,2024-09-04,4,1617.6,404.4,Wednesday,22:08:05,September,Evening,SoundWave Novel,Books,Benjamin Anderson,Europe,2024-11-18,1156.086,126.0,5.0,P020,Electronics,Wednesday,Afternoon
+T00122,C0084,P035,2024-09-12,2,61.18,30.59,Thursday,13:59:35,September,Afternoon,ActiveWear T-Shirt,Clothing,Belinda Garner,Asia,2024-09-17,493.4555555555556,42.0,8.0,P013,Electronics,Tuesday,Morning
+T00246,C0088,P035,2024-12-05,3,91.77,30.59,Thursday,01:12:30,December,Evening,ActiveWear T-Shirt,Clothing,Carlos Murray,Asia,2023-05-14,427.076,43.0,5.0,P010,Clothing,Sunday,Evening
+T00329,C0008,P035,2024-12-17,4,122.36,30.59,Tuesday,04:05:00,December,Evening,ActiveWear T-Shirt,Clothing,David Li,North America,2024-01-13,427.16099999999994,41.0,10.0,P004,Home Decor,Monday,Evening
+T00446,C0164,P035,2024-02-25,2,61.18,30.59,Sunday,03:48:50,February,Evening,ActiveWear T-Shirt,Clothing,Morgan Perez,Europe,2023-06-01,617.538,87.0,5.0,P004,Home Decor,Sunday,Afternoon
+T00479,C0144,P035,2024-04-27,4,122.36,30.59,Saturday,20:02:17,April,Evening,ActiveWear T-Shirt,Clothing,Andrea Hart,North America,2024-09-30,652.3399999999999,275.0,2.0,P035,Clothing,Saturday,Evening
+T00765,C0025,P035,2024-01-31,1,30.59,30.59,Wednesday,19:48:04,January,Evening,ActiveWear T-Shirt,Clothing,Gregory Odom,South America,2022-07-04,397.4525,167.0,4.0,P022,Home Decor,Thursday,Evening
+T00799,C0061,P035,2024-12-10,1,30.59,30.59,Tuesday,16:00:56,December,Afternoon,ActiveWear T-Shirt,Clothing,Brandon Escobar,Europe,2023-03-06,712.7533333333334,48.0,3.0,P005,Clothing,Friday,Morning
+T00804,C0134,P035,2024-12-10,4,122.36,30.59,Tuesday,06:40:49,December,Morning,ActiveWear T-Shirt,Clothing,Theresa Gonzalez,Asia,2022-02-19,535.856,48.0,5.0,P006,Clothing,Sunday,Morning
+T00812,C0003,P035,2024-02-18,4,122.36,30.59,Sunday,02:50:37,February,Evening,ActiveWear T-Shirt,Clothing,Michael Rivera,South America,2024-03-07,681.345,156.0,4.0,P002,Home Decor,Sunday,Evening
+T00956,C0099,P035,2024-05-28,1,30.59,30.59,Tuesday,01:25:36,May,Evening,ActiveWear T-Shirt,Clothing,Rodney Eaton,South America,2023-01-29,839.465,35.0,8.0,P005,Clothing,Friday,Evening
+T00125,C0122,P033,2024-01-26,2,128.5,64.25,Friday,05:19:40,January,Morning,TechPro T-Shirt,Clothing,Corey Ruiz,North America,2022-05-06,724.65,41.0,7.0,P010,Books,Tuesday,Evening
+T00189,C0195,P033,2024-04-05,2,128.5,64.25,Friday,04:56:24,April,Evening,TechPro T-Shirt,Clothing,Jeremy Mclaughlin,South America,2024-09-17,672.7116666666667,64.0,6.0,P028,Home Decor,Tuesday,Evening
+T00200,C0057,P033,2024-03-05,3,192.75,64.25,Tuesday,04:58:09,March,Evening,TechPro T-Shirt,Clothing,Elizabeth Nguyen,Europe,2024-07-27,756.0666666666666,40.0,6.0,P008,Books,Wednesday,Afternoon
+T00366,C0075,P033,2024-08-09,3,192.75,64.25,Friday,17:24:33,August,Evening,TechPro T-Shirt,Clothing,Misty Higgins,Europe,2023-05-01,649.8855555555556,48.0,9.0,P013,Books,Friday,Evening
+T00510,C0031,P033,2024-03-06,4,257.0,64.25,Wednesday,01:55:48,March,Evening,TechPro T-Shirt,Clothing,Tina Miller,South America,2024-04-11,501.345,64.0,4.0,P002,Home Decor,Sunday,Evening
+T00532,C0030,P033,2024-04-11,3,192.75,64.25,Thursday,09:53:33,April,Morning,TechPro T-Shirt,Clothing,Mark Brock,North America,2024-01-30,509.93600000000004,43.0,5.0,P004,Clothing,Sunday,Evening
+T00755,C0032,P033,2024-07-12,3,192.75,64.25,Friday,08:20:42,July,Morning,TechPro T-Shirt,Clothing,Dustin Campbell,South America,2024-04-17,224.33333333333334,61.0,3.0,P033,Books,Friday,Morning
+T00905,C0034,P033,2024-09-22,2,128.5,64.25,Sunday,00:00:09,September,Evening,TechPro T-Shirt,Clothing,Dalton Perez,North America,2023-09-27,512.2,96.0,6.0,P014,Clothing,Wednesday,Evening
+T00126,C0143,P014,2024-12-05,4,105.04,26.26,Thursday,07:49:45,December,Morning,ActiveWear Jacket,Clothing,Brian Parker,Asia,2024-05-27,863.5185714285715,40.0,6.0,P094,Clothing,Wednesday,Evening
+T00207,C0034,P014,2024-06-19,3,78.78,26.26,Wednesday,02:53:27,June,Evening,ActiveWear Jacket,Clothing,Dalton Perez,North America,2023-09-27,512.2,96.0,6.0,P014,Clothing,Wednesday,Evening
+T00865,C0094,P014,2024-04-28,3,78.78,26.26,Sunday,10:46:07,April,Morning,ActiveWear Jacket,Clothing,Emily Trevino,North America,2023-09-16,291.7425,83.0,4.0,P003,Books,Sunday,Morning
+T00901,C0010,P014,2024-05-12,4,105.04,26.26,Sunday,11:53:53,May,Morning,ActiveWear Jacket,Clothing,Aaron Cox,Europe,2022-12-15,429.38750000000005,72.0,4.0,P014,Clothing,Friday,Evening
+T00129,C0002,P004,2024-06-11,4,382.76,95.69,Tuesday,23:59:08,June,Evening,BookWorld Rug,Home Decor,Elizabeth Lutz,Asia,2022-02-13,465.685,55.0,4.0,P004,Clothing,Tuesday,Evening
+T00334,C0164,P004,2024-02-22,1,95.69,95.69,Thursday,14:01:23,February,Afternoon,BookWorld Rug,Home Decor,Morgan Perez,Europe,2023-06-01,617.538,87.0,5.0,P004,Home Decor,Sunday,Afternoon
+T00419,C0030,P004,2024-07-12,3,287.07,95.69,Friday,13:34:04,July,Afternoon,BookWorld Rug,Home Decor,Mark Brock,North America,2024-01-30,509.93600000000004,43.0,5.0,P004,Clothing,Sunday,Evening
+T00641,C0173,P004,2024-01-02,3,287.07,95.69,Tuesday,15:02:39,January,Afternoon,BookWorld Rug,Home Decor,Francisco Young,Asia,2022-10-06,726.005,148.0,8.0,P004,Books,Friday,Afternoon
+T00747,C0137,P004,2024-12-23,1,95.69,95.69,Monday,23:09:50,December,Evening,BookWorld Rug,Home Decor,Robert Gardner,South America,2024-04-09,666.51,35.0,5.0,P003,Books,Wednesday,Afternoon
+T00860,C0008,P004,2024-08-22,2,191.38,95.69,Thursday,03:25:32,August,Evening,BookWorld Rug,Home Decor,David Li,North America,2024-01-13,427.16099999999994,41.0,10.0,P004,Home Decor,Monday,Evening
+T00891,C0091,P004,2024-07-24,4,382.76,95.69,Wednesday,23:11:16,July,Evening,BookWorld Rug,Home Decor,Lisa Kirk,South America,2023-03-16,522.9433333333333,167.0,5.0,P026,Electronics,Tuesday,Evening
+T00132,C0105,P029,2024-09-03,4,1734.56,433.64,Tuesday,19:50:06,September,Evening,TechPro Headphones,Electronics,Ryan Hampton,Europe,2024-11-11,801.2416666666667,146.0,6.0,P001,Electronics,Monday,Morning
+T00213,C0165,P029,2024-02-15,3,1300.92,433.64,Thursday,07:07:11,February,Morning,TechPro Headphones,Electronics,Juan Mcdaniel,South America,2022-04-09,745.3444444444444,32.0,6.0,P044,Books,Thursday,Morning
+T00222,C0146,P029,2024-05-24,1,433.64,433.64,Friday,22:54:41,May,Evening,TechPro Headphones,Electronics,Brittany Harvey,Asia,2024-09-04,642.7,40.0,4.0,P029,Electronics,Friday,Evening
+T00258,C0050,P029,2024-04-25,3,1300.92,433.64,Thursday,03:49:28,April,Evening,TechPro Headphones,Electronics,Ryan Davis,North America,2024-03-02,1022.9433333333333,71.0,3.0,P029,Electronics,Thursday,Evening
+T00286,C0069,P029,2024-12-09,2,867.28,433.64,Monday,14:58:44,December,Afternoon,TechPro Headphones,Electronics,Stacy Foster,Europe,2023-12-03,575.738,49.0,5.0,P010,Electronics,Thursday,Evening
+T00436,C0001,P029,2024-11-02,3,1300.92,433.64,Saturday,17:04:16,November,Evening,TechPro Headphones,Electronics,Lawrence Carroll,South America,2022-07-10,670.9040000000001,86.0,5.0,P022,Electronics,Tuesday,Evening
+T00495,C0027,P029,2024-04-07,2,867.28,433.64,Sunday,16:46:45,April,Afternoon,TechPro Headphones,Electronics,Justin Heath,Asia,2022-11-09,640.735,108.0,4.0,P003,Books,Friday,Morning
+T00541,C0082,P029,2024-07-25,2,867.28,433.64,Thursday,15:20:14,July,Afternoon,TechPro Headphones,Electronics,Aimee Taylor,South America,2022-05-13,1081.8442857142857,58.0,7.0,P019,Books,Saturday,Evening
+T00554,C0087,P029,2024-04-13,4,1734.56,433.64,Saturday,20:04:25,April,Evening,TechPro Headphones,Electronics,Travis Campbell,South America,2024-04-11,943.4614285714285,136.0,7.0,P029,Books,Monday,Evening
+T00576,C0100,P029,2024-09-04,4,1734.56,433.64,Wednesday,20:49:41,September,Evening,TechPro Headphones,Electronics,Clinton Gomez,Europe,2023-03-16,833.9083333333333,145.0,6.0,P009,Home Decor,Saturday,Afternoon
+T00593,C0120,P029,2024-04-01,2,867.28,433.64,Monday,07:30:59,April,Morning,TechPro Headphones,Electronics,Francisco Diaz,South America,2023-01-13,823.34,172.0,3.0,P029,Electronics,Monday,Morning
+T00673,C0102,P029,2024-09-01,3,1300.92,433.64,Sunday,21:40:35,September,Evening,TechPro Headphones,Electronics,Michael Atkinson,South America,2022-09-16,766.5450000000001,148.0,7.0,P058,Electronics,Friday,Evening
+T00680,C0163,P029,2024-07-18,4,1734.56,433.64,Thursday,00:10:42,July,Evening,TechPro Headphones,Electronics,Tiffany Cain,South America,2023-06-08,962.5466666666666,107.0,5.0,P074,Home Decor,Friday,Afternoon
+T00776,C0065,P029,2024-04-22,4,1734.56,433.64,Monday,01:00:36,April,Evening,TechPro Headphones,Electronics,Gerald Hines,North America,2024-07-10,766.37,45.0,10.0,P022,Home Decor,Monday,Evening
+T00835,C0190,P029,2024-12-16,1,433.64,433.64,Monday,09:49:40,December,Morning,TechPro Headphones,Electronics,Alexander Lowe,South America,2024-05-31,596.604,42.0,5.0,P016,Electronics,Saturday,Morning
+T00935,C0109,P029,2024-09-21,1,433.64,433.64,Saturday,09:44:39,September,Morning,TechPro Headphones,Electronics,Abigail Jones,North America,2022-05-09,498.84090909090907,81.0,10.0,P100,Clothing,Saturday,Evening
+T00975,C0116,P029,2024-06-16,2,867.28,433.64,Sunday,15:47:00,June,Afternoon,TechPro Headphones,Electronics,James Martinez,North America,2024-09-11,459.78000000000003,89.0,6.0,P029,Books,Wednesday,Evening
+T00135,C0075,P097,2024-04-29,3,958.02,319.34,Monday,19:03:50,April,Evening,BookWorld Cookbook,Books,Misty Higgins,Europe,2023-05-01,649.8855555555556,48.0,9.0,P013,Books,Friday,Evening
+T00173,C0182,P097,2024-05-09,4,1277.36,319.34,Thursday,17:32:28,May,Evening,BookWorld Cookbook,Books,Joshua Preston,Europe,2024-12-28,996.1539999999999,263.0,5.0,P008,Home Decor,Monday,Evening
+T00182,C0122,P097,2024-05-08,3,958.02,319.34,Wednesday,22:24:58,May,Evening,BookWorld Cookbook,Books,Corey Ruiz,North America,2022-05-06,724.65,41.0,7.0,P010,Books,Tuesday,Evening
+T00278,C0077,P097,2024-09-26,1,319.34,319.34,Thursday,16:10:17,September,Afternoon,BookWorld Cookbook,Books,Scott Sims,South America,2023-10-18,279.09999999999997,86.0,3.0,P081,Clothing,Monday,Afternoon
+T00354,C0070,P097,2024-05-15,4,1277.36,319.34,Wednesday,00:22:27,May,Evening,BookWorld Cookbook,Books,Timothy Perez,Europe,2022-03-15,781.3725,112.0,4.0,P049,Books,Thursday,Afternoon
+T00394,C0063,P097,2024-03-25,4,1277.36,319.34,Monday,13:47:30,March,Afternoon,BookWorld Cookbook,Books,Wayne Ferguson,Europe,2024-02-05,689.0849999999999,121.0,2.0,P069,Books,Monday,Afternoon
+T00474,C0168,P097,2024-04-01,1,319.34,319.34,Monday,14:59:11,April,Afternoon,BookWorld Cookbook,Books,Karen Clements MD,South America,2022-12-13,1263.4575,96.0,4.0,P039,Books,Monday,Afternoon
+T00534,C0004,P097,2024-06-25,3,958.02,319.34,Tuesday,22:10:47,June,Evening,BookWorld Cookbook,Books,Kathleen Rodriguez,South America,2022-10-09,669.36,35.0,8.0,P008,Books,Monday,Morning
+T00783,C0057,P097,2024-01-18,2,638.68,319.34,Thursday,16:04:46,January,Afternoon,BookWorld Cookbook,Books,Elizabeth Nguyen,Europe,2024-07-27,756.0666666666666,40.0,6.0,P008,Books,Wednesday,Afternoon
+T00142,C0028,P080,2024-08-04,4,1214.0,303.5,Sunday,12:38:25,August,Afternoon,ActiveWear Jacket,Clothing,Jennifer Pena,Asia,2024-06-29,852.44625,33.0,6.0,P057,Electronics,Thursday,Afternoon
+T00150,C0166,P080,2024-10-22,1,303.5,303.5,Tuesday,12:08:25,October,Afternoon,ActiveWear Jacket,Clothing,John Rogers,Europe,2022-02-13,601.3375000000001,97.0,4.0,P010,Home Decor,Monday,Evening
+T00171,C0028,P080,2024-09-19,1,303.5,303.5,Thursday,03:29:48,September,Evening,ActiveWear Jacket,Clothing,Jennifer Pena,Asia,2024-06-29,852.44625,33.0,6.0,P057,Electronics,Thursday,Afternoon
+T00247,C0187,P080,2024-10-12,1,303.5,303.5,Saturday,08:20:33,October,Morning,ActiveWear Jacket,Clothing,Kayla Kelly,South America,2024-08-02,922.4879999999999,107.0,5.0,P009,Books,Thursday,Morning
+T00473,C0066,P080,2024-03-13,2,607.0,303.5,Wednesday,04:00:25,March,Evening,ActiveWear Jacket,Clothing,Catherine White,Europe,2024-11-15,1266.4266666666665,152.0,3.0,P041,Electronics,Wednesday,Evening
+T00489,C0039,P080,2024-02-13,4,1214.0,303.5,Tuesday,16:15:35,February,Afternoon,ActiveWear Jacket,Clothing,Angela Harris,South America,2024-10-13,706.6,92.0,6.0,P011,Electronics,Sunday,Afternoon
+T00588,C0145,P080,2024-04-16,2,607.0,303.5,Tuesday,21:50:49,April,Evening,ActiveWear Jacket,Clothing,Wayne Stone,Asia,2023-01-13,721.40875,62.0,7.0,P080,Clothing,Monday,Morning
+T00714,C0153,P080,2024-09-11,2,607.0,303.5,Wednesday,11:58:00,September,Morning,ActiveWear Jacket,Clothing,Justin Smith,South America,2022-03-20,790.7983333333333,138.0,6.0,P003,Books,Friday,Morning
+T00827,C0016,P080,2024-11-10,3,910.5,303.5,Sunday,18:24:04,November,Evening,ActiveWear Jacket,Clothing,Emily Woods,North America,2024-01-03,774.884,78.0,5.0,P016,Clothing,Thursday,Morning
+T00946,C0145,P080,2024-07-22,4,1214.0,303.5,Monday,05:37:22,July,Morning,ActiveWear Jacket,Clothing,Wayne Stone,Asia,2023-01-13,721.40875,62.0,7.0,P080,Clothing,Monday,Morning
+T00147,C0117,P099,2024-08-05,4,1417.16,354.29,Monday,20:03:50,August,Evening,SoundWave Mystery Book,Books,Jeffrey Mcmahon,North America,2024-11-22,1007.0675000000001,175.0,4.0,P019,Books,Monday,Evening
+T00266,C0125,P099,2024-02-27,2,708.58,354.29,Tuesday,18:25:58,February,Evening,SoundWave Mystery Book,Books,Nicholas Taylor,North America,2022-12-18,743.49,156.0,4.0,P010,Books,Tuesday,Evening
+T00669,C0074,P099,2024-01-03,4,1417.16,354.29,Wednesday,16:57:09,January,Afternoon,SoundWave Mystery Book,Books,Jonathan Russo,Europe,2022-05-27,1018.4066666666668,182.0,3.0,P005,Books,Monday,Afternoon
+T00825,C0070,P099,2024-02-08,1,354.29,354.29,Thursday,14:20:05,February,Afternoon,SoundWave Mystery Book,Books,Timothy Perez,Europe,2022-03-15,781.3725,112.0,4.0,P049,Books,Thursday,Afternoon
+T00148,C0002,P019,2024-02-28,2,770.74,385.37,Wednesday,07:44:21,February,Morning,ComfortLiving Sweater,Clothing,Elizabeth Lutz,Asia,2022-02-13,465.685,55.0,4.0,P004,Clothing,Tuesday,Evening
+T00192,C0079,P019,2024-03-28,4,1541.48,385.37,Thursday,04:39:16,March,Evening,ComfortLiving Sweater,Clothing,Brian Murillo,North America,2022-02-02,1062.8899999999999,181.0,4.0,P007,Home Decor,Thursday,Evening
+T00209,C0156,P019,2024-09-06,3,1156.11,385.37,Friday,12:12:21,September,Afternoon,ComfortLiving Sweater,Clothing,William Adams,North America,2023-08-19,694.040909090909,43.0,10.0,P059,Books,Saturday,Afternoon
+T00264,C0170,P019,2024-01-12,4,1541.48,385.37,Friday,10:17:10,January,Morning,ComfortLiving Sweater,Clothing,Logan Harris,Europe,2023-09-13,986.348,136.0,5.0,P019,Home Decor,Friday,Morning
+T00339,C0117,P019,2024-05-03,4,1541.48,385.37,Friday,03:39:17,May,Evening,ComfortLiving Sweater,Clothing,Jeffrey Mcmahon,North America,2024-11-22,1007.0675000000001,175.0,4.0,P019,Books,Monday,Evening
+T00375,C0082,P019,2024-10-05,4,1541.48,385.37,Saturday,02:02:48,October,Evening,ComfortLiving Sweater,Clothing,Aimee Taylor,South America,2022-05-13,1081.8442857142857,58.0,7.0,P019,Books,Saturday,Evening
+T00525,C0178,P019,2024-10-21,3,1156.11,385.37,Monday,20:29:28,October,Evening,ComfortLiving Sweater,Clothing,Carol Williams,Asia,2023-11-19,677.2075,37.0,4.0,P003,Home Decor,Monday,Evening
+T00535,C0059,P019,2024-03-12,4,1541.48,385.37,Tuesday,21:51:40,March,Evening,ComfortLiving Sweater,Clothing,Mrs. Kimberly Wright,North America,2024-04-07,884.16,95.0,8.0,P019,Home Decor,Tuesday,Evening
+T00595,C0138,P019,2024-07-11,4,1541.48,385.37,Thursday,20:27:51,July,Evening,ComfortLiving Sweater,Clothing,Cynthia Clayton,Asia,2024-11-01,1122.05,40.0,4.0,P079,Home Decor,Friday,Evening
+T00836,C0076,P019,2024-04-25,1,385.37,385.37,Thursday,14:43:34,April,Afternoon,ComfortLiving Sweater,Clothing,Emily Roberts,South America,2024-02-11,466.61199999999997,57.0,5.0,P019,Home Decor,Wednesday,Evening
+T00976,C0109,P019,2024-08-07,2,770.74,385.37,Wednesday,01:34:06,August,Evening,ComfortLiving Sweater,Clothing,Abigail Jones,North America,2022-05-09,498.84090909090907,81.0,10.0,P100,Clothing,Saturday,Evening
+T00154,C0040,P020,2023-12-31,4,1585.36,396.34,Sunday,06:53:54,December,Morning,ActiveWear Jacket,Clothing,Michael Harrell,Asia,2022-03-07,1323.1333333333332,192.0,2.0,P020,Clothing,Friday,Morning
+T00212,C0196,P020,2024-12-03,4,1585.36,396.34,Tuesday,12:54:48,December,Afternoon,ActiveWear Jacket,Clothing,Laura Watts,Europe,2022-06-07,1245.72,43.0,3.0,P079,Home Decor,Tuesday,Afternoon
+T00259,C0006,P020,2024-01-25,4,1585.36,396.34,Thursday,09:29:44,January,Morning,ActiveWear Jacket,Clothing,Brittany Palmer,South America,2024-01-07,1056.8925,112.0,4.0,P020,Books,Thursday,Evening
+T00263,C0030,P020,2024-01-28,1,396.34,396.34,Sunday,04:10:05,January,Evening,ActiveWear Jacket,Clothing,Mark Brock,North America,2024-01-30,509.93600000000004,43.0,5.0,P004,Clothing,Sunday,Evening
+T00627,C0013,P020,2024-05-06,4,1585.36,396.34,Monday,23:15:01,May,Evening,ActiveWear Jacket,Clothing,Lauren Buchanan,South America,2024-05-19,857.2228571428572,85.0,7.0,P015,Clothing,Friday,Evening
+T00788,C0114,P020,2024-06-13,3,1189.02,396.34,Thursday,12:58:37,June,Afternoon,ActiveWear Jacket,Clothing,Benjamin Anderson,Europe,2024-11-18,1156.086,126.0,5.0,P020,Electronics,Wednesday,Afternoon
+T00843,C0102,P020,2024-08-08,2,792.68,396.34,Thursday,19:49:54,August,Evening,ActiveWear Jacket,Clothing,Michael Atkinson,South America,2022-09-16,766.5450000000001,148.0,7.0,P058,Electronics,Friday,Evening
+T00903,C0182,P020,2024-01-29,4,1585.36,396.34,Monday,19:25:10,January,Evening,ActiveWear Jacket,Clothing,Joshua Preston,Europe,2024-12-28,996.1539999999999,263.0,5.0,P008,Home Decor,Monday,Evening
+T00911,C0067,P020,2024-06-14,3,1189.02,396.34,Friday,21:37:11,June,Evening,ActiveWear Jacket,Clothing,Carl Gonzalez,North America,2023-07-06,681.8066666666667,102.0,6.0,P002,Clothing,Thursday,Evening
+T00933,C0058,P020,2024-02-01,1,396.34,396.34,Thursday,14:24:48,February,Afternoon,ActiveWear Jacket,Clothing,Zachary Turner,North America,2024-01-28,396.34,361.0,1.0,P020,Clothing,Thursday,Afternoon
+T00967,C0040,P020,2024-07-19,4,1585.36,396.34,Friday,09:25:20,July,Morning,ActiveWear Jacket,Clothing,Michael Harrell,Asia,2022-03-07,1323.1333333333332,192.0,2.0,P020,Clothing,Friday,Morning
+T00983,C0046,P020,2024-04-30,4,1585.36,396.34,Tuesday,08:50:38,April,Morning,ActiveWear Jacket,Clothing,Beth Cardenas,North America,2024-10-23,803.9757142857143,124.0,7.0,P016,Books,Saturday,Evening
+T00157,C0169,P044,2024-11-09,2,37.64,18.82,Saturday,09:07:36,November,Morning,ActiveWear Running Shoes,Clothing,Jennifer Shaw,South America,2023-04-13,755.5533333333333,55.0,6.0,P003,Books,Friday,Morning
+T00672,C0165,P044,2024-07-28,4,75.28,18.82,Sunday,00:09:49,July,Evening,ActiveWear Running Shoes,Clothing,Juan Mcdaniel,South America,2022-04-09,745.3444444444444,32.0,6.0,P044,Books,Thursday,Morning
+T00711,C0165,P044,2024-06-11,4,75.28,18.82,Tuesday,15:51:14,June,Afternoon,ActiveWear Running Shoes,Clothing,Juan Mcdaniel,South America,2022-04-09,745.3444444444444,32.0,6.0,P044,Books,Thursday,Morning
+T00878,C0165,P044,2024-09-24,3,56.46,18.82,Tuesday,21:15:21,September,Evening,ActiveWear Running Shoes,Clothing,Juan Mcdaniel,South America,2022-04-09,745.3444444444444,32.0,6.0,P044,Books,Thursday,Morning
+T00159,C0163,P002,2024-10-12,4,1385.2,346.3,Saturday,03:12:30,October,Evening,ActiveWear Smartwatch,Electronics,Tiffany Cain,South America,2023-06-08,962.5466666666666,107.0,5.0,P074,Home Decor,Friday,Afternoon
+T00248,C0067,P002,2024-05-03,4,1385.2,346.3,Friday,21:36:31,May,Evening,ActiveWear Smartwatch,Electronics,Carl Gonzalez,North America,2023-07-06,681.8066666666667,102.0,6.0,P002,Clothing,Thursday,Evening
+T00285,C0068,P002,2024-04-02,3,1038.9,346.3,Tuesday,02:23:50,April,Evening,ActiveWear Smartwatch,Electronics,Mark Cox,North America,2023-04-04,743.8025,34.0,8.0,P002,Electronics,Tuesday,Evening
+T00402,C0031,P002,2024-11-24,2,692.6,346.3,Sunday,17:22:38,November,Evening,ActiveWear Smartwatch,Electronics,Tina Miller,South America,2024-04-11,501.345,64.0,4.0,P002,Home Decor,Sunday,Evening
+T00648,C0003,P002,2024-08-24,4,1385.2,346.3,Saturday,18:54:04,August,Evening,ActiveWear Smartwatch,Electronics,Michael Rivera,South America,2024-03-07,681.345,156.0,4.0,P002,Home Decor,Sunday,Evening
+T00706,C0181,P002,2024-07-01,3,1038.9,346.3,Monday,00:11:31,July,Evening,ActiveWear Smartwatch,Electronics,Alexander Barker,South America,2023-11-16,557.9333333333334,31.0,6.0,P002,Electronics,Friday,Evening
+T00717,C0186,P002,2024-09-21,2,692.6,346.3,Saturday,05:32:31,September,Morning,ActiveWear Smartwatch,Electronics,Amber Alexander,Asia,2023-10-11,587.2133333333333,96.0,3.0,P002,Electronics,Friday,Morning
+T00780,C0102,P002,2024-02-14,3,1038.9,346.3,Wednesday,14:25:57,February,Afternoon,ActiveWear Smartwatch,Electronics,Michael Atkinson,South America,2022-09-16,766.5450000000001,148.0,7.0,P058,Electronics,Friday,Evening
+T00165,C0049,P056,2024-03-18,4,64.32,16.08,Monday,04:33:39,March,Evening,SoundWave Smartwatch,Electronics,Jason Yates,North America,2024-09-18,289.435,150.0,8.0,P027,Clothing,Monday,Evening
+T00399,C0013,P056,2024-03-28,3,48.24,16.08,Thursday,19:16:21,March,Evening,SoundWave Smartwatch,Electronics,Lauren Buchanan,South America,2024-05-19,857.2228571428572,85.0,7.0,P015,Clothing,Friday,Evening
+T00454,C0174,P056,2024-11-10,2,32.16,16.08,Sunday,08:32:31,November,Morning,SoundWave Smartwatch,Electronics,Tracy Steele,South America,2022-11-03,578.39,46.0,5.0,P025,Books,Sunday,Afternoon
+T00584,C0112,P056,2024-06-02,1,16.08,16.08,Sunday,17:24:55,June,Evening,SoundWave Smartwatch,Electronics,Brian Adkins,South America,2022-07-07,653.17,201.0,3.0,P050,Electronics,Wednesday,Evening
+T00774,C0095,P056,2024-01-07,2,32.16,16.08,Sunday,14:19:49,January,Afternoon,SoundWave Smartwatch,Electronics,William Walker,South America,2023-03-04,642.135,119.0,2.0,P056,Electronics,Monday,Afternoon
+T00916,C0099,P056,2024-11-10,4,64.32,16.08,Sunday,19:32:15,November,Evening,SoundWave Smartwatch,Electronics,Rodney Eaton,South America,2023-01-29,839.465,35.0,8.0,P005,Clothing,Friday,Evening
+T00949,C0169,P056,2024-02-16,4,64.32,16.08,Friday,14:52:24,February,Afternoon,SoundWave Smartwatch,Electronics,Jennifer Shaw,South America,2023-04-13,755.5533333333333,55.0,6.0,P003,Books,Friday,Morning
+T00996,C0189,P056,2024-01-31,1,16.08,16.08,Wednesday,19:34:22,January,Evening,SoundWave Smartwatch,Electronics,Sherri Dixon,North America,2024-01-22,528.642,37.0,5.0,P025,Home Decor,Monday,Evening
+T00170,C0038,P082,2024-02-29,3,167.97,55.99,Thursday,01:45:41,February,Evening,ComfortLiving Rug,Home Decor,Jeffrey Perkins,North America,2022-04-16,539.37,46.0,5.0,P028,Home Decor,Thursday,Evening
+T00215,C0065,P082,2024-03-18,3,167.97,55.99,Monday,06:01:51,March,Morning,ComfortLiving Rug,Home Decor,Gerald Hines,North America,2024-07-10,766.37,45.0,10.0,P022,Home Decor,Monday,Evening
+T00233,C0162,P082,2024-02-16,1,55.99,55.99,Friday,11:29:31,February,Morning,ComfortLiving Rug,Home Decor,Edwin Watson,Asia,2022-03-29,600.28,71.0,8.0,P009,Electronics,Monday,Evening
+T00369,C0151,P082,2024-12-24,4,223.96,55.99,Tuesday,11:40:24,December,Morning,ComfortLiving Rug,Home Decor,Amber Gonzalez,South America,2024-11-22,223.96,34.0,1.0,P082,Home Decor,Tuesday,Morning
+T00373,C0179,P082,2024-02-07,2,111.98,55.99,Wednesday,20:28:19,February,Evening,ComfortLiving Rug,Home Decor,Donald Miller,Europe,2022-10-16,608.805,109.0,6.0,P022,Home Decor,Saturday,Evening
+T00398,C0069,P082,2024-03-14,1,55.99,55.99,Thursday,17:22:52,March,Evening,ComfortLiving Rug,Home Decor,Stacy Foster,Europe,2023-12-03,575.738,49.0,5.0,P010,Electronics,Thursday,Evening
+T00622,C0047,P082,2024-02-22,2,111.98,55.99,Thursday,21:46:45,February,Evening,ComfortLiving Rug,Home Decor,Samantha Frank,North America,2024-03-22,410.07714285714286,157.0,7.0,P007,Books,Friday,Morning
+T00874,C0093,P082,2024-09-12,3,167.97,55.99,Thursday,04:48:36,September,Evening,ComfortLiving Rug,Home Decor,Nancy Walker,Asia,2024-07-13,588.3322222222222,133.0,8.0,P076,Clothing,Monday,Evening
+T00174,C0107,P012,2024-02-21,1,159.6,159.6,Wednesday,23:48:42,February,Evening,ComfortLiving Headphones,Electronics,Dana Cantrell,South America,2023-02-07,724.784,97.0,5.0,P005,Clothing,Tuesday,Afternoon
+T00179,C0119,P012,2024-11-27,1,159.6,159.6,Wednesday,08:06:10,November,Morning,ComfortLiving Headphones,Electronics,David Armstrong,Europe,2023-11-13,238.32199999999997,32.0,5.0,P011,Electronics,Wednesday,Evening
+T00451,C0023,P012,2024-10-04,4,638.4,159.6,Friday,20:44:00,October,Evening,ComfortLiving Headphones,Electronics,Nicholas Cain,Europe,2022-03-04,859.775,77.0,6.0,P012,Books,Monday,Evening
+T00719,C0057,P012,2024-04-07,1,159.6,159.6,Sunday,14:32:58,April,Afternoon,ComfortLiving Headphones,Electronics,Elizabeth Nguyen,Europe,2024-07-27,756.0666666666666,40.0,6.0,P008,Books,Wednesday,Afternoon
+T00789,C0005,P012,2024-11-04,2,319.2,159.6,Monday,00:30:22,November,Evening,ComfortLiving Headphones,Electronics,Laura Weber,Asia,2022-08-15,678.08,84.0,3.0,P012,Electronics,Friday,Evening
+T00858,C0194,P012,2024-08-18,1,159.6,159.6,Sunday,00:51:18,August,Evening,ComfortLiving Headphones,Electronics,Stacy Cook,North America,2024-05-04,552.7385714285714,97.0,7.0,P005,Books,Sunday,Evening
+T00909,C0093,P012,2024-01-01,2,319.2,159.6,Monday,14:29:52,January,Afternoon,ComfortLiving Headphones,Electronics,Nancy Walker,Asia,2024-07-13,588.3322222222222,133.0,8.0,P076,Clothing,Monday,Evening
+T00969,C0149,P012,2024-07-30,3,478.8,159.6,Tuesday,08:34:58,July,Morning,ComfortLiving Headphones,Electronics,Tina Wilson,Europe,2023-01-21,880.9559999999999,151.0,5.0,P012,Clothing,Tuesday,Afternoon
+T00176,C0164,P075,2024-10-20,1,497.76,497.76,Sunday,16:20:50,October,Afternoon,TechPro Textbook,Books,Morgan Perez,Europe,2023-06-01,617.538,87.0,5.0,P004,Home Decor,Sunday,Afternoon
+T00360,C0108,P075,2024-05-29,3,1493.28,497.76,Wednesday,17:04:29,May,Evening,TechPro Textbook,Books,David Davis,South America,2022-09-28,692.6485714285715,117.0,7.0,P011,Clothing,Wednesday,Evening
+T00367,C0161,P075,2024-03-27,2,995.52,497.76,Wednesday,07:31:28,March,Morning,TechPro Textbook,Books,Jessica Warren,Asia,2022-03-14,392.72875,165.0,8.0,P007,Books,Monday,Evening
+T00643,C0137,P075,2024-05-21,3,1493.28,497.76,Tuesday,09:00:57,May,Morning,TechPro Textbook,Books,Robert Gardner,South America,2024-04-09,666.51,35.0,5.0,P003,Books,Wednesday,Afternoon
+T00782,C0188,P075,2024-08-27,3,1493.28,497.76,Tuesday,05:49:59,August,Morning,TechPro Textbook,Books,Anna Ball,South America,2022-05-17,888.9150000000001,32.0,7.0,P057,Electronics,Friday,Morning
+T00805,C0038,P075,2024-02-05,3,1493.28,497.76,Monday,18:18:43,February,Evening,TechPro Textbook,Books,Jeffrey Perkins,North America,2022-04-16,539.37,46.0,5.0,P028,Home Decor,Thursday,Evening
+T00809,C0078,P075,2024-12-09,2,995.52,497.76,Monday,11:44:44,December,Morning,TechPro Textbook,Books,Julia Palmer,Asia,2024-11-13,995.52,49.0,1.0,P075,Books,Monday,Morning
+T00866,C0065,P075,2024-12-10,3,1493.28,497.76,Tuesday,01:50:20,December,Evening,TechPro Textbook,Books,Gerald Hines,North America,2024-07-10,766.37,45.0,10.0,P022,Home Decor,Monday,Evening
+T00876,C0044,P075,2024-10-22,2,995.52,497.76,Tuesday,02:45:04,October,Evening,TechPro Textbook,Books,Kenneth Alexander,Europe,2024-07-10,1076.7033333333331,97.0,3.0,P045,Books,Thursday,Evening
+T00928,C0082,P075,2024-09-06,4,1991.04,497.76,Friday,18:39:07,September,Evening,TechPro Textbook,Books,Aimee Taylor,South America,2022-05-13,1081.8442857142857,58.0,7.0,P019,Books,Saturday,Evening
+T00177,C0099,P005,2024-06-14,3,1287.93,429.31,Friday,08:41:48,June,Morning,TechPro T-Shirt,Clothing,Rodney Eaton,South America,2023-01-29,839.465,35.0,8.0,P005,Clothing,Friday,Evening
+T00183,C0030,P005,2024-08-24,3,1287.93,429.31,Saturday,01:19:18,August,Evening,TechPro T-Shirt,Clothing,Mark Brock,North America,2024-01-30,509.93600000000004,43.0,5.0,P004,Clothing,Sunday,Evening
+T00437,C0143,P005,2024-09-11,4,1717.24,429.31,Wednesday,20:41:10,September,Evening,TechPro T-Shirt,Clothing,Brian Parker,Asia,2024-05-27,863.5185714285715,40.0,6.0,P094,Clothing,Wednesday,Evening
+T00468,C0061,P005,2024-02-23,2,858.62,429.31,Friday,05:08:16,February,Morning,TechPro T-Shirt,Clothing,Brandon Escobar,Europe,2023-03-06,712.7533333333334,48.0,3.0,P005,Clothing,Friday,Morning
+T00483,C0194,P005,2024-05-08,3,1287.93,429.31,Wednesday,22:54:06,May,Evening,TechPro T-Shirt,Clothing,Stacy Cook,North America,2024-05-04,552.7385714285714,97.0,7.0,P005,Books,Sunday,Evening
+T00767,C0045,P005,2024-02-29,3,1287.93,429.31,Thursday,03:49:04,February,Evening,TechPro T-Shirt,Clothing,Michael Williams,Asia,2022-02-25,860.2571428571429,154.0,7.0,P001,Electronics,Saturday,Afternoon
+T00855,C0107,P005,2024-08-16,3,1287.93,429.31,Friday,19:51:40,August,Evening,TechPro T-Shirt,Clothing,Dana Cantrell,South America,2023-02-07,724.784,97.0,5.0,P005,Clothing,Tuesday,Afternoon
+T00879,C0074,P005,2024-01-20,3,1287.93,429.31,Saturday,17:46:34,January,Evening,TechPro T-Shirt,Clothing,Jonathan Russo,Europe,2022-05-27,1018.4066666666668,182.0,3.0,P005,Books,Monday,Afternoon
+T00185,C0108,P028,2024-03-07,4,942.32,235.58,Thursday,03:54:06,March,Evening,HomeSense Desk Lamp,Home Decor,David Davis,South America,2022-09-28,692.6485714285715,117.0,7.0,P011,Clothing,Wednesday,Evening
+T00229,C0038,P028,2024-06-29,3,706.74,235.58,Saturday,11:39:11,June,Morning,HomeSense Desk Lamp,Home Decor,Jeffrey Perkins,North America,2022-04-16,539.37,46.0,5.0,P028,Home Decor,Thursday,Evening
+T00305,C0127,P028,2024-01-18,4,942.32,235.58,Thursday,15:08:21,January,Afternoon,HomeSense Desk Lamp,Home Decor,Kathryn Stevens,Europe,2024-04-04,538.8133333333334,129.0,6.0,P028,Electronics,Thursday,Morning
+T00332,C0145,P028,2024-02-04,4,942.32,235.58,Sunday,07:44:22,February,Morning,HomeSense Desk Lamp,Home Decor,Wayne Stone,Asia,2023-01-13,721.40875,62.0,7.0,P080,Clothing,Monday,Morning
+T00393,C0147,P028,2024-05-28,3,706.74,235.58,Tuesday,10:52:05,May,Morning,HomeSense Desk Lamp,Home Decor,Hunter Fuller,South America,2022-05-16,327.6044444444444,33.0,9.0,P018,Books,Saturday,Evening
+T00520,C0052,P028,2024-04-20,1,235.58,235.58,Saturday,08:12:59,April,Morning,HomeSense Desk Lamp,Home Decor,Stanley Aguirre,South America,2024-02-20,622.0025,148.0,3.0,P061,Home Decor,Saturday,Morning
+T00527,C0110,P028,2024-01-02,4,942.32,235.58,Tuesday,19:11:34,January,Evening,HomeSense Desk Lamp,Home Decor,Elizabeth Wells,Asia,2024-09-21,942.32,391.0,1.0,P028,Home Decor,Tuesday,Evening
+T00582,C0177,P028,2024-08-05,2,471.16,235.58,Monday,22:39:54,August,Evening,HomeSense Desk Lamp,Home Decor,Julia Kelly,Asia,2024-06-01,627.4525,84.0,4.0,P028,Books,Monday,Evening
+T00736,C0195,P028,2024-03-05,4,942.32,235.58,Tuesday,10:46:53,March,Morning,HomeSense Desk Lamp,Home Decor,Jeremy Mclaughlin,South America,2024-09-17,672.7116666666667,64.0,6.0,P028,Home Decor,Tuesday,Evening
+T00756,C0028,P028,2024-02-15,3,706.74,235.58,Thursday,04:29:17,February,Evening,HomeSense Desk Lamp,Home Decor,Jennifer Pena,Asia,2024-06-29,852.44625,33.0,6.0,P057,Electronics,Thursday,Afternoon
+T00851,C0059,P028,2024-02-13,3,706.74,235.58,Tuesday,06:45:11,February,Morning,HomeSense Desk Lamp,Home Decor,Mrs. Kimberly Wright,North America,2024-04-07,884.16,95.0,8.0,P019,Home Decor,Tuesday,Evening
+T00915,C0163,P028,2024-07-26,3,706.74,235.58,Friday,15:47:31,July,Afternoon,HomeSense Desk Lamp,Home Decor,Tiffany Cain,South America,2023-06-08,962.5466666666666,107.0,5.0,P074,Home Decor,Friday,Afternoon
+T00196,C0104,P094,2024-07-11,2,894.68,447.34,Thursday,17:39:59,July,Evening,HomeSense Cookware Set,Home Decor,Laura Bennett,South America,2022-02-10,822.3875,84.0,8.0,P006,Home Decor,Monday,Afternoon
+T00370,C0143,P094,2024-07-17,3,1342.02,447.34,Wednesday,08:52:39,July,Morning,HomeSense Cookware Set,Home Decor,Brian Parker,Asia,2024-05-27,863.5185714285715,40.0,6.0,P094,Clothing,Wednesday,Evening
+T00508,C0057,P094,2024-12-18,3,1342.02,447.34,Wednesday,11:46:16,December,Morning,HomeSense Cookware Set,Home Decor,Elizabeth Nguyen,Europe,2024-07-27,756.0666666666666,40.0,6.0,P008,Books,Wednesday,Afternoon
+T00707,C0170,P094,2024-05-27,3,1342.02,447.34,Monday,15:48:49,May,Afternoon,HomeSense Cookware Set,Home Decor,Logan Harris,Europe,2023-09-13,986.348,136.0,5.0,P019,Home Decor,Friday,Morning
+T00708,C0187,P094,2024-02-12,2,894.68,447.34,Monday,17:27:50,February,Evening,HomeSense Cookware Set,Home Decor,Kayla Kelly,South America,2024-08-02,922.4879999999999,107.0,5.0,P009,Books,Thursday,Morning
+T00730,C0008,P094,2024-01-22,2,894.68,447.34,Monday,19:40:43,January,Evening,HomeSense Cookware Set,Home Decor,David Li,North America,2024-01-13,427.16099999999994,41.0,10.0,P004,Home Decor,Monday,Evening
+T00733,C0059,P094,2024-02-06,1,447.34,447.34,Tuesday,22:06:42,February,Evening,HomeSense Cookware Set,Home Decor,Mrs. Kimberly Wright,North America,2024-04-07,884.16,95.0,8.0,P019,Home Decor,Tuesday,Evening
+T00912,C0148,P094,2024-10-02,4,1789.36,447.34,Wednesday,16:00:54,October,Afternoon,HomeSense Cookware Set,Home Decor,Matthew Rogers,South America,2023-04-16,1091.558,117.0,5.0,P011,Electronics,Tuesday,Evening
+T00918,C0103,P094,2024-08-20,2,894.68,447.34,Tuesday,02:24:47,August,Evening,HomeSense Cookware Set,Home Decor,Jennifer Munoz,Europe,2022-05-15,492.50999999999993,119.0,5.0,P006,Clothing,Monday,Evening
+T00966,C0154,P094,2024-03-04,2,894.68,447.34,Monday,05:11:01,March,Morning,HomeSense Cookware Set,Home Decor,Robert Sharp,North America,2024-10-27,617.2683333333333,130.0,6.0,P008,Electronics,Monday,Afternoon
+T00974,C0143,P094,2024-12-18,3,1342.02,447.34,Wednesday,17:13:17,December,Evening,HomeSense Cookware Set,Home Decor,Brian Parker,Asia,2024-05-27,863.5185714285715,40.0,6.0,P094,Clothing,Wednesday,Evening
+T00205,C0152,P079,2024-04-09,4,1669.48,417.37,Tuesday,09:14:53,April,Morning,ActiveWear Rug,Home Decor,Justin Evans,South America,2022-04-19,677.1719999999999,98.0,5.0,P051,Home Decor,Saturday,Morning
+T00274,C0196,P079,2024-08-28,1,417.37,417.37,Wednesday,19:56:53,August,Evening,ActiveWear Rug,Home Decor,Laura Watts,Europe,2022-06-07,1245.72,43.0,3.0,P079,Home Decor,Tuesday,Afternoon
+T00294,C0123,P079,2024-08-23,3,1252.11,417.37,Friday,23:45:25,August,Evening,ActiveWear Rug,Home Decor,Jason Johnston,Asia,2023-11-05,700.03,75.0,2.0,P049,Books,Friday,Evening
+T00409,C0138,P079,2024-12-18,4,1669.48,417.37,Wednesday,04:06:47,December,Evening,ActiveWear Rug,Home Decor,Cynthia Clayton,Asia,2024-11-01,1122.05,40.0,4.0,P079,Home Decor,Friday,Evening
+T00427,C0113,P079,2024-02-05,4,1669.48,417.37,Monday,19:46:58,February,Evening,ActiveWear Rug,Home Decor,Joseph Ortiz Jr.,South America,2022-06-17,601.5125,61.0,7.0,P078,Home Decor,Sunday,Evening
+T00575,C0196,P079,2024-12-15,4,1669.48,417.37,Sunday,03:43:35,December,Evening,ActiveWear Rug,Home Decor,Laura Watts,Europe,2022-06-07,1245.72,43.0,3.0,P079,Home Decor,Tuesday,Afternoon
+T00617,C0048,P079,2024-01-14,3,1252.11,417.37,Sunday,03:22:21,January,Evening,ActiveWear Rug,Home Decor,Matthew Park,South America,2024-11-07,770.1879999999999,54.0,5.0,P010,Electronics,Sunday,Evening
+T00626,C0199,P079,2024-08-17,2,834.74,417.37,Saturday,12:06:08,August,Afternoon,ActiveWear Rug,Home Decor,Andrea Jenkins,Europe,2022-12-03,494.82,93.0,4.0,P008,Electronics,Saturday,Afternoon
+T00656,C0065,P079,2024-09-13,1,417.37,417.37,Friday,08:28:58,September,Morning,ActiveWear Rug,Home Decor,Gerald Hines,North America,2024-07-10,766.37,45.0,10.0,P022,Home Decor,Monday,Evening
+T00713,C0135,P079,2024-01-22,2,834.74,417.37,Monday,02:25:06,January,Evening,ActiveWear Rug,Home Decor,Toni Weaver,Europe,2022-08-23,783.895,116.0,4.0,P003,Books,Thursday,Evening
+T00745,C0090,P079,2024-06-22,2,834.74,417.37,Saturday,14:35:43,June,Afternoon,ActiveWear Rug,Home Decor,Charles Hamilton,Asia,2023-10-17,591.1657142857142,138.0,7.0,P042,Books,Wednesday,Evening
+T00746,C0104,P079,2024-07-19,4,1669.48,417.37,Friday,14:35:31,July,Afternoon,ActiveWear Rug,Home Decor,Laura Bennett,South America,2022-02-10,822.3875,84.0,8.0,P006,Home Decor,Monday,Afternoon
+T00766,C0138,P079,2024-02-02,1,417.37,417.37,Friday,02:54:00,February,Evening,ActiveWear Rug,Home Decor,Cynthia Clayton,Asia,2024-11-01,1122.05,40.0,4.0,P079,Home Decor,Friday,Evening
+T00823,C0095,P079,2024-09-30,3,1252.11,417.37,Monday,10:45:06,September,Morning,ActiveWear Rug,Home Decor,William Walker,South America,2023-03-04,642.135,119.0,2.0,P056,Electronics,Monday,Afternoon
+T00908,C0089,P079,2024-02-12,4,1669.48,417.37,Monday,15:27:25,February,Afternoon,ActiveWear Rug,Home Decor,Paul Carter,Europe,2024-04-02,1278.1100000000001,55.0,2.0,P074,Home Decor,Monday,Afternoon
+T00964,C0047,P079,2024-08-05,1,417.37,417.37,Monday,13:12:14,August,Afternoon,ActiveWear Rug,Home Decor,Samantha Frank,North America,2024-03-22,410.07714285714286,157.0,7.0,P007,Books,Friday,Morning
+T00214,C0056,P024,2024-02-18,2,677.32,338.66,Sunday,05:49:59,February,Morning,SoundWave Cookbook,Books,Erika Fernandez,Asia,2024-04-12,636.588,33.0,5.0,P024,Clothing,Wednesday,Evening
+T00249,C0075,P024,2024-12-10,3,1015.98,338.66,Tuesday,21:53:30,December,Evening,SoundWave Cookbook,Books,Misty Higgins,Europe,2023-05-01,649.8855555555556,48.0,9.0,P013,Books,Friday,Evening
+T00528,C0053,P024,2024-08-28,4,1354.64,338.66,Wednesday,04:01:48,August,Evening,SoundWave Cookbook,Books,Albert Burke,Europe,2022-06-18,886.0766666666667,87.0,6.0,P006,Clothing,Friday,Evening
+T00817,C0108,P024,2024-10-02,2,677.32,338.66,Wednesday,22:07:40,October,Evening,SoundWave Cookbook,Books,David Davis,South America,2022-09-28,692.6485714285715,117.0,7.0,P011,Clothing,Wednesday,Evening
+T00847,C0004,P024,2024-10-24,1,338.66,338.66,Thursday,16:28:30,October,Afternoon,SoundWave Cookbook,Books,Kathleen Rodriguez,South America,2022-10-09,669.36,35.0,8.0,P008,Books,Monday,Morning
+T00219,C0019,P008,2024-08-22,1,146.85,146.85,Thursday,23:44:44,August,Evening,BookWorld Bluetooth Speaker,Electronics,Brandon Rodriguez,Europe,2023-01-12,364.3033333333333,80.0,6.0,P001,Books,Friday,Evening
+T00385,C0072,P008,2024-03-16,2,293.7,146.85,Saturday,16:23:59,March,Afternoon,BookWorld Bluetooth Speaker,Electronics,Sarah Scott,North America,2024-07-24,599.918,86.0,5.0,P008,Electronics,Saturday,Evening
+T00611,C0084,P008,2024-12-16,2,293.7,146.85,Monday,14:32:21,December,Afternoon,BookWorld Bluetooth Speaker,Electronics,Belinda Garner,Asia,2024-09-17,493.4555555555556,42.0,8.0,P013,Electronics,Tuesday,Morning
+T00660,C0057,P008,2024-09-23,3,440.55,146.85,Monday,16:46:01,September,Afternoon,BookWorld Bluetooth Speaker,Electronics,Elizabeth Nguyen,Europe,2024-07-27,756.0666666666666,40.0,6.0,P008,Books,Wednesday,Afternoon
+T00701,C0175,P008,2024-07-27,2,293.7,146.85,Saturday,05:05:37,July,Morning,BookWorld Bluetooth Speaker,Electronics,Matthew Johnson,Asia,2022-04-16,621.053,68.0,10.0,P008,Books,Wednesday,Evening
+T00757,C0022,P008,2024-09-03,2,293.7,146.85,Tuesday,03:11:42,September,Evening,BookWorld Bluetooth Speaker,Electronics,Teresa Esparza,Asia,2023-10-27,775.8449999999999,132.0,6.0,P008,Clothing,Tuesday,Morning
+T00781,C0182,P008,2024-05-06,1,146.85,146.85,Monday,19:24:04,May,Evening,BookWorld Bluetooth Speaker,Electronics,Joshua Preston,Europe,2024-12-28,996.1539999999999,263.0,5.0,P008,Home Decor,Monday,Evening
+T00934,C0154,P008,2024-09-19,2,293.7,146.85,Thursday,14:18:33,September,Afternoon,BookWorld Bluetooth Speaker,Electronics,Robert Sharp,North America,2024-10-27,617.2683333333333,130.0,6.0,P008,Electronics,Monday,Afternoon
+T00963,C0199,P008,2024-10-26,2,293.7,146.85,Saturday,00:01:58,October,Evening,BookWorld Bluetooth Speaker,Electronics,Andrea Jenkins,Europe,2022-12-03,494.82,93.0,4.0,P008,Electronics,Saturday,Afternoon
+T01000,C0004,P008,2024-02-28,2,293.7,146.85,Wednesday,10:16:35,February,Morning,BookWorld Bluetooth Speaker,Electronics,Kathleen Rodriguez,South America,2022-10-09,669.36,35.0,8.0,P008,Books,Monday,Morning
+T00238,C0031,P091,2024-08-11,2,445.9,222.95,Sunday,00:11:15,August,Evening,HomeSense Rug,Home Decor,Tina Miller,South America,2024-04-11,501.345,64.0,4.0,P002,Home Decor,Sunday,Evening
+T00257,C0051,P091,2024-08-10,1,222.95,222.95,Saturday,00:39:50,August,Evening,HomeSense Rug,Home Decor,Nicholas Ellis,Europe,2023-12-21,814.2242857142857,42.0,7.0,P006,Electronics,Saturday,Evening
+T00260,C0059,P091,2024-03-23,4,891.8,222.95,Saturday,08:29:57,March,Morning,HomeSense Rug,Home Decor,Mrs. Kimberly Wright,North America,2024-04-07,884.16,95.0,8.0,P019,Home Decor,Tuesday,Evening
+T00384,C0073,P091,2024-02-04,4,891.8,222.95,Sunday,15:35:27,February,Afternoon,HomeSense Rug,Home Decor,Heidi Johnson,Europe,2022-08-20,686.8466666666667,313.0,3.0,P017,Books,Monday,Afternoon
+T00646,C0036,P091,2024-01-23,3,668.85,222.95,Tuesday,12:53:51,January,Afternoon,HomeSense Rug,Home Decor,Brian Aguilar DDS,North America,2024-07-06,625.9866666666667,86.0,3.0,P001,Books,Saturday,Afternoon
+T00793,C0054,P091,2024-10-07,3,668.85,222.95,Monday,17:48:28,October,Evening,HomeSense Rug,Home Decor,Bruce Rhodes,Asia,2024-09-29,1005.0487499999999,112.0,8.0,P037,Electronics,Sunday,Afternoon
+T00798,C0015,P091,2024-09-21,3,668.85,222.95,Saturday,01:39:03,September,Evening,HomeSense Rug,Home Decor,Tina Duran,North America,2023-11-20,578.74,128.0,2.0,P032,Books,Saturday,Afternoon
+T00241,C0109,P071,2024-07-08,3,382.08,127.36,Monday,16:06:55,July,Afternoon,TechPro T-Shirt,Clothing,Abigail Jones,North America,2022-05-09,498.84090909090907,81.0,10.0,P100,Clothing,Saturday,Evening
+T00441,C0133,P071,2024-02-03,4,509.44,127.36,Saturday,08:15:00,February,Morning,TechPro T-Shirt,Clothing,Gwendolyn Carter,South America,2023-03-11,721.0825,53.0,4.0,P023,Clothing,Thursday,Evening
+T00559,C0134,P071,2024-04-28,1,127.36,127.36,Sunday,14:16:10,April,Afternoon,TechPro T-Shirt,Clothing,Theresa Gonzalez,Asia,2022-02-19,535.856,48.0,5.0,P006,Clothing,Sunday,Morning
+T00591,C0161,P071,2024-07-05,3,382.08,127.36,Friday,10:29:31,July,Morning,TechPro T-Shirt,Clothing,Jessica Warren,Asia,2022-03-14,392.72875,165.0,8.0,P007,Books,Monday,Evening
+T00675,C0002,P071,2024-12-03,2,254.72,127.36,Tuesday,01:41:41,December,Evening,TechPro T-Shirt,Clothing,Elizabeth Lutz,Asia,2022-02-13,465.685,55.0,4.0,P004,Clothing,Tuesday,Evening
+T00777,C0049,P071,2024-01-14,2,254.72,127.36,Sunday,04:59:39,January,Evening,TechPro T-Shirt,Clothing,Jason Yates,North America,2024-09-18,289.435,150.0,8.0,P027,Clothing,Monday,Evening
+T00890,C0176,P071,2024-02-02,4,509.44,127.36,Friday,14:46:36,February,Afternoon,TechPro T-Shirt,Clothing,Nicole Booth,North America,2022-03-23,777.1066666666667,204.0,3.0,P071,Clothing,Friday,Evening
+T00980,C0147,P071,2024-03-30,1,127.36,127.36,Saturday,09:01:31,March,Morning,TechPro T-Shirt,Clothing,Hunter Fuller,South America,2022-05-16,327.6044444444444,33.0,9.0,P018,Books,Saturday,Evening
+T00244,C0158,P098,2024-01-04,1,299.93,299.93,Thursday,14:19:41,January,Afternoon,SoundWave Laptop,Electronics,Wendy Browning,South America,2023-04-12,929.13,137.0,4.0,P021,Home Decor,Thursday,Afternoon
+T00302,C0051,P098,2024-07-23,1,299.93,299.93,Tuesday,12:30:30,July,Afternoon,SoundWave Laptop,Electronics,Nicholas Ellis,Europe,2023-12-21,814.2242857142857,42.0,7.0,P006,Electronics,Saturday,Evening
+T00412,C0126,P098,2024-11-08,2,599.86,299.93,Friday,14:50:40,November,Afternoon,SoundWave Laptop,Electronics,Caitlin Brown,South America,2024-02-20,760.9283333333333,60.0,6.0,P032,Books,Thursday,Evening
+T00543,C0127,P098,2024-09-20,3,899.79,299.93,Friday,08:12:56,September,Morning,SoundWave Laptop,Electronics,Kathryn Stevens,Europe,2024-04-04,538.8133333333334,129.0,6.0,P028,Electronics,Thursday,Morning
+T00654,C0054,P098,2024-07-07,4,1199.72,299.93,Sunday,12:28:18,July,Afternoon,SoundWave Laptop,Electronics,Bruce Rhodes,Asia,2024-09-29,1005.0487499999999,112.0,8.0,P037,Electronics,Sunday,Afternoon
+T00849,C0115,P098,2024-01-31,2,599.86,299.93,Wednesday,09:08:09,January,Morning,SoundWave Laptop,Electronics,Joshua Hamilton,Asia,2024-11-11,1045.7266666666667,36.0,3.0,P037,Electronics,Sunday,Morning
+T00978,C0041,P098,2024-12-15,3,899.79,299.93,Sunday,21:18:12,December,Evening,SoundWave Laptop,Electronics,Lindsey Deleon,Europe,2023-12-27,878.54,43.0,7.0,P011,Books,Sunday,Evening
+T00253,C0155,P026,2024-11-11,4,257.52,64.38,Monday,03:36:18,November,Evening,SoundWave Bluetooth Speaker,Electronics,Michelle Brown,South America,2023-03-23,768.2614285714286,77.0,7.0,P026,Books,Wednesday,Evening
+T00290,C0162,P026,2024-01-29,4,257.52,64.38,Monday,11:31:41,January,Morning,SoundWave Bluetooth Speaker,Electronics,Edwin Watson,Asia,2022-03-29,600.28,71.0,8.0,P009,Electronics,Monday,Evening
+T00338,C0091,P026,2024-05-28,2,128.76,64.38,Tuesday,17:40:20,May,Evening,SoundWave Bluetooth Speaker,Electronics,Lisa Kirk,South America,2023-03-16,522.9433333333333,167.0,5.0,P026,Electronics,Tuesday,Evening
+T00557,C0008,P026,2024-03-11,2,128.76,64.38,Monday,03:22:29,March,Evening,SoundWave Bluetooth Speaker,Electronics,David Li,North America,2024-01-13,427.16099999999994,41.0,10.0,P004,Home Decor,Monday,Evening
+T00562,C0121,P026,2024-07-06,1,64.38,64.38,Saturday,11:32:13,July,Morning,SoundWave Bluetooth Speaker,Electronics,Mark Atkinson,Europe,2023-07-23,243.63,122.0,4.0,P022,Books,Friday,Evening
+T00578,C0143,P026,2024-03-30,3,193.14,64.38,Saturday,23:37:50,March,Evening,SoundWave Bluetooth Speaker,Electronics,Brian Parker,Asia,2024-05-27,863.5185714285715,40.0,6.0,P094,Clothing,Wednesday,Evening
+T00927,C0091,P026,2024-04-22,3,193.14,64.38,Monday,18:28:54,April,Evening,SoundWave Bluetooth Speaker,Electronics,Lisa Kirk,South America,2023-03-16,522.9433333333333,167.0,5.0,P026,Electronics,Tuesday,Evening
+T00307,C0044,P045,2024-05-30,4,1927.12,481.78,Thursday,18:15:28,May,Evening,SoundWave T-Shirt,Clothing,Kenneth Alexander,Europe,2024-07-10,1076.7033333333331,97.0,3.0,P045,Books,Thursday,Evening
+T00502,C0181,P045,2024-04-12,1,481.78,481.78,Friday,14:44:42,April,Afternoon,SoundWave T-Shirt,Clothing,Alexander Barker,South America,2023-11-16,557.9333333333334,31.0,6.0,P002,Electronics,Friday,Evening
+T00598,C0149,P045,2024-05-24,2,963.56,481.78,Friday,09:32:01,May,Morning,SoundWave T-Shirt,Clothing,Tina Wilson,Europe,2023-01-21,880.9559999999999,151.0,5.0,P012,Clothing,Tuesday,Afternoon
+T00621,C0099,P045,2024-04-19,2,963.56,481.78,Friday,05:04:38,April,Morning,SoundWave T-Shirt,Clothing,Rodney Eaton,South America,2023-01-29,839.465,35.0,8.0,P005,Clothing,Friday,Evening
+T00625,C0124,P045,2024-07-02,2,963.56,481.78,Tuesday,09:34:25,July,Morning,SoundWave T-Shirt,Clothing,Lindsay Perez,Europe,2024-08-26,609.1899999999999,112.0,7.0,P006,Home Decor,Saturday,Afternoon
+T00663,C0054,P045,2024-04-23,3,1445.34,481.78,Tuesday,11:07:18,April,Morning,SoundWave T-Shirt,Clothing,Bruce Rhodes,Asia,2024-09-29,1005.0487499999999,112.0,8.0,P037,Electronics,Sunday,Afternoon
+T00734,C0132,P045,2024-09-29,2,963.56,481.78,Sunday,16:20:32,September,Afternoon,SoundWave T-Shirt,Clothing,Lisa Jackson,Europe,2023-02-01,617.0866666666666,52.0,2.0,P049,Books,Sunday,Afternoon
+T00947,C0022,P045,2024-08-11,2,963.56,481.78,Sunday,12:13:35,August,Afternoon,SoundWave T-Shirt,Clothing,Teresa Esparza,Asia,2023-10-27,775.8449999999999,132.0,6.0,P008,Clothing,Tuesday,Morning
+T00318,C0098,P046,2024-01-09,1,366.07,366.07,Tuesday,16:35:54,January,Afternoon,BookWorld Sweater,Clothing,Laura Gilbert,North America,2024-10-21,394.7525,35.0,8.0,P021,Clothing,Tuesday,Evening
+T00380,C0135,P046,2024-01-04,4,1464.28,366.07,Thursday,16:40:50,January,Afternoon,BookWorld Sweater,Clothing,Toni Weaver,Europe,2022-08-23,783.895,116.0,4.0,P003,Books,Thursday,Evening
+T00464,C0188,P046,2024-05-16,2,732.14,366.07,Thursday,11:23:37,May,Morning,BookWorld Sweater,Clothing,Anna Ball,South America,2022-05-17,888.9150000000001,32.0,7.0,P057,Electronics,Friday,Morning
+T00500,C0145,P046,2024-06-17,3,1098.21,366.07,Monday,14:12:01,June,Afternoon,BookWorld Sweater,Clothing,Wayne Stone,Asia,2023-01-13,721.40875,62.0,7.0,P080,Clothing,Monday,Morning
+T00603,C0108,P046,2024-05-15,3,1098.21,366.07,Wednesday,16:06:03,May,Afternoon,BookWorld Sweater,Clothing,David Davis,South America,2022-09-28,692.6485714285715,117.0,7.0,P011,Clothing,Wednesday,Evening
+T00769,C0011,P046,2024-02-06,4,1464.28,366.07,Tuesday,14:46:43,February,Afternoon,BookWorld Sweater,Clothing,Bryan Mathews,South America,2022-12-12,746.0,32.0,5.0,P017,Books,Saturday,Evening
+T00900,C0173,P046,2024-09-01,4,1464.28,366.07,Sunday,18:30:22,September,Evening,BookWorld Sweater,Clothing,Francisco Young,Asia,2022-10-06,726.005,148.0,8.0,P004,Books,Friday,Afternoon
+T00943,C0133,P046,2024-01-01,1,366.07,366.07,Monday,10:21:22,January,Morning,BookWorld Sweater,Clothing,Gwendolyn Carter,South America,2023-03-11,721.0825,53.0,4.0,P023,Clothing,Thursday,Evening
+T00379,C0004,P077,2024-12-23,4,1062.04,265.51,Monday,14:13:52,December,Afternoon,ActiveWear Smartwatch,Electronics,Kathleen Rodriguez,South America,2022-10-09,669.36,35.0,8.0,P008,Books,Monday,Morning
+T00418,C0184,P077,2024-01-03,2,531.02,265.51,Wednesday,02:43:36,January,Evening,ActiveWear Smartwatch,Electronics,Tina Jacobs,South America,2022-05-13,484.74000000000007,141.0,6.0,P087,Electronics,Sunday,Afternoon
+T00549,C0093,P077,2024-09-16,2,531.02,265.51,Monday,02:11:37,September,Evening,ActiveWear Smartwatch,Electronics,Nancy Walker,Asia,2024-07-13,588.3322222222222,133.0,8.0,P076,Clothing,Monday,Evening
+T00624,C0105,P077,2024-08-03,4,1062.04,265.51,Saturday,23:04:47,August,Evening,ActiveWear Smartwatch,Electronics,Ryan Hampton,Europe,2024-11-11,801.2416666666667,146.0,6.0,P001,Electronics,Monday,Morning
+T00778,C0175,P077,2024-07-18,4,1062.04,265.51,Thursday,11:21:41,July,Morning,ActiveWear Smartwatch,Electronics,Matthew Johnson,Asia,2022-04-16,621.053,68.0,10.0,P008,Books,Wednesday,Evening
+T00920,C0090,P077,2024-04-26,1,265.51,265.51,Friday,11:22:42,April,Morning,ActiveWear Smartwatch,Electronics,Charles Hamilton,Asia,2023-10-17,591.1657142857142,138.0,7.0,P042,Books,Wednesday,Evening
+T00396,C0067,P037,2024-04-14,2,919.72,459.86,Sunday,14:12:54,April,Afternoon,SoundWave Smartwatch,Electronics,Carl Gonzalez,North America,2023-07-06,681.8066666666667,102.0,6.0,P002,Clothing,Thursday,Evening
+T00408,C0054,P037,2024-08-15,2,919.72,459.86,Thursday,03:03:51,August,Evening,SoundWave Smartwatch,Electronics,Bruce Rhodes,Asia,2024-09-29,1005.0487499999999,112.0,8.0,P037,Electronics,Sunday,Afternoon
+T00496,C0118,P037,2024-10-24,1,459.86,459.86,Thursday,08:30:27,October,Morning,SoundWave Smartwatch,Electronics,Jacob Holt,South America,2022-01-22,572.4616666666667,40.0,6.0,P013,Books,Saturday,Afternoon
+T00759,C0059,P037,2024-06-04,3,1379.58,459.86,Tuesday,02:15:24,June,Evening,SoundWave Smartwatch,Electronics,Mrs. Kimberly Wright,North America,2024-04-07,884.16,95.0,8.0,P019,Home Decor,Tuesday,Evening
+T00922,C0018,P037,2024-04-05,4,1839.44,459.86,Friday,13:05:32,April,Afternoon,SoundWave Smartwatch,Electronics,Tyler Haynes,North America,2024-09-21,956.3700000000001,177.0,5.0,P027,Books,Friday,Evening
+T00959,C0115,P037,2024-09-29,2,919.72,459.86,Sunday,10:16:02,September,Morning,SoundWave Smartwatch,Electronics,Joshua Hamilton,Asia,2024-11-11,1045.7266666666667,36.0,3.0,P037,Electronics,Sunday,Morning
+T00992,C0024,P037,2024-04-21,1,459.86,459.86,Sunday,10:52:24,April,Morning,SoundWave Smartwatch,Electronics,Michele Cooley,North America,2024-02-05,518.1457142857142,125.0,7.0,P001,Books,Sunday,Evening
